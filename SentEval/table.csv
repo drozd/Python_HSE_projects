@@ -1,0 +1,4362 @@
+term,category,mark,sentiment,type
+ресторане,Whole,Rel,neutral,explicit
+ресторанах,Whole,Cmpr,neutral,explicit
+ресторане,Whole,Rel,neutral,explicit
+Столик бронировали,Service,Rel,neutral,explicit
+сделали так как предложил администратор,Service,Rel,positive,fct
+администратор,Service,Rel,positive,explicit
+предварительный заказ,Service,Rel,positive,explicit
+ресторан,Whole,Rel,neutral,explicit
+ресторане,Whole,Rel,neutral,explicit
+горячее блюдо,Food,Irr,neutral,explicit
+ждать весьма долго,Service,Irr,negative,fct
+Меню,Food,Rel,positive,explicit
+вкусное,Food,Rel,positive,implicit
+Обслуживание,Service,Rel,both,explicit
+официанты,Service,Rel,positive,explicit
+официанты делали всё что нужно,Service,Rel,positive,fct
+Интерьер,Interior,Rel,positive,explicit
+диваны,Interior,Rel,positive,explicit
+музыкальная программа,Interior,Rel,positive,explicit
+ведущий,Interior,Rel,positive,explicit
+ресторан,Whole,Rel,positive,explicit
+уютный,Interior,Rel,positive,implicit
+кухня,Food,Rel,positive,explicit
+Руководству,Whole,Rel,positive,explicit
+персоналу,Service,Rel,positive,explicit
+ресторане,Whole,Rel,neutral,explicit
+первом этаже,Interior,Rel,neutral,explicit
+руководству ресторана,Whole,Rel,positive,explicit
+обслуживающему персоналу,Service,Rel,positive,explicit
+сотрудникам,Service,Rel,positive,explicit
+вкусные,Food,Rel,positive,implicit
+блюда,Food,Rel,positive,explicit
+интерьер,Interior,Rel,positive,explicit
+уютно,Interior,Rel,positive,implicit
+красиво,Interior,Rel,positive,implicit
+Стол,Food,Rel,positive,explicit
+обслуживал,Service,Rel,positive,explicit
+официант,Service,Rel,positive,explicit
+ресторана,Whole,Rel,positive,explicit
+цены,Price,Rel,positive,explicit
+цены не высокие,Price,Rel,positive,fct
+заведение,Whole,Rel,neutral,explicit
+интерьер,Interior,Rel,negative,explicit
+Встреча гостей,Service,Rel,negative,explicit
+ресторане,Whole,Rel,neutral,explicit
+стояли ждали,Service,Rel,negative,fct
+официантов,Service,Rel,neutral,explicit
+девушке-официанту,Service,Rel,neutral,explicit
+посадить нас за столик,Service,Rel,neutral,explicit
+Провели,Service,Rel,positive,explicit
+Усадили,Service,Rel,positive,explicit
+Заказ принимали,Service,Rel,positive,explicit
+еду приносили,Service,Rel,positive,explicit
+убирали,Service,Rel,positive,explicit
+еда,Food,Rel,positive,explicit
+заведения,Whole,Rel,neutral,explicit
+ничего особенного и не предлагают,Food,Rel,negative,fct
+Персонал,Service,Rel,positive,explicit
+улыбчивый,Service,Rel,positive,implicit
+приветливый,Service,Rel,positive,implicit
+Сырная тарелка,Food,Rel,negative,explicit
+сыра,Food,Cmpr,neutral,explicit
+Салат цезарь,Food,Rel,negative,explicit
+капусты,Food,Rel,neutral,explicit
+курицы,Food,Rel,neutral,explicit
+сухарики,Food,Rel,neutral,explicit
+соус,Food,Rel,neutral,explicit
+блюд,Food,Rel,positive,explicit
+соотношение цена-качество,Price,Rel,positive,explicit
+место,Whole,Rel,positive,explicit
+ресторана &quot;Крапива&quot;,Whole,Rel,neutral,explicit
+рестораном,Whole,Rel,positive,explicit
+интерьер,Interior,Rel,positive,explicit
+приятный,Service,Rel,positive,implicit
+воспитанный,Service,Rel,positive,implicit
+администратор,Service,Rel,positive,explicit
+помогала,Service,Rel,positive,implicit
+меню,Food,Rel,neutral,explicit
+обслуживании,Service,Rel,positive,explicit
+официанты,Service,Rel,positive,explicit
+внимательно,Service,Rel,positive,implicit
+смотрели за столом,Service,Rel,positive,explicit
+не было пустых тарелок,Service,Rel,positive,fct
+не навязчиво,Service,Rel,positive,implicit
+молодой человек,Service,Rel,positive,explicit
+ресторан,Whole,Rel,positive,explicit
+атмосфера,Interior,Rel,positive,explicit
+приятное,Interior,Rel,positive,implicit
+заведение,Whole,Rel,positive,explicit
+&quot;Крапивы&quot;,Whole,Rel,positive,explicit
+кафе,Whole,Rel,neutral,explicit
+поварам,Service,Rel,positive,explicit
+вкусные,Food,Rel,positive,implicit
+блюда,Food,Rel,positive,explicit
+бивштексы,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+Готовят очень быстро,Service,Rel,positive,fct
+мастера своего дела,Service,Rel,positive,fct
+обслуживание,Service,Rel,positive,explicit
+атмосферу,Interior,Rel,positive,explicit
+гостеприимных,Service,Rel,positive,implicit
+официантов,Service,Rel,positive,explicit
+уютное,Interior,Rel,positive,implicit
+место,Whole,Rel,positive,explicit
+кухней,Food,Rel,positive,explicit
+доброжелательным,Service,Rel,positive,implicit
+персоналом,Service,Rel,positive,explicit
+заведении,Whole,Rel,neutral,explicit
+сервисом,Service,Rel,positive,explicit
+Встретила,Service,Rel,positive,explicit
+девушка,Service,Rel,positive,explicit
+проводила до нашего столика,Service,Rel,positive,fct
+персонал,Service,Rel,positive,explicit
+улыбался,Service,Rel,positive,implicit
+здоровался,Service,Rel,positive,implicit
+официант,Service,Rel,positive,explicit
+утку по-пекински,Food,Rel,neutral,explicit
+салата,Food,Rel,neutral,explicit
+свинину в кисло-сладком соусе,Food,Rel,neutral,explicit
+свинину,Food,Rel,neutral,explicit
+кальян,Food,Rel,neutral,explicit
+вина,Food,Rel,neutral,explicit
+десерт,Food,Rel,neutral,explicit
+Утка,Food,Rel,negative,explicit
+Утка оказалась очень маленькой,Food,Rel,negative,fct
+объедятся,Food,Irr,positive,explicit
+вкусно,Food,Rel,positive,implicit
+Свинина,Food,Rel,negative,explicit
+ресторанах,Whole,Cmpr,positive,explicit
+вкуснее,Food,Cmpr,positive,implicit
+ресторан,Whole,Rel,negative,explicit
+не из дешевых,Price,Rel,negative,implicit
+цены,Price,Rel,negative,explicit
+меню,Food,Cmpr,negative,explicit
+порции,Food,Rel,negative,explicit
+впечатление,Whole,Rel,both,explicit
+обслуживание,Service,Rel,positive,explicit
+вкусной,Food,Irr,positive,implicit
+еды,Food,Irr,positive,explicit
+пабе,Whole,Rel,positive,explicit
+место,Whole,Rel,positive,explicit
+интерьер,Interior,Rel,positive,explicit
+комфортный,Interior,Rel,positive,implicit
+Атмосфера,Interior,Rel,positive,explicit
+обслуживания,Service,Rel,positive,explicit
+официант,Service,Rel,neutral,explicit
+принес меню,Service,Rel,neutral,explicit
+выбор пива,Food,Rel,positive,explicit
+алкоголя,Food,Rel,positive,explicit
+закусок,Food,Rel,positive,explicit
+блюд,Food,Rel,positive,explicit
+меню,Food,Rel,positive,explicit
+пабе,Whole,Rel,neutral,explicit
+забывчивость,Service,Rel,negative,implicit
+официантки,Service,Rel,negative,explicit
+дождался,Service,Rel,negative,implicit
+после третьей просьбы,Service,Rel,negative,fct
+вежливым,Service,Rel,positive,implicit
+обслуживанием,Service,Rel,positive,explicit
+пиво,Food,Rel,positive,explicit
+наивкуснейшее,Food,Rel,positive,implicit
+Коктейли,Food,Rel,positive,explicit
+гренкам,Food,Rel,positive,explicit
+стейку,Food,Rel,positive,explicit
+цезаре,Food,Rel,negative,explicit
+приправ,Food,Rel,negative,explicit
+суши,Food,Rel,negative,explicit
+блюдо,Food,Cmpr,neutral,explicit
+ждать счет,Service,Rel,negative,explicit
+сдачу ждали,Service,Rel,negative,explicit
+ценам,Price,Rel,positive,explicit
+заведений,Whole,Cmpr,neutral,explicit
+не завышенные,Price,Rel,positive,implicit
+меню,Food,Rel,neutral,explicit
+салат с рыбой,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+холодные закуски,Food,Rel,positive,explicit
+горЯчее,Food,Rel,positive,explicit
+кухня,Food,Rel,positive,explicit
+уютный,Interior,Rel,positive,implicit
+интерьер,Interior,Rel,positive,explicit
+музыка,Interior,Rel,positive,explicit
+Персонал,Service,Rel,positive,explicit
+приветливый,Service,Rel,positive,implicit
+администратор,Service,Rel,positive,explicit
+официанты,Service,Rel,positive,explicit
+сервис,Service,Rel,positive,explicit
+ничего не напрягало,Service,Rel,positive,fct
+ресторан,Whole,Rel,positive,explicit
+заказали столик,Service,Rel,neutral,explicit
+посадили,Service,Rel,negative,explicit
+Официанты,Service,Rel,positive,explicit
+не навязчивые,Service,Rel,positive,implicit
+сервис,Service,Rel,positive,explicit
+кухни,Food,Rel,negative,explicit
+мясо,Food,Rel,neutral,explicit
+ждали минут30,Service,Rel,negative,fct
+интерьер,Interior,Rel,positive,explicit
+персонал,Service,Rel,positive,explicit
+кухня,Food,Rel,negative,explicit
+не вкусная,Food,Rel,negative,implicit
+ресторанчик,Whole,Rel,positive,explicit
+не кормили по-настоящему,Food,Cmpr,negative,fct
+&quot;Квартиру №55&quot;,Whole,Rel,positive,explicit
+Накормили,Food,Rel,positive,explicit
+напоили,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+сервис,Service,Cmpr,neutral,explicit
+обслуживание,Service,Cmpr,neutral,explicit
+не &quot;обслуживали&quot;,Service,Irr,negative,explicit
+радушно,Service,Rel,positive,implicit
+встречали,Service,Rel,positive,explicit
+по-домашнему,Service,Rel,positive,implicit
+Помогли с заказом,Service,Rel,positive,explicit
+посоветовали,Service,Rel,positive,explicit
+недорогое,Price,Rel,positive,implicit
+вино,Food,Rel,positive,explicit
+заказ принесли не быстро,Service,Rel,negative,fct
+ресторане,Whole,Rel,neutral,explicit
+занято всего 2 столика,Interior,Rel,positive,fct
+пили,Food,Rel,neutral,explicit
+чай,Food,Rel,neutral,explicit
+Салаты,Food,Rel,neutral,explicit
+готовили минут 20,Service,Rel,negative,fct
+ждали горячее,Service,Rel,negative,fct
+горячее,Food,Rel,neutral,explicit
+вина,Food,Rel,neutral,explicit
+пожарские котлеты,Food,Rel,positive,explicit
+тушеная телятина,Food,Rel,positive,explicit
+буженину на гриле,Food,Rel,positive,explicit
+Салаты,Food,Rel,neutral,explicit
+сытные,Food,Rel,positive,implicit
+вкусные,Food,Rel,positive,implicit
+Порции,Food,Rel,neutral,explicit
+наелись,Food,Rel,positive,implicit
+десерту,Food,Irr,neutral,explicit
+официант,Service,Rel,neutral,explicit
+десерты,Food,Irr,positive,explicit
+квартиру,Whole,Rel,positive,explicit
+персоналу,Service,Rel,positive,explicit
+ресторана,Whole,Rel,positive,explicit
+ужин,Food,Rel,positive,explicit
+Суп-вино,Whole,Rel,neutral,explicit
+Столик бронировали,Service,Rel,neutral,explicit
+ресторанах,Whole,Cmpr,neutral,explicit
+Интерьер,Interior,Rel,positive,explicit
+ненавязчивый,Interior,Rel,positive,implicit
+уютный,Interior,Rel,positive,implicit
+столики,Interior,Rel,positive,explicit
+удобны,Interior,Rel,positive,implicit
+музыка,Interior,Rel,positive,explicit
+Меню,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+цене,Price,Rel,positive,explicit
+готовится,Food,Rel,positive,implicit
+быстро,Service,Rel,positive,implicit
+обслуживание,Service,Prev,negative,explicit
+обслуживал,Service,Rel,positive,explicit
+молодой человек,Service,Rel,positive,explicit
+вежливый,Service,Rel,positive,implicit
+с чувством юмора,Service,Rel,positive,implicit
+Блюда менялись незаметно,Service,Rel,positive,fct
+Блюда,Food,Rel,neutral,explicit
+напитки принесли сразу,Service,Rel,positive,fct
+напитки,Food,Rel,neutral,explicit
+заведение,Whole,Rel,neutral,explicit
+нет свободных столиков,Interior,Rel,negative,fct
+официант все нашел нам подходящий стол,Service,Rel,positive,fct
+официант,Service,Rel,positive,explicit
+заведение,Whole,Rel,positive,explicit
+обстановка,Interior,Rel,positive,explicit
+интерьер,Interior,Rel,positive,explicit
+меню,Food,Rel,positive,explicit
+быстро,Service,Rel,positive,implicit
+обслуживание,Service,Rel,positive,explicit
+огромное количество людей,Interior,Rel,negative,fct
+атмосфера,Interior,Rel,positive,explicit
+играли диджеи,Interior,Rel,positive,fct
+большой выбор еды,Food,Rel,positive,fct
+еды,Food,Rel,positive,explicit
+алкогольных напитков,Food,Rel,positive,explicit
+алкоголя,Food,Rel,neutral,explicit
+выпито,Food,Rel,neutral,explicit
+музыка,Interior,Rel,negative,explicit
+отсутствие подсветки над столом,Interior,Rel,negative,fct
+подсвечивать меню телефоном,Interior,Rel,negative,fct
+заведении,Whole,Rel,negative,explicit
+не оказалось место для гардероба,Interior,Rel,negative,fct
+депозит 5 тыс,Price,Rel,positive,explicit
+заведением,Whole,Rel,positive,explicit
+официанта,Service,Rel,positive,explicit
+скидкой,Price,Prev,positive,implicit
+места,Whole,Cmpr,neutral,explicit
+рестораны,Whole,Cmpr,neutral,explicit
+ресторан,Whole,Rel,neutral,explicit
+Интерьер,Interior,Rel,positive,explicit
+уютный,Interior,Rel,positive,implicit
+пиццу,Food,Rel,neutral,explicit
+пахнет кухней,Interior,Prev,negative,fct
+пицца,Food,Rel,positive,explicit
+ресторанах,Whole,Cmpr,neutral,explicit
+тирамису,Food,Cmpr,neutral,explicit
+хлебную козинку,Food,Cmpr,neutral,explicit
+туалет,Interior,Cmpr,neutral,explicit
+заведению,Whole,Cmpr,neutral,explicit
+Хлеб,Food,Cmpr,positive,explicit
+свежий,Food,Cmpr,positive,implicit
+тираму,Food,Cmpr,positive,explicit
+таять во рту,Food,Cmpr,positive,implicit
+десерт,Food,Rel,positive,explicit
+Официантка,Service,Rel,positive,explicit
+вежливая,Service,Rel,positive,implicit
+Напитки принесла быстро,Service,Rel,positive,fct
+Напитки,Food,Rel,neutral,explicit
+еду совсем не пришлось ждать,Service,Rel,positive,fct
+еду,Food,Rel,neutral,explicit
+атмосферу,Interior,Rel,positive,explicit
+угощения,Food,Rel,positive,explicit
+придем еще,Whole,Rel,positive,fct
+отношения,Service,Rel,negative,explicit
+ресторанах,Whole,Cmpr,neutral,explicit
+забронированный столик оказался занят,Service,Rel,negative,fct
+не поздоровались,Service,Rel,negative,fct
+предложили другой столик,Service,Rel,negative,fct
+на весь ресторан работал один официант,Service,Rel,negative,fct
+официант,Service,Rel,negative,explicit
+блюда мы ждали час,Service,Rel,negative,fct
+подали в течение 15 минут,Service,Cmpr,positive,fct
+бронировала столик,Service,Rel,neutral,explicit
+обстановка,Interior,Rel,positive,explicit
+интерьер,Interior,Rel,positive,explicit
+еда,Food,Rel,positive,explicit
+вкусная,Food,Rel,positive,implicit
+обслуживание,Service,Rel,negative,explicit
+ресторан,Whole,Rel,neutral,explicit
+интерьер,Interior,Rel,positive,explicit
+свет,Interior,Rel,positive,explicit
+музыка,Interior,Rel,positive,explicit
+Большой выбор,Food,Rel,positive,fct
+блюд,Food,Rel,positive,explicit
+обслужили,Service,Rel,positive,explicit
+Сразу же подали напитки,Service,Rel,positive,fct
+напитки,Food,Rel,neutral,explicit
+немногим позже принесли салаты,Service,Rel,positive,fct
+салаты,Food,Rel,neutral,explicit
+`не успели мы доесть, как стали подавать горячее`,Service,Rel,positive,fct
+горячее,Food,Rel,neutral,explicit
+вино подали сразу,Service,Rel,positive,fct
+вино,Food,Rel,positive,explicit
+кухня,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+блюда,Food,Rel,positive,explicit
+Поварам,Food,Rel,positive,explicit
+Поели,Food,Rel,positive,explicit
+счет,Price,Rel,positive,explicit
+салаты,Food,Rel,neutral,explicit
+блюд с баклажанами,Food,Rel,neutral,explicit
+тофу,Food,Rel,neutral,explicit
+утку,Food,Rel,neutral,explicit
+рыбу,Food,Irr,neutral,explicit
+мяса,Food,Rel,neutral,explicit
+алкоголь,Food,Rel,neutral,explicit
+обошлось в три с копейками,Price,Rel,positive,fct
+порции,Food,Rel,positive,explicit
+в зале курят,Interior,Rel,negative,fct
+туалеты,Interior,Rel,negative,explicit
+чисто,Interior,Rel,positive,implicit
+не опрятно,Interior,Rel,negative,implicit
+заведении,Whole,Rel,neutral,explicit
+Заведение,Whole,Rel,positive,explicit
+уютное,Interior,Rel,positive,implicit
+уютнее,Interior,Rel,positive,implicit
+встретили,Service,Rel,positive,explicit
+гардеробщику-официанту-бармену,Service,Rel,positive,explicit
+симпатичному,Service,Rel,positive,implicit
+дружелюбному,Service,Rel,positive,implicit
+афроамериканцу,Service,Rel,positive,explicit
+роллы,Food,Rel,positive,explicit
+готовили,Food,Rel,positive,explicit
+вкусные,Food,Rel,positive,implicit
+запеченные,Food,Rel,positive,explicit
+филадельфия,Food,Rel,positive,explicit
+роллов,Food,Rel,negative,explicit
+Ценник,Price,Rel,negative,explicit
+заведении,Whole,Rel,negative,explicit
+роллы,Food,Rel,both,explicit
+большой выбор,Food,Rel,positive,fct
+суши,Food,Rel,positive,explicit
+роллов,Food,Rel,positive,explicit
+салатов,Food,Rel,positive,explicit
+супов,Food,Rel,positive,explicit
+горячих блюд,Food,Irr,positive,explicit
+больше не пойду,Whole,Rel,negative,fct
+места,Whole,Cmpr,positive,explicit
+суши готовят,Food,Cmpr,positive,explicit
+тщательнее,Food,Cmpr,positive,implicit
+заведение,Whole,Rel,positive,explicit
+втором этаже,Interior,Rel,neutral,explicit
+официанта,Service,Rel,negative,explicit
+Сходили сами,Service,Rel,negative,fct
+пледы,Service,Rel,negative,explicit
+Чай,Food,Rel,neutral,explicit
+принесли,Service,Rel,negative,explicit
+салат,Food,Rel,neutral,explicit
+принесли,Service,Rel,negative,explicit
+горячее,Food,Rel,neutral,explicit
+`кто из друзей ел, а кто-то просто ждал`,Service,Rel,negative,fct
+блюдо,Food,Rel,neutral,explicit
+заказа,Service,Rel,negative,explicit
+`овощи, приготовленные на углях`,Food,Rel,negative,explicit
+Порции,Food,Rel,negative,explicit
+такой порцией и ребенка не накормишь,Service,Rel,negative,fct
+романтического,Interior,Irr,positive,implicit
+Макарену,Whole,Rel,positive,explicit
+Меню,Food,Rel,positive,explicit
+блюда,Food,Rel,positive,explicit
+Коктейли,Food,Rel,positive,explicit
+вкусные,Food,Rel,positive,implicit
+есть из чего выбрать,Food,Rel,positive,fct
+салаты из языка и морепродуктов,Food,Rel,neutral,explicit
+паэлью с курицей и кроликом,Food,Rel,neutral,explicit
+вкусно,Food,Rel,positive,implicit
+сытно,Food,Rel,positive,implicit
+порции,Food,Rel,positive,explicit
+порции большие,Food,Rel,positive,fct
+объелись,Food,Rel,positive,implicit
+кальян,Food,Rel,positive,explicit
+кальянщик,Service,Rel,positive,explicit
+приветливый,Service,Rel,positive,implicit
+интерьер,Interior,Rel,positive,explicit
+Музыка,Interior,Rel,positive,explicit
+не давит громкостью,Interior,Rel,positive,fct
+уютную,Interior,Rel,positive,implicit
+романтичную,Interior,Rel,positive,implicit
+атмосферу,Interior,Rel,positive,explicit
+Персонал,Service,Rel,positive,explicit
+дружелюбный,Service,Rel,positive,implicit
+улыбаются,Service,Rel,positive,implicit
+убирают со стола,Service,Rel,positive,fct
+накопительную скидку,Service,Rel,positive,explicit
+вечер,Whole,Rel,positive,explicit
+народу будет много,Interior,Prev,negative,fct
+заказали столик,Service,Rel,neutral,explicit
+Народу действительно было много,Interior,Rel,negative,fct
+Ресторан,Whole,Rel,neutral,explicit
+много места,Interior,Rel,positive,fct
+Интерьер,Interior,Rel,negative,explicit
+накурено,Interior,Rel,negative,fct
+кондиционеров,Interior,Rel,negative,explicit
+детская комната,Service,Rel,neutral,explicit
+салат Дор-брю,Food,Rel,positive,explicit
+помидоры,Food,Rel,positive,explicit
+огурцы,Food,Rel,positive,explicit
+перец,Food,Rel,positive,explicit
+свежие сырые шампиньоны,Food,Rel,positive,explicit
+сыр Дор-брю,Food,Rel,positive,explicit
+масло,Food,Rel,positive,explicit
+Фирменное блюдо колбаски к пиву,Food,Rel,positive,explicit
+фирменное блюдо,Food,Rel,both,explicit
+Горячее,Food,Rel,both,explicit
+Громко играет музыка,Interior,Rel,negative,fct
+музыка,Interior,Rel,negative,explicit
+офицанток,Service,Rel,negative,explicit
+неслышат,Service,Rel,negative,fct
+Девушка офицантка,Service,Rel,negative,explicit
+пиво с колбасками,Food,Rel,positive,explicit
+покушать,Food,Rel,neutral,explicit
+выпить,Food,Rel,neutral,explicit
+заведении,Whole,Prev,positive,explicit
+заказали столик,Service,Rel,neutral,explicit
+администратор,Service,Rel,positive,explicit
+дружелюбно,Service,Rel,positive,implicit
+встретил,Service,Rel,positive,explicit
+подали меню,Service,Rel,positive,explicit
+заведениях,Whole,Cmpr,negative,explicit
+скоплением народа,Interior,Cmpr,negative,fct
+долго ждать,Service,Cmpr,negative,fct
+Выбор пива,Food,Rel,negative,explicit
+пива,Food,Rel,negative,explicit
+темного,Food,Rel,negative,explicit
+официант,Service,Rel,positive,explicit
+не растерялся,Service,Rel,positive,fct
+коктейли,Food,Rel,neutral,explicit
+Бармену,Service,Rel,positive,explicit
+Заказали,Service,Rel,neutral,explicit
+покушать,Food,Rel,neutral,explicit
+Кухня,Food,Rel,positive,explicit
+Большой бургер - Амстердам,Food,Rel,positive,explicit
+блюдо,Food,Rel,positive,explicit
+кухня,Food,Rel,positive,explicit
+ди-джей,Interior,Rel,positive,explicit
+караоке,Interior,Rel,positive,explicit
+персонал,Service,Rel,positive,explicit
+обслуживание,Service,Rel,positive,explicit
+администратор,Service,Rel,positive,explicit
+официантам,Service,Rel,neutral,explicit
+администратор,Service,Rel,positive,explicit
+принимает заказ,Service,Rel,positive,explicit
+забирает пустую посуду,Service,Rel,positive,fct
+меняет пепельницы,Service,Rel,positive,fct
+ребята,Service,Rel,positive,explicit
+сытым,Food,Rel,positive,implicit
+прием,Service,Rel,positive,explicit
+кафе,Whole,Rel,positive,explicit
+вкусная,Food,Rel,positive,implicit
+еда,Food,Rel,positive,explicit
+блюда,Food,Rel,positive,explicit
+обстановка,Interior,Rel,positive,explicit
+администратор,Service,Rel,positive,explicit
+уютное,Interior,Rel,positive,implicit
+кафе,Whole,Rel,positive,explicit
+цены,Price,Rel,positive,explicit
+вкусные,Food,Rel,positive,implicit
+хачапури с сыром,Food,Rel,positive,explicit
+вкусный,Food,Rel,positive,implicit
+лосось,Food,Rel,positive,explicit
+кусок,Food,Rel,positive,explicit
+сытный,Food,Rel,positive,implicit
+вкусной,Food,Rel,positive,implicit
+еды,Food,Rel,positive,explicit
+прийти еще не раз,Whole,Rel,positive,fct
+антураж,Interior,Rel,negative,explicit
+верхнем этаже,Interior,Rel,positive,explicit
+попеть караоке,Interior,Rel,positive,fct
+караоке,Interior,Rel,positive,explicit
+вкусный,Food,Rel,positive,implicit
+кальян,Food,Rel,positive,explicit
+место,Whole,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+сытно,Food,Rel,positive,implicit
+не очень дорого,Price,Rel,positive,implicit
+уютной,Interior,Rel,positive,implicit
+обстановке,Interior,Cmpr,positive,explicit
+ресторане,Whole,Rel,neutral,explicit
+Столик заказала,Service,Rel,neutral,explicit
+поуютнее,Interior,Irr,positive,implicit
+Интерьер,Interior,Rel,positive,explicit
+музыка,Interior,Rel,positive,explicit
+Кухня,Food,Rel,positive,explicit
+мясо,Food,Rel,positive,explicit
+говядина с рукколой,Food,Rel,positive,explicit
+десерты,Food,Rel,positive,explicit
+грушевый наполеон,Food,Rel,positive,explicit
+остались очень довольны,Whole,Rel,positive,fct
+обслуживанием,Service,Rel,positive,explicit
+девушка,Service,Rel,positive,explicit
+отвечала на все вопросы,Service,Rel,positive,fct
+ресторанчик,Whole,Rel,neutral,explicit
+кухня,Food,Rel,positive,explicit
+котлетки из лосося с пюре,Food,Rel,neutral,explicit
+канадский ролл,Food,Rel,neutral,explicit
+заведения,Whole,Prev,positive,explicit
+котлетки,Food,Prev,neutral,explicit
+роллы,Food,Prev,neutral,explicit
+вкуснее,Food,Rel,positive,implicit
+сочнее,Food,Rel,positive,implicit
+Ролл,Food,Rel,positive,explicit
+блюда,Food,Cmpr,negative,explicit
+сетевых заведений японской кухни,Whole,Cmpr,negative,explicit
+суши,Food,Cmpr,neutral,explicit
+официанту,Service,Rel,neutral,explicit
+шеф-повар,Service,Rel,neutral,explicit
+меню,Food,Rel,neutral,explicit
+котлетки из лосося и креветок,Food,Rel,positive,explicit
+блюда,Food,Rel,positive,explicit
+суп из двух рыб,Food,Rel,positive,explicit
+стейк из лосося,Food,Rel,positive,explicit
+бефстроганов с пюре,Food,Rel,positive,explicit
+Интерьер,Interior,Rel,positive,explicit
+обслуживание,Service,Rel,positive,explicit
+администраторы,Service,Cmpr,neutral,explicit
+ресторанов,Whole,Cmpr,neutral,explicit
+котлетки,Food,Rel,positive,explicit
+закуски,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+Официантка,Service,Rel,positive,explicit
+Бокалы были полны,Service,Rel,positive,fct
+тарелки пустые во время убирались,Service,Rel,positive,fct
+убирались,Service,Rel,positive,explicit
+Второе,Food,Rel,neutral,explicit
+официантка,Service,Rel,neutral,explicit
+кухне нет света,Food,Rel,negative,fct
+другой заказ,Service,Rel,negative,fct
+горячее,Food,Rel,neutral,explicit
+закуски,Food,Rel,positive,explicit
+ждать еще час,Service,Rel,negative,fct
+блюда,Food,Rel,negative,explicit
+сделан еще один заказ,Service,Rel,negative,fct
+администратор,Service,Rel,neutral,explicit
+горячего на углях не будет,Service,Rel,negative,fct
+выполнен первоначальный заказ,Service,Rel,positive,fct
+появился наш заказ,Service,Rel,positive,fct
+заказ,Service,Rel,positive,explicit
+Торт,Food,Rel,negative,explicit
+заказанный заранее,Service,Rel,neutral,explicit
+наполеон,Food,Rel,negative,explicit
+интерьера,Interior,Rel,positive,explicit
+интерьерах,Interior,Rel,positive,explicit
+кухню,Food,Rel,neutral,explicit
+ресторане,Whole,Rel,neutral,explicit
+заказали столик,Service,Rel,neutral,explicit
+провели время,Whole,Rel,positive,explicit
+кухня,Food,Rel,positive,explicit
+обслуживание,Service,Rel,positive,explicit
+атмосфера,Interior,Rel,positive,explicit
+подарок от шеф-повара,Service,Rel,positive,explicit
+цены,Price,Rel,positive,explicit
+танцевальное шоу,Interior,Rel,positive,fct
+живая музыка,Interior,Rel,positive,fct
+заведении,Whole,Rel,neutral,explicit
+Столики все заняты,Interior,Rel,negative,fct
+сесть было проблематично,Interior,Rel,negative,fct
+тесно,Interior,Rel,negative,implicit
+места мало,Interior,Rel,negative,implicit
+Интерьер,Interior,Rel,negative,explicit
+уютно,Interior,Rel,positive,implicit
+музыку,Interior,Rel,positive,explicit
+музыку,Interior,Rel,positive,explicit
+Официанта,Service,Rel,positive,explicit
+приветлива,Service,Rel,positive,implicit
+Меню,Food,Rel,positive,explicit
+фаст-фуд,Food,Rel,positive,explicit
+салаты,Food,Rel,neutral,explicit
+горячее,Food,Rel,positive,explicit
+напитков,Food,Rel,positive,explicit
+блюд,Food,Rel,negative,explicit
+не оказалось в наличии,Food,Rel,negative,fct
+Время ожидания,Service,Rel,negative,explicit
+Блюда,Food,Rel,neutral,explicit
+принесли неравномерно,Service,Rel,negative,fct
+салат,Food,Rel,neutral,explicit
+суп,Food,Rel,neutral,explicit
+второе,Food,Rel,neutral,explicit
+Порции,Food,Rel,positive,explicit
+подача,Service,Rel,positive,explicit
+блюда,Food,Rel,negative,explicit
+места мало,Interior,Rel,negative,implicit
+скорость обслуживания,Service,Rel,negative,explicit
+блюда,Food,Rel,negative,explicit
+кафе,Whole,Cmpr,neutral,explicit
+перекусить,Food,Cmpr,neutral,explicit
+ресторана,Whole,Cmpr,neutral,explicit
+Больше не пойдем,Whole,Rel,negative,fct
+суп,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+кухню,Food,Rel,positive,explicit
+комплимент от шеф повара,Service,Rel,positive,fct
+спагетти,Food,Rel,positive,explicit
+пол порции,Food,Rel,neutral,explicit
+ресторан,Whole,Rel,neutral,explicit
+интерьер,Interior,Rel,positive,explicit
+уютно,Interior,Rel,positive,implicit
+ресторане,Whole,Rel,neutral,explicit
+ресторан,Whole,Rel,neutral,explicit
+проводили,Service,Rel,positive,explicit
+заказала столик,Service,Rel,neutral,explicit
+Второй этаж,Interior,Rel,positive,explicit
+красивый,Interior,Rel,positive,implicit
+интерьер,Interior,Rel,positive,explicit
+уютный,Interior,Rel,positive,implicit
+меню,Food,Rel,positive,explicit
+рыбе,Food,Rel,positive,explicit
+пиццу,Food,Cmpr,neutral,explicit
+покушать,Food,Rel,neutral,explicit
+местах,Whole,Cmpr,neutral,explicit
+паста,Food,Cmpr,neutral,explicit
+суп,Food,Cmpr,neutral,explicit
+Цены на вино,Price,Rel,negative,explicit
+ресторана,Whole,Rel,neutral,explicit
+едой,Food,Rel,neutral,explicit
+дорого,Price,Rel,negative,implicit
+кухня,Food,Rel,both,explicit
+обслуживания,Service,Rel,negative,explicit
+тарелки убирались,Service,Rel,positive,explicit
+девушек,Service,Rel,negative,explicit
+порасторопнее,Service,Irr,positive,implicit
+поживее,Service,Irr,positive,implicit
+обслуживания,Service,Rel,negative,explicit
+приема,Service,Rel,negative,explicit
+вкусно,Food,Rel,positive,implicit
+подано,Service,Rel,positive,explicit
+обслуживание,Service,Rel,negative,explicit
+ресторане &quot;На горке&quot;,Whole,Rel,neutral,explicit
+менеджером,Service,Rel,positive,explicit
+отвечала на все наши вопросы,Service,Rel,positive,fct
+шла нам на встречу,Service,Rel,positive,fct
+Обслуживанием,Service,Rel,positive,explicit
+ресторан,Whole,Rel,positive,explicit
+еду,Food,Prev,positive,explicit
+вкусной,Food,Prev,positive,implicit
+кухня,Food,Rel,neutral,explicit
+Горячее,Food,Rel,positive,explicit
+шашлык из свинины,Food,Rel,positive,explicit
+лосось,Food,Rel,positive,explicit
+мягко,Food,Rel,positive,implicit
+сочно,Food,Rel,positive,implicit
+не было фруктов,Food,Rel,negative,fct
+фруктов,Food,Rel,negative,explicit
+кормить,Food,Rel,neutral,explicit
+меню,Food,Rel,neutral,explicit
+повара,Service,Rel,neutral,explicit
+официанта,Service,Rel,neutral,explicit
+еду,Food,Rel,neutral,explicit
+основному блюду,Food,Rel,neutral,explicit
+менеджеру,Service,Rel,positive,explicit
+приготовили,Service,Rel,positive,explicit
+подали,Service,Rel,positive,explicit
+официантов,Service,Rel,neutral,explicit
+обедали,Food,Rel,neutral,explicit
+Фартуке,Whole,Rel,neutral,explicit
+место,Whole,Cmpr,neutral,explicit
+Кухня,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+недорого,Price,Rel,positive,implicit
+порции,Food,Rel,neutral,explicit
+Хлебная тарелка,Food,Rel,positive,explicit
+горячих,Food,Rel,positive,implicit
+булочки с чесночным маслом,Food,Rel,positive,explicit
+лимонады,Food,Rel,neutral,explicit
+фруктовые и молочные коктейли,Food,Rel,neutral,explicit
+карты вин,Food,Rel,neutral,explicit
+Интерьер,Interior,Rel,positive,explicit
+уютно,Interior,Rel,positive,implicit
+столиков мало,Interior,Rel,positive,fct
+обеда,Food,Cmpr,neutral,explicit
+Сервис,Service,Rel,positive,explicit
+сервисом,Service,Cmpr,negative,explicit
+приняли заказ,Service,Rel,positive,explicit
+приготовили,Service,Rel,positive,explicit
+милая,Service,Rel,positive,implicit
+девушка,Service,Rel,positive,explicit
+давала советы,Service,Rel,positive,fct
+меню,Food,Rel,neutral,explicit
+общалась с клиентами,Service,Rel,positive,explicit
+Рассчитали,Service,Rel,positive,explicit
+Столик забронировали,Service,Rel,neutral,explicit
+холодные закуски,Food,Rel,neutral,explicit
+горячие закуски,Food,Rel,neutral,explicit
+напитки,Food,Rel,neutral,explicit
+все уже было готово,Service,Rel,positive,fct
+ресторан,Whole,Cmpr,neutral,explicit
+ресторане,Whole,Cmpr,positive,explicit
+ресторане &quot;КЭТ&quot;,Whole,Rel,neutral,explicit
+уютный,Interior,Rel,positive,implicit
+ресторан,Whole,Rel,positive,explicit
+Интерьер,Interior,Rel,positive,explicit
+теплые цвета,Interior,Rel,positive,implicit
+мило,Interior,Rel,positive,implicit
+Столиков немного,Interior,Rel,positive,fct
+вежливый,Service,Rel,positive,implicit
+персонал,Service,Rel,positive,explicit
+молодой человек,Service,Rel,positive,explicit
+Кухня,Food,Rel,positive,explicit
+живая музыка,Interior,Rel,positive,fct
+ресторане &quot;КЭТ&quot;,Whole,Rel,positive,explicit
+ресторан,Whole,Rel,positive,explicit
+Кухня,Food,Rel,positive,explicit
+Интерьер,Interior,Rel,positive,explicit
+Сервис,Service,Rel,positive,explicit
+команде ресторана,Service,Rel,positive,explicit
+просторно,Interior,Rel,positive,implicit
+светло,Interior,Rel,positive,implicit
+интерьер,Interior,Rel,positive,explicit
+места мнооооого,Interior,Rel,positive,fct
+вид из окна,Interior,Rel,positive,explicit
+кофе,Food,Rel,neutral,explicit
+кухню,Food,Prev,neutral,explicit
+съела,Food,Rel,neutral,explicit
+тыквенный суп,Food,Rel,positive,explicit
+булочки,Food,Rel,positive,explicit
+вкусные,Food,Rel,positive,implicit
+кофе,Food,Rel,neutral,explicit
+пиво,Food,Prev,positive,explicit
+официантам,Service,Rel,positive,explicit
+обслуживанием,Service,Prev,neutral,explicit
+обслужили,Service,Rel,positive,explicit
+ресторане &quot;Фаворит&quot;,Whole,Rel,neutral,explicit
+места,Whole,Rel,neutral,explicit
+меню,Food,Rel,positive,explicit
+большой выбор,Food,Rel,positive,fct
+вкуснейшая,Food,Rel,positive,implicit
+выпечка,Food,Rel,positive,explicit
+сервис,Service,Rel,positive,explicit
+красивый,Interior,Rel,positive,implicit
+интерьер,Interior,Rel,positive,explicit
+естественного освещения,Interior,Rel,positive,fct
+атмосферу,Interior,Rel,positive,explicit
+уютнее,Interior,Rel,positive,implicit
+цена,Price,Rel,positive,explicit
+персоналу,Service,Rel,positive,explicit
+менеджера,Service,Rel,positive,explicit
+профессионально,Service,Rel,positive,implicit
+помогла,Service,Rel,positive,implicit
+кухне,Food,Rel,neutral,explicit
+ресторане,Whole,Rel,neutral,explicit
+помогла,Service,Rel,positive,implicit
+блюд,Food,Rel,neutral,explicit
+напитков,Food,Rel,neutral,explicit
+выпечки,Food,Rel,neutral,explicit
+украшением зала,Interior,Rel,positive,explicit
+организовала,Service,Rel,positive,explicit
+ресторан,Whole,Rel,positive,explicit
+место,Whole,Rel,positive,explicit
+ресторана,Service,Rel,positive,explicit
+атмосфера,Interior,Rel,positive,explicit
+спокойная,Interior,Rel,positive,implicit
+уютная,Interior,Rel,positive,implicit
+Красивый,Interior,Rel,positive,implicit
+интерьер,Interior,Rel,positive,explicit
+удобные,Interior,Rel,positive,implicit
+кресла,Interior,Rel,positive,explicit
+диванчики,Interior,Rel,positive,explicit
+музыка,Interior,Rel,positive,explicit
+меню,Food,Rel,positive,explicit
+вкусные,Food,Rel,positive,implicit
+блюда,Food,Rel,positive,explicit
+Внимательный,Service,Rel,positive,implicit
+приветливый,Service,Rel,positive,implicit
+персонал,Service,Rel,positive,explicit
+персоналу,Service,Rel,positive,explicit
+внимательное,Service,Rel,positive,implicit
+отношение,Service,Rel,positive,explicit
+красиво,Interior,Rel,positive,implicit
+декорированные,Interior,Rel,positive,explicit
+украшенные,Interior,Rel,positive,explicit
+свадебный зал,Interior,Rel,positive,explicit
+столы,Interior,Rel,positive,explicit
+шефу,Service,Rel,positive,explicit
+поварам,Service,Rel,positive,explicit
+вкусные,Food,Rel,positive,implicit
+красиво оформленные,Food,Rel,positive,implicit
+блюда,Food,Rel,positive,explicit
+управляющей рестораном,Service,Rel,positive,explicit
+помогла в выборе меню,Service,Rel,positive,fct
+меню,Food,Rel,neutral,explicit
+декорировании,Interior,Rel,positive,explicit
+свадебного зала,Interior,Rel,positive,explicit
+организовала,Service,Rel,positive,explicit
+профессионал,Service,Rel,positive,implicit
+доброжелательный,Service,Rel,positive,implicit
+внимательный,Service,Rel,positive,implicit
+ресторан,Whole,Rel,positive,explicit
+покушать,Food,Prev,neutral,explicit
+Ресторан,Whole,Rel,neutral,explicit
+ресторане,Whole,Rel,neutral,explicit
+место,Whole,Rel,positive,explicit
+кухня,Food,Rel,positive,explicit
+уютный,Interior,Rel,positive,implicit
+интерьер,Interior,Rel,positive,explicit
+доброжелательные,Service,Rel,positive,implicit
+официанты,Service,Rel,positive,explicit
+дружественная,Interior,Rel,positive,implicit
+атмосфера,Interior,Rel,positive,explicit
+порции,Food,Rel,positive,explicit
+ценник,Price,Rel,positive,explicit
+еда,Food,Rel,positive,explicit
+деньги,Price,Rel,positive,explicit
+омлет по-баварски,Food,Rel,neutral,explicit
+салат с теплой куриной печенью,Food,Rel,neutral,explicit
+пиво,Food,Rel,neutral,explicit
+белого вина,Food,Rel,neutral,explicit
+обошлось нам всего лишь,Price,Rel,positive,fct
+ресторан,Whole,Rel,positive,explicit
+Уютная,Interior,Rel,positive,implicit
+обстановка,Interior,Rel,positive,explicit
+атмосфера,Interior,Rel,positive,explicit
+Обслуживание,Service,Rel,positive,explicit
+вежливый,Service,Rel,positive,implicit
+персонал,Service,Rel,positive,explicit
+все пожелания выполнялись,Service,Rel,positive,fct
+Вкусная,Food,Rel,positive,implicit
+еда,Food,Rel,positive,explicit
+порции,Food,Rel,positive,explicit
+готовили и приносили,Service,Rel,positive,explicit
+впечатления от посещения,Whole,Rel,positive,explicit
+место,Whole,Rel,positive,explicit
+уютный,Interior,Rel,positive,implicit
+интерьер,Interior,Rel,positive,explicit
+первый зал,Interior,Rel,positive,explicit
+вкусную,Food,Rel,positive,implicit
+еду,Food,Rel,positive,explicit
+персонал,Service,Rel,positive,explicit
+цены,Price,Rel,positive,explicit
+скидка,Price,Rel,positive,explicit
+Ресторан,Whole,Rel,neutral,explicit
+официант,Service,Rel,positive,explicit
+вежливо,Service,Rel,positive,implicit
+заведение,Whole,Cmpr,positive,explicit
+заведение работает до последнего клиента,Service,Cmpr,positive,fct
+Вино,Food,Rel,positive,explicit
+одном экземпляре,Food,Rel,negative,fct
+Счет,Price,Rel,neutral,explicit
+цены,Price,Rel,positive,explicit
+счет,Price,Rel,positive,explicit
+горячее,Food,Rel,neutral,explicit
+вина,Food,Rel,neutral,explicit
+салаты,Food,Rel,neutral,explicit
+счет,Price,Rel,positive,explicit
+счет чуть меньше 6тр,Price,Rel,positive,fct
+счет,Price,Rel,negative,explicit
+обслуживание,Service,Rel,neutral,explicit
+итоговая сумма,Price,Rel,negative,explicit
+официантке,Service,Rel,neutral,explicit
+счет,Price,Rel,neutral,explicit
+обслуживание,Service,Rel,neutral,explicit
+чека за наличные естественно не принесли,Service,Rel,negative,fct
+чаевых,Service,Rel,negative,explicit
+ресторане,Whole,Prev,neutral,explicit
+вкусная,Food,Prev,positive,implicit
+еда,Food,Prev,positive,explicit
+порции,Food,Prev,positive,explicit
+цены,Price,Prev,positive,explicit
+втором этаже,Interior,Rel,neutral,explicit
+Зал,Interior,Prev,positive,explicit
+симпатичный,Interior,Rel,positive,implicit
+обслуживание,Service,Prev,both,explicit
+Впечатление осталось,Whole,Prev,positive,explicit
+еда,Food,Rel,positive,explicit
+вкусная,Food,Rel,positive,implicit
+цены,Price,Rel,positive,explicit
+Меню,Food,Rel,positive,explicit
+первом этаже,Interior,Rel,neutral,explicit
+Интерьер,Interior,Rel,positive,explicit
+банкетном зале,Interior,Rel,neutral,explicit
+ресторана,Whole,Rel,neutral,explicit
+Зал,Interior,Rel,positive,explicit
+уютный,Interior,Rel,positive,implicit
+Персонал,Service,Rel,positive,explicit
+доброжелательный,Service,Rel,positive,implicit
+отзывчивый,Service,Rel,positive,implicit
+официанты,Service,Rel,positive,explicit
+собрали оставшуюся еду и алкоголь в одноразовые контейнеры,Service,Rel,positive,fct
+еду,Food,Rel,neutral,explicit
+алкоголь,Food,Rel,neutral,explicit
+Сервировка,Service,Rel,positive,explicit
+блюда,Food,Rel,positive,explicit
+красивыми,Food,Irr,positive,implicit
+радовали глаз,Food,Rel,positive,implicit
+разнообразно,Food,Rel,positive,implicit
+салатом,Food,Cmpr,neutral,explicit
+овощами,Food,Cmpr,neutral,explicit
+вкус еды,Food,Rel,neutral,explicit
+ресторане,Whole,Rel,positive,explicit
+сочетание цены-качества,Price,Rel,positive,explicit
+деньги,Price,Cmpr,neutral,explicit
+еду,Food,Cmpr,negative,explicit
+цену,Price,Rel,positive,explicit
+уровнем цен,Price,Cmpr,neutral,explicit
+выбор блюд,Food,Rel,positive,explicit
+обслуживание,Service,Rel,positive,explicit
+ресторан,Whole,Rel,positive,explicit
+место,Whole,Rel,positive,explicit
+банкетный зал,Interior,Rel,positive,explicit
+ресторана &quot;Кабинет-портрет&quot;,Whole,Rel,positive,explicit
+заведению,Whole,Prev,neutral,explicit
+выпить,Food,Rel,neutral,explicit
+перекусить,Food,Rel,neutral,explicit
+поужинать,Food,Rel,neutral,explicit
+впечатления,Whole,Rel,positive,explicit
+Встретили,Service,Rel,positive,explicit
+душевно,Service,Rel,positive,implicit
+зажгли свечи,Interior,Rel,positive,fct
+свечи,Interior,Rel,positive,explicit
+убавили свет,Interior,Rel,positive,fct
+уютно,Interior,Rel,positive,implicit
+заведение,Whole,Rel,positive,explicit
+кафе,Whole,Cmpr,positive,explicit
+приглушенный свет,Interior,Rel,positive,fct
+музыка,Interior,Rel,positive,explicit
+милый,Service,Rel,positive,implicit
+заботливый,Service,Rel,positive,implicit
+персонал,Service,Rel,positive,explicit
+кухню,Food,Rel,positive,explicit
+&quot;Капрезе&quot;,Food,Rel,both,explicit
+медальоны,Food,Rel,both,explicit
+&quot; Цезарь&quot;,Food,Rel,both,explicit
+ролл,Food,Rel,neutral,explicit
+атмосфера,Interior,Rel,positive,explicit
+заведение,Whole,Rel,positive,explicit
+внимательное,Service,Rel,positive,implicit
+вежливое,Service,Rel,positive,implicit
+обслуживание,Service,Rel,positive,explicit
+&quot;дали&quot;,Whole,Rel,both,explicit
+Кухня,Food,Prev,negative,explicit
+персонал,Service,Prev,negative,explicit
+обслуживание,Service,Prev,negative,explicit
+дизайн,Interior,Prev,positive,explicit
+кафе,Whole,Prev,positive,explicit
+красивый,Interior,Rel,positive,implicit
+Кафе,Whole,Rel,neutral,explicit
+дизайну,Interior,Rel,neutral,explicit
+салат,Food,Rel,positive,explicit
+жалко его съесть,Food,Rel,positive,fct
+съесть,Food,Rel,neutral,explicit
+красиво,Food,Rel,positive,implicit
+украшен,Food,Rel,positive,implicit
+вкусно,Food,Rel,positive,implicit
+ненавязчивое,Service,Rel,positive,implicit
+обслуживание,Service,Rel,positive,explicit
+уютную,Interior,Rel,positive,implicit
+атмосферу,Interior,Rel,positive,explicit
+тепло,Interior,Rel,positive,implicit
+радушно,Service,Rel,positive,implicit
+ресторанах Мама Рома,Whole,Rel,neutral,explicit
+Кухня,Food,Rel,positive,explicit
+обслуживание,Service,Rel,negative,explicit
+Блюда,Food,Rel,neutral,explicit
+готовятся долго,Service,Rel,negative,fct
+долго несут,Service,Rel,negative,fct
+про нас забыли,Service,Rel,negative,fct
+нет чего-то из меню,Service,Rel,negative,fct
+Выбор десертов,Food,Rel,negative,explicit
+Паста,Food,Rel,positive,explicit
+вкусная,Food,Rel,positive,implicit
+пицца,Food,Rel,neutral,explicit
+Не стоит тех денег,Price,Rel,negative,implicit
+денег,Price,Rel,negative,explicit
+&quot;аппетит&quot;,Whole,Rel,neutral,explicit
+много народа,Interior,Rel,negative,fct
+встретил,Service,Rel,neutral,explicit
+менеджер,Service,Rel,neutral,explicit
+девушка,Service,Rel,neutral,explicit
+проводила к столу,Service,Rel,neutral,explicit
+дала меню,Service,Rel,neutral,explicit
+официантка,Service,Rel,neutral,explicit
+приняла заказ,Service,Rel,neutral,explicit
+ждать придется долго,Service,Irr,negative,fct
+ресторан,Whole,Rel,neutral,explicit
+ожидание было недолгим,Service,Rel,positive,fct
+заведения,Service,Cmpr,neutral,explicit
+Бизнес ланч,Food,Rel,positive,explicit
+вкусным,Food,Rel,positive,implicit
+сытным,Food,Rel,positive,implicit
+цене,Price,Rel,positive,explicit
+место,Whole,Rel,positive,explicit
+разнообразное,Food,Rel,positive,implicit
+вкусное,Food,Rel,positive,implicit
+меню,Food,Rel,positive,explicit
+цены,Price,Rel,positive,explicit
+обслуживания,Service,Rel,positive,explicit
+заведению,Whole,Rel,positive,explicit
+обязательно придем,Whole,Rel,positive,fct
+ресторанов,Whole,Rel,positive,explicit
+дисконтную карту,Service,Rel,positive,explicit
+вкусное,Food,Rel,positive,implicit
+борщ с копченостями,Food,Rel,positive,explicit
+роллы на гриле,Food,Rel,positive,explicit
+филадельфия,Food,Rel,positive,explicit
+рибай,Food,Rel,positive,explicit
+стейк-хаусах,Whole,Cmpr,negative,explicit
+салат цезарь с креветками,Food,Rel,positive,explicit
+Порции,Food,Rel,positive,explicit
+тарелки,Interior,Rel,positive,explicit
+обслуживание,Service,Rel,positive,explicit
+обслуживание,Service,Rel,positive,explicit
+официанты,Service,Rel,positive,explicit
+Шеф-повар,Service,Rel,positive,explicit
+бизнес-ланч,Food,Rel,positive,explicit
+вкусный,Food,Rel,positive,implicit
+десертам,Food,Rel,neutral,explicit
+Интерьер,Interior,Rel,positive,explicit
+не дешевый,Interior,Rel,positive,implicit
+кафе,Whole,Cmpr,negative,explicit
+заведении,Whole,Rel,positive,explicit
+заведения,Whole,Rel,neutral,explicit
+заведению,Whole,Rel,neutral,explicit
+ресторане,Whole,Rel,neutral,explicit
+руководству ресторана,Service,Rel,positive,explicit
+обслуживающему персоналу,Service,Rel,positive,explicit
+поварам,Service,Rel,positive,explicit
+вкусные,Food,Rel,positive,explicit
+блюда,Food,Rel,positive,explicit
+интерьер,Interior,Rel,positive,explicit
+уютно,Interior,Rel,positive,implicit
+красиво,Interior,Rel,positive,implicit
+Стол,Food,Rel,positive,explicit
+ресторана,Whole,Cmpr,neutral,explicit
+цены,Price,Rel,positive,explicit
+атмосферу,Interior,Rel,positive,explicit
+заведению,Whole,Rel,positive,explicit
+ресторан Марчеллис,Whole,Rel,neutral,explicit
+кухня,Food,Rel,positive,explicit
+обслуживание,Service,Rel,positive,explicit
+покушать,Food,Rel,neutral,explicit
+народу полный зал,Interior,Rel,negative,fct
+заказывали,Service,Rel,neutral,explicit
+Девушка-администратор,Service,Rel,positive,explicit
+вошла в положение,Service,Rel,positive,fct
+решила вопрос,Service,Rel,positive,fct
+мягких,Interior,Rel,positive,implicit
+диванах,Interior,Rel,positive,explicit
+приняла заказ,Service,Rel,positive,explicit
+Обстановка в ресторане,Interior,Rel,positive,explicit
+домашняя,Interior,Rel,positive,implicit
+грязные тарелки исчезали со стола незаметно,Service,Rel,positive,fct
+персонал,Service,Rel,positive,explicit
+улыбчивые,Service,Rel,positive,implicit
+ребята,Service,Rel,positive,explicit
+кухне,Food,Rel,positive,explicit
+палтус со шпинатом,Food,Rel,positive,explicit
+нежного,Food,Rel,positive,implicit
+палтуса,Food,Rel,positive,explicit
+салат из запеченых овощей,Food,Rel,positive,explicit
+сытые,Food,Rel,positive,implicit
+десерты,Food,Rel,neutral,explicit
+ужин,Food,Rel,positive,explicit
+сытным,Food,Rel,positive,implicit
+вкусняшками,Food,Rel,positive,implicit
+панакота,Food,Rel,positive,explicit
+заведении,Whole,Rel,positive,explicit
+Марчеллисе,Whole,Rel,positive,explicit
+отношения к детям,Service,Rel,positive,explicit
+ресторане,Whole,Rel,positive,explicit
+китайскую кухню,Food,Cmpr,positive,explicit
+китайским ресторанчикам,Whole,Cmpr,neutral,explicit
+деликатесов,Food,Cmpr,neutral,explicit
+блюда,Food,Cmpr,negative,explicit
+Дачу,Whole,Rel,neutral,explicit
+вкусная,Food,Rel,positive,implicit
+еда,Food,Rel,positive,explicit
+красиво,Interior,Rel,positive,implicit
+зал,Interior,Rel,positive,explicit
+подошел официант,Service,Rel,positive,fct
+официант,Service,Rel,positive,explicit
+подолгу ждешь,Service,Cmpr,negative,fct
+быстро,Service,Rel,positive,implicit
+вежливо,Service,Rel,positive,implicit
+Заказ,Service,Rel,positive,explicit
+не пришлось оч долго ждать,Service,Rel,positive,fct
+вечер прошел,Whole,Rel,positive,explicit
+заведение,Whole,Rel,positive,explicit
+место,Whole,Rel,positive,explicit
+ребята,Service,Rel,positive,explicit
+внимательные,Service,Rel,positive,implicit
+гостеприимные,Service,Rel,positive,implicit
+тебе всегда рады,Service,Rel,positive,fct
+поужинать,Food,Rel,neutral,explicit
+меню,Food,Rel,neutral,explicit
+мисо суп,Food,Rel,positive,explicit
+порция,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+Суши,Food,Rel,positive,explicit
+из свежей рыбы,Food,Rel,positive,fct
+рыбы,Food,Rel,positive,explicit
+роллы,Food,Rel,positive,explicit
+аккуратно сделаны,Food,Rel,positive,implicit
+Салаты,Food,Rel,positive,explicit
+свежие,Food,Rel,positive,implicit
+порции,Food,Rel,positive,explicit
+горячего,Food,Rel,neutral,explicit
+утиную грудку гриль с фруктами,Food,Rel,positive,explicit
+стейк из тунца,Food,Rel,positive,explicit
+лосося со шпинатом,Food,Rel,positive,explicit
+блюдо,Food,Rel,positive,explicit
+Медальоны из телятины с овощами,Food,Rel,positive,explicit
+объедение,Food,Rel,positive,implicit
+рестораны,Whole,Cmpr,neutral,explicit
+вкусно,Food,Rel,positive,implicit
+поесть,Food,Rel,positive,explicit
+место,Whole,Rel,positive,explicit
+дешево,Price,Rel,positive,implicit
+качественно,Food,Rel,positive,implicit
+место,Whole,Rel,positive,explicit
+персоналу,Service,Rel,positive,explicit
+ресторане,Whole,Rel,neutral,explicit
+Ресторан,Whole,Rel,positive,explicit
+Красивый,Interior,Rel,positive,implicit
+интерьер,Interior,Rel,positive,explicit
+спокойная,Interior,Rel,positive,implicit
+атмосфера,Interior,Rel,positive,explicit
+приятной,Interior,Rel,positive,implicit
+музыкой,Interior,Rel,positive,explicit
+обходительный,Service,Rel,positive,implicit
+вежливый,Service,Rel,positive,implicit
+персонал,Service,Rel,positive,explicit
+разрешили приносить свои напитки,Service,Rel,positive,fct
+без пробкового сбора,Price,Rel,positive,implicit
+сладости,Food,Cmpr,neutral,explicit
+фрукты,Food,Cmpr,neutral,explicit
+меню есть на выбор,Food,Rel,positive,fct
+меню,Food,Rel,positive,explicit
+помогли определиться,Service,Rel,positive,implicit
+блюдами,Food,Rel,neutral,explicit
+меню,Food,Rel,neutral,explicit
+вкусно,Food,Rel,positive,implicit
+упаковали в ланч-боксы,Service,Rel,positive,fct
+приносить свою музыку,Service,Rel,positive,fct
+комфортно,Interior,Rel,positive,implicit
+администратору,Service,Rel,positive,explicit
+обслуживал,Service,Rel,positive,explicit
+подано,Service,Rel,positive,explicit
+откликался на все наши просьбы,Service,Rel,positive,fct
+персоналу ресторана,Service,Rel,positive,explicit
+заведение,Whole,Rel,positive,explicit
+АМАРЕНА,Whole,Rel,neutral,explicit
+ресторане,Whole,Rel,neutral,explicit
+ресторан,Whole,Rel,positive,explicit
+удобно расположен,Whole,Rel,positive,implicit
+встретили,Service,Rel,positive,explicit
+провели к столику,Service,Rel,neutral,explicit
+вручили меню,Service,Rel,neutral,explicit
+с искренней улыбкой,Service,Rel,positive,implicit
+администратор,Service,Rel,positive,explicit
+дружелюбный,Service,Rel,positive,implicit
+официант,Service,Rel,positive,explicit
+еды,Food,Rel,neutral,explicit
+Заведение,Whole,Rel,positive,explicit
+интерьероом,Interior,Rel,positive,explicit
+в теплых тонах,Interior,Rel,positive,implicit
+Светлая мебель,Interior,Rel,positive,fct
+комфортно,Interior,Rel,positive,implicit
+уютно,Interior,Rel,positive,implicit
+зал,Interior,Rel,positive,explicit
+блюда,Food,Rel,positive,explicit
+повару,Service,Rel,positive,explicit
+Лосось,Food,Rel,positive,explicit
+таял во рту,Food,Rel,positive,fct
+салат Цезарь,Food,Rel,positive,explicit
+десерте,Food,Rel,neutral,explicit
+подача,Service,Rel,positive,explicit
+местечко,Whole,Cmpr,positive,explicit
+уютно,Interior,Cmpr,positive,implicit
+не сильно шумно,Interior,Cmpr,positive,fct
+кафе-барах,Whole,Cmpr,neutral,explicit
+ресторан,Whole,Cmpr,neutral,explicit
+паб,Whole,Cmpr,positive,explicit
+выпивки,Food,Cmpr,positive,explicit
+закуски,Food,Cmpr,positive,explicit
+место,Whole,Rel,positive,explicit
+заведении,Whole,Rel,neutral,explicit
+свободный столик,Interior,Rel,positive,fct
+Пиво,Food,Rel,neutral,explicit
+коктейли,Food,Rel,positive,explicit
+напитков,Food,Rel,positive,explicit
+официантке,Service,Rel,positive,explicit
+угадывала наши желания,Service,Rel,positive,fct
+Обслуживание,Service,Rel,positive,explicit
+Еда,Food,Rel,positive,explicit
+вкусная,Food,Rel,positive,implicit
+уютный,Interior,Rel,positive,implicit
+стильный,Interior,Rel,positive,implicit
+интерьер,Interior,Rel,positive,explicit
+музыкальный фон,Interior,Rel,positive,explicit
+&quot;радио&quot;,Whole,Rel,positive,explicit
+повара,Service,Cmpr,neutral,explicit
+заведение,Whole,Cmpr,neutral,explicit
+рататуй,Food,Cmpr,neutral,explicit
+Блюдо,Food,Cmpr,neutral,explicit
+кухни,Food,Cmpr,neutral,explicit
+рататуй,Food,Cmpr,neutral,explicit
+интерьер,Interior,Rel,positive,explicit
+сделано со вкусом,Interior,Rel,positive,implicit
+встретили,Service,Rel,neutral,explicit
+усадили за столик,Service,Rel,neutral,explicit
+принесли меню,Service,Rel,neutral,explicit
+меню,Food,Rel,positive,explicit
+особукко,Food,Rel,neutral,explicit
+баклажан,Food,Rel,neutral,explicit
+домашнее красное вино,Food,Rel,neutral,explicit
+комплимент от шеф-повара,Service,Rel,positive,explicit
+салата,Food,Rel,neutral,explicit
+Мясо,Food,Rel,positive,explicit
+порция,Food,Rel,positive,explicit
+съели,Food,Rel,neutral,explicit
+Баклажан,Food,Rel,positive,explicit
+нежный,Food,Rel,positive,implicit
+запечен,Food,Rel,positive,explicit
+Вкусное,Food,Rel,positive,implicit
+домашнее вино,Food,Rel,positive,explicit
+Обслуживание,Service,Rel,positive,explicit
+внимательное,Service,Rel,positive,implicit
+не навязчивое,Service,Rel,positive,implicit
+ресторан итальянской кухни,Whole,Rel,positive,explicit
+место,Whole,Rel,positive,explicit
+заведении,Whole,Rel,neutral,explicit
+посещений,Whole,Prev,positive,explicit
+Приветливый,Service,Prev,positive,implicit
+персонал,Service,Prev,positive,explicit
+пива,Food,Prev,positive,explicit
+выполнение заказа,Service,Prev,positive,explicit
+пива,Food,Prev,positive,explicit
+цене,Price,Prev,positive,explicit
+вкуса,Food,Prev,positive,explicit
+Столик заказал,Service,Rel,neutral,explicit
+заказать,Service,Rel,neutral,explicit
+пива,Food,Rel,neutral,explicit
+только один сорт,Food,Rel,negative,fct
+пива,Food,Rel,negative,explicit
+через полчаса нам принесли заказанное пиво,Service,Rel,negative,fct
+пиво,Food,Rel,neutral,explicit
+официантку,Service,Rel,negative,explicit
+удалось подозвать,Service,Rel,negative,fct
+бокалы уже 10 минут были пусты,Service,Rel,negative,fct
+заказать,Service,Rel,neutral,explicit
+пива,Food,Rel,neutral,explicit
+официатка,Service,Rel,neutral,explicit
+пива больше нет,Service,Rel,negative,fct
+заведение,Whole,Rel,negative,explicit
+места,Whole,Cmpr,positive,explicit
+не кончается через час,Food,Cmpr,positive,fct
+обслуживающий персонал,Service,Cmpr,positive,explicit
+не забывает про твой столик,Service,Cmpr,positive,fct
+Глобуса,Whole,Rel,negative,explicit
+кафе Dolce Italy,Whole,Rel,neutral,explicit
+кофе,Food,Rel,neutral,explicit
+пирожными,Food,Rel,neutral,explicit
+кафе,Whole,Cmpr,neutral,explicit
+ресторане,Whole,Rel,neutral,explicit
+пирожные,Food,Rel,neutral,explicit
+рестораном Italy,Whole,Rel,positive,explicit
+вентиляция,Interior,Rel,positive,explicit
+вентиляция справляется,Interior,Rel,positive,fct
+Интерьер,Interior,Rel,positive,explicit
+сделано со вкусом,Interior,Rel,positive,implicit
+сервиса,Service,Rel,negative,explicit
+официантка,Service,Rel,negative,explicit
+про нас забыла,Service,Rel,negative,fct
+вежливо,Service,Rel,positive,implicit
+предупредительно,Service,Rel,positive,implicit
+салату цезарь,Food,Rel,neutral,explicit
+соус без анчоусов,Food,Rel,neutral,explicit
+повар,Service,Rel,negative,explicit
+лишь майонез,Food,Rel,negative,fct
+майонез,Food,Rel,negative,explicit
+соус,Food,Rel,negative,explicit
+готовится утром одинаковый для всех,Food,Rel,negative,fct
+место,Whole,Rel,positive,explicit
+итальянских блюд,Food,Prev,neutral,explicit
+ресторан,Whole,Cmpr,positive,explicit
+2ом этаже,Interior,Rel,neutral,explicit
+интерьер,Interior,Rel,positive,explicit
+удобнее,Interior,Rel,positive,implicit
+1ом этаже,Interior,Cmpr,negative,explicit
+Порции,Food,Rel,negative,explicit
+паста,Food,Rel,positive,explicit
+вкусной,Food,Rel,positive,implicit
+Обслуживание,Service,Rel,negative,explicit
+готовят (или приносят??) заказ ОЧЕНЬ долго,Service,Rel,negative,fct
+готовят,Service,Rel,negative,explicit
+приносят,Service,Rel,negative,explicit
+ресторан,Whole,Rel,neutral,explicit
+Моджо,Whole,Irr,positive,explicit
+местом,Whole,Irr,positive,explicit
+ресторане,Whole,Rel,neutral,explicit
+обслуживают,Service,Rel,negative,explicit
+обслуживают там долго,Service,Rel,negative,fct
+Хостес,Service,Rel,negative,explicit
+ресторане,Whole,Rel,negative,explicit
+встречать,Service,Rel,negative,explicit
+принять заказ,Service,Rel,negative,explicit
+Заказали по купону,Service,Rel,neutral,explicit
+блюда,Food,Rel,neutral,explicit
+второе блюдо я получила в 21:30,Service,Rel,negative,fct
+провели вечер в ожидании,Service,Rel,negative,fct
+музыка,Interior,Rel,positive,explicit
+интерьер,Interior,Rel,positive,explicit
+ресторан,Whole,Rel,negative,explicit
+обслуживанию,Service,Rel,neutral,explicit
+администрации,Whole,Rel,negative,explicit
+ресторан,Whole,Cmpr,neutral,explicit
+официантов,Service,Rel,negative,explicit
+поваров,Service,Rel,negative,explicit
+ресторан,Whole,Rel,positive,explicit
+меню,Food,Rel,positive,explicit
+кухня,Food,Rel,positive,explicit
+цены,Price,Rel,positive,explicit
+шашлык,Food,Rel,positive,explicit
+ассортимент блюд,Food,Rel,positive,explicit
+Атмосфера,Interior,Rel,positive,explicit
+домашняя,Interior,Rel,positive,implicit
+уютная,Interior,Rel,positive,implicit
+обстановка,Interior,Rel,positive,explicit
+приветливый,Service,Rel,positive,implicit
+персонал,Service,Rel,positive,explicit
+развлекательная программа,Interior,Rel,positive,explicit
+живая музыка,Interior,Rel,positive,explicit
+музыканты не дали скучать,Interior,Rel,positive,fct
+кальян,Food,Rel,positive,explicit
+ценам,Price,Rel,positive,explicit
+ресторане,Whole,Rel,neutral,explicit
+Обслуживанием,Service,Rel,positive,explicit
+скатерти меняют,Service,Rel,positive,fct
+чисто,Interior,Rel,positive,implicit
+Официанты,Service,Rel,positive,explicit
+Порции,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+много посетителей,Interior,Rel,negative,fct
+ресторан,Whole,Rel,positive,explicit
+готовят очень долго,Service,Rel,negative,fct
+Закуски,Food,Rel,neutral,explicit
+салаты,Food,Rel,neutral,explicit
+приносят быстро,Service,Rel,positive,fct
+горячее,Food,Rel,neutral,explicit
+нужно ждать,Service,Rel,negative,fct
+принесли комплимент,Service,Rel,positive,fct
+мороженое,Food,Rel,neutral,explicit
+мороженое,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+уютный,Interior,Rel,positive,implicit
+ресторан,Whole,Rel,positive,explicit
+встретил,Service,Rel,neutral,explicit
+мужчина,Service,Rel,positive,explicit
+проводил в зал,Service,Rel,positive,fct
+мужчину,Service,Rel,neutral,explicit
+хозяин,Service,Rel,neutral,explicit
+Встречающий гостей хозяин,Service,Rel,positive,fct
+ресторан,Whole,Rel,positive,explicit
+уютный,Interior,Rel,positive,implicit
+столики маленькие,Interior,Rel,negative,fct
+тесновато,Interior,Rel,negative,implicit
+блюда,Food,Rel,neutral,explicit
+Меню ресторана,Food,Rel,neutral,explicit
+салатами,Food,Irr,neutral,explicit
+вторыми блюдами,Food,Irr,neutral,explicit
+кухня,Food,Rel,positive,explicit
+блюда,Food,Rel,positive,explicit
+изысканные,Food,Rel,positive,implicit
+вкусные,Food,Rel,positive,implicit
+мраморную говядину,Food,Rel,positive,explicit
+ресторанах,Whole,Cmpr,neutral,explicit
+Блюдо,Food,Rel,positive,explicit
+нежнейшим,Food,Rel,positive,implicit
+таяло во рту,Food,Rel,positive,implicit
+Порции,Food,Rel,positive,explicit
+съесть,Food,Rel,neutral,explicit
+Ресторан,Whole,Rel,positive,explicit
+уютный,Interior,Rel,positive,implicit
+Обслуживание,Service,Rel,positive,explicit
+кухня,Food,Rel,positive,explicit
+вкусная,Food,Rel,positive,implicit
+ресторан,Whole,Rel,neutral,explicit
+не дешевый,Price,Rel,negative,implicit
+цену,Price,Irr,negative,explicit
+ресторан,Whole,Rel,positive,explicit
+ресторан,Whole,Rel,positive,explicit
+вежливо,Service,Rel,positive,implicit
+встречают,Service,Rel,positive,explicit
+зал для курящих и не курящих,Interior,Rel,positive,fct
+меню сразу на столе,Service,Rel,positive,fct
+официант,Service,Rel,positive,explicit
+зеленого чаю с жасмином,Food,Rel,neutral,explicit
+не заставил себя ждать,Service,Rel,positive,fct
+рис с угрем,Food,Rel,neutral,explicit
+ролл Радужный,Food,Rel,neutral,explicit
+первое блюдо,Food,Rel,neutral,explicit
+сразу же принесли,Service,Rel,positive,fct
+обслуживал,Service,Rel,positive,explicit
+официант,Service,Rel,neutral,explicit
+скорость подачи блюд,Service,Rel,positive,explicit
+Расчет,Service,Rel,positive,explicit
+До свидания на выходе сказали,Service,Rel,positive,fct
+Официанты,Service,Rel,neutral,explicit
+быстроту обслуживания,Service,Rel,positive,explicit
+заведению,Whole,Rel,negative,explicit
+кухней,Food,Rel,negative,explicit
+сервиса,Service,Rel,positive,explicit
+Ресторан,Whole,Rel,positive,explicit
+ресторане,Whole,Rel,neutral,explicit
+Кухня,Food,Rel,positive,explicit
+обслуживание,Service,Rel,positive,explicit
+Не пришлось ждать,Service,Rel,positive,fct
+ресторанах,Whole,Cmpr,negative,explicit
+блюда,Food,Irr,neutral,explicit
+шампанское,Food,Rel,neutral,explicit
+вкусное,Food,Rel,positive,implicit
+шампанское,Food,Rel,positive,explicit
+не пришлось ждать очень долго,Service,Rel,positive,fct
+кушали,Food,Rel,positive,explicit
+кушали,Food,Rel,positive,explicit
+едой,Food,Rel,positive,explicit
+вкусной,Food,Rel,positive,implicit
+ресторане,Whole,Rel,neutral,explicit
+спокойно,Interior,Rel,positive,implicit
+музыка,Interior,Rel,positive,explicit
+спокойная,Interior,Rel,positive,implicit
+ресторан,Whole,Cmpr,neutral,explicit
+&quot;ТБИЛИСО&quot;,Whole,Rel,positive,explicit
+заведения,Whole,Rel,positive,explicit
+качество кухни,Food,Rel,positive,explicit
+мест,Whole,Cmpr,positive,explicit
+суши,Food,Rel,positive,explicit
+роллы,Food,Rel,positive,explicit
+готовят их быстро,Service,Rel,positive,fct
+свежие,Food,Rel,positive,implicit
+вкусные,Food,Rel,positive,implicit
+сети ресторанов,Whole,Cmpr,neutral,explicit
+ресторанах,Whole,Cmpr,neutral,explicit
+сервиса,Service,Cmpr,positive,explicit
+кухни,Food,Cmpr,positive,explicit
+зале для некурящих,Interior,Rel,negative,explicit
+бывает холодно,Interior,Rel,negative,fct
+мороженое в кляре,Food,Rel,positive,explicit
+горячее,Food,Rel,both,explicit
+приносят и холодным,Food,Rel,negative,fct
+Обслуживание,Service,Rel,positive,explicit
+приносят все сразу,Service,Rel,negative,fct
+суши,Food,Rel,neutral,explicit
+суп,Food,Rel,neutral,explicit
+десерт,Food,Rel,neutral,explicit
+обслуживания,Service,Irr,positive,explicit
+кухни,Food,Irr,positive,explicit
+ресторан,Whole,Rel,positive,explicit
+ресторан,Whole,Rel,neutral,explicit
+китайскую кухню,Food,Cmpr,positive,explicit
+Официантка,Service,Rel,negative,explicit
+слушала,Service,Rel,negative,explicit
+25 минутного ожидания,Service,Rel,negative,fct
+принесли не то блюдо,Service,Rel,negative,fct
+блюда китайской кухни,Food,Rel,negative,explicit
+вкусного,Food,Irr,positive,implicit
+Кухня,Food,Rel,negative,explicit
+претензионная,Food,Rel,negative,implicit
+не вкусная,Food,Rel,negative,implicit
+в счет уже включены чаевые,Price,Rel,negative,fct
+обслуживание,Service,Rel,negative,explicit
+интерьер,Interior,Rel,positive,explicit
+мебель,Interior,Rel,negative,explicit
+заведение,Whole,Rel,negative,explicit
+больше не пойдем,Whole,Rel,negative,fct
+ресторане,Whole,Rel,neutral,explicit
+официанту,Service,Rel,positive,explicit
+вежлив,Service,Rel,positive,implicit
+приветлив,Service,Rel,positive,implicit
+салату Цезарю,Food,Rel,positive,explicit
+пасту,Food,Rel,positive,explicit
+пиццу,Food,Rel,positive,explicit
+вкусное,Food,Rel,positive,implicit
+вино,Food,Rel,positive,explicit
+получили фруктовую тарелку,Service,Rel,positive,fct
+интерьер,Interior,Rel,positive,explicit
+стильный,Interior,Rel,positive,implicit
+теплый,Interior,Rel,positive,implicit
+уютный,Interior,Rel,positive,implicit
+Зайдем еще,Whole,Rel,positive,fct
+поужинать,Food,Rel,neutral,explicit
+Столик не заказывали,Service,Rel,neutral,explicit
+сервис,Service,Rel,positive,explicit
+быстро подходят,Service,Rel,positive,fct
+улябаются,Service,Rel,positive,implicit
+Интерьер,Interior,Rel,positive,explicit
+удобно,Interior,Rel,positive,implicit
+Еда,Food,Rel,positive,explicit
+Вкусно,Food,Rel,positive,implicit
+не так дорого,Price,Rel,positive,implicit
+Подача,Service,Rel,both,explicit
+плова,Food,Rel,neutral,explicit
+блюд из мяса,Food,Irr,positive,explicit
+ресторане,Whole,Rel,neutral,explicit
+шашлыку,Food,Rel,both,explicit
+мяса,Food,Rel,both,explicit
+кафе,Whole,Rel,positive,explicit
+сделали ремонт,Interior,Rel,positive,fct
+светло,Interior,Rel,positive,implicit
+уютно,Interior,Rel,positive,implicit
+Кухня,Food,Rel,positive,explicit
+Обслуживание,Service,Rel,positive,explicit
+персонал,Service,Rel,positive,explicit
+внимателен,Service,Rel,positive,implicit
+кафе,Whole,Rel,positive,explicit
+кофе,Food,Rel,neutral,explicit
+обстановке,Interior,Rel,positive,explicit
+заведение,Whole,Rel,positive,explicit
+интерьер,Interior,Rel,positive,explicit
+Обслуживание,Service,Rel,positive,explicit
+на все вопросы официантка ответила,Service,Rel,positive,fct
+официантка,Service,Rel,positive,explicit
+кухни,Food,Rel,neutral,explicit
+мороженное,Food,Rel,neutral,explicit
+блинчиками с мясом,Food,Rel,positive,explicit
+цены,Price,Rel,positive,explicit
+интерьере,Interior,Rel,positive,explicit
+качестве блюд,Food,Rel,positive,explicit
+цены,Price,Irr,negative,explicit
+Санторини,Whole,Rel,neutral,explicit
+обслуживание,Service,Rel,positive,explicit
+сами ни разу не наполняли себе бокалы,Service,Rel,positive,fct
+за всем следил официант,Service,Rel,positive,fct
+официант,Service,Rel,positive,explicit
+Обслуживание,Service,Rel,positive,explicit
+ненавязчивое,Service,Rel,positive,implicit
+Все убирали,Service,Rel,positive,explicit
+вовремя,Service,Rel,positive,implicit
+еды,Food,Rel,neutral,explicit
+съели,Food,Rel,both,explicit
+вкусно,Food,Rel,positive,implicit
+еды нехватило,Food,Rel,negative,fct
+ресторан,Whole,Rel,neutral,explicit
+покушали,Food,Cmpr,neutral,explicit
+ценник,Price,Rel,negative,explicit
+дороговат,Price,Rel,negative,implicit
+вкусно,Food,Rel,positive,implicit
+обслуживание,Service,Rel,positive,explicit
+Санторини,Whole,Rel,positive,explicit
+еда,Food,Rel,positive,explicit
+обслуживание,Service,Rel,positive,explicit
+места для танцев,Interior,Rel,positive,explicit
+персоналу,Service,Rel,positive,explicit
+ресторан,Whole,Rel,positive,explicit
+интерьер,Interior,Rel,positive,explicit
+обслуживание,Service,Rel,positive,explicit
+официантки,Service,Rel,positive,explicit
+рекомендацией блюд,Service,Rel,positive,fct
+вид из окна,Interior,Rel,positive,explicit
+кухня,Food,Rel,positive,explicit
+Цена,Price,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+ресторанов,Whole,Cmpr,positive,explicit
+&quot;BELLINI&quot;,Whole,Rel,positive,explicit
+ресторане,Whole,Rel,neutral,explicit
+кухней,Food,Rel,positive,explicit
+интерьером,Interior,Rel,positive,explicit
+обслуживанием,Service,Rel,positive,explicit
+администрации,Service,Rel,positive,explicit
+персоналу ресторана,Service,Rel,positive,explicit
+шли навстречу нашим пожеланиям,Service,Rel,positive,fct
+меню было за 4 т.р,Price,Rel,neutral,explicit
+много еды на человека получилось,Food,Rel,positive,fct
+еды,Food,Rel,positive,explicit
+еда,Food,Rel,positive,explicit
+горячие закуски,Food,Rel,positive,explicit
+вторые блюда,Food,Rel,positive,explicit
+Вкусно,Food,Rel,positive,implicit
+Обслуживание,Service,Irn,positive,explicit
+покушать,Food,Rel,neutral,explicit
+Ресторан,Whole,Rel,neutral,explicit
+Обслуживающего персонала,Service,Rel,negative,explicit
+второй этаж,Interior,Rel,neutral,explicit
+встретила,Service,Rel,neutral,explicit
+девушка,Service,Rel,neutral,explicit
+Девушка,Service,Rel,negative,explicit
+не можем сесть где нравится,Service,Rel,negative,fct
+ресторане,Whole,Rel,neutral,explicit
+Кухня,Food,Rel,positive,explicit
+Музыка,Interior,Rel,positive,explicit
+заведение,Whole,Rel,neutral,explicit
+интерьера,Interior,Rel,neutral,explicit
+мест,Whole,Cmpr,positive,explicit
+встретили,Service,Rel,positive,explicit
+проводили к столику,Service,Rel,positive,explicit
+официантка,Service,Rel,positive,explicit
+приветливая,Service,Rel,positive,explicit
+внимательная,Service,Rel,positive,implicit
+работу она выполняла,Service,Rel,positive,explicit
+кухни,Food,Rel,neutral,explicit
+блюд,Food,Rel,positive,explicit
+находки повара,Food,Rel,positive,implicit
+на вкус,Food,Rel,negative,explicit
+мясо,Food,Rel,negative,explicit
+суховато,Food,Rel,negative,implicit
+рыба,Food,Rel,negative,explicit
+не досолена,Food,Rel,negative,implicit
+спиртных напитках,Food,Rel,positive,explicit
+Винная карта,Food,Rel,positive,explicit
+качество вин,Food,Rel,positive,explicit
+кафе,Whole,Rel,positive,explicit
+кухня,Food,Rel,positive,explicit
+порции,Food,Rel,positive,explicit
+салаты,Food,Rel,positive,explicit
+горячее,Food,Rel,positive,explicit
+сытно,Food,Rel,positive,implicit
+вкусно,Food,Rel,positive,implicit
+цену,Price,Rel,positive,explicit
+ненавязчивое,Service,Rel,positive,implicit
+обслуживание,Service,Rel,positive,explicit
+администратору,Service,Rel,positive,explicit
+торт,Food,Rel,positive,explicit
+кафе,Whole,Rel,positive,explicit
+Уютно,Interior,Rel,positive,implicit
+по-домашнему,Interior,Rel,positive,implicit
+ресторан,Whole,Rel,neutral,explicit
+Интерьер,Interior,Rel,positive,explicit
+Кухня,Food,Rel,positive,explicit
+музыкальный коллектив,Interior,Rel,positive,explicit
+музыка,Interior,Rel,positive,explicit
+обслуживанию,Service,Rel,positive,explicit
+встретили,Service,Rel,positive,explicit
+проводили за столик,Service,Rel,positive,explicit
+VIP зоне,Interior,Rel,neutral,explicit
+Официанты,Service,Rel,positive,explicit
+не заставляли себя долго ждать,Service,Rel,positive,fct
+вежливо,Service,Rel,positive,implicit
+обходительно,Service,Rel,positive,implicit
+место,Whole,Rel,positive,explicit
+ресторан,Whole,Rel,neutral,explicit
+паулайнере,Whole,Rel,positive,explicit
+обслуживание,Service,Rel,positive,explicit
+вкусная,Food,Rel,positive,implicit
+кухня,Food,Rel,positive,explicit
+пиво,Food,Rel,positive,explicit
+не возникало проблем с его заказом,Service,Rel,positive,fct
+заказывали,Service,Rel,neutral,explicit
+персонал,Service,Rel,positive,explicit
+вежливый,Service,Rel,positive,implicit
+не хамил,Service,Rel,positive,fct
+не обсчитывал,Service,Rel,positive,fct
+обслуживала,Service,Rel,positive,explicit
+девушка Мария,Service,Rel,positive,explicit
+приветливая,Service,Rel,positive,implicit
+девушка,Service,Rel,positive,explicit
+не было больше 2 окрков в пепельнице,Service,Rel,positive,fct
+приветлива,Service,Rel,positive,implicit
+посоянно к нам подходила,Service,Rel,positive,fct
+навязчиво,Service,Rel,positive,implicit
+горячее принесли через 15 минут после заказа,Service,Rel,positive,fct
+горячее,Food,Rel,neutral,explicit
+не ожидали такой оперативности,Service,Rel,positive,fct
+место,Whole,Rel,positive,explicit
+ресторан,Whole,Rel,positive,explicit
+заполненным на 70% в такой день,Whole,Rel,positive,fct
+ресторанов,Whole,Cmpr,neutral,explicit
+блюд,Food,Rel,neutral,explicit
+кухня,Food,Rel,positive,explicit
+обслуживанием,Service,Rel,positive,explicit
+меню,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+разнообразно,Food,Rel,positive,implicit
+Обслуживала,Service,Rel,positive,explicit
+официантка,Service,Rel,positive,explicit
+рассказала о составе чуть ли не каждого блюда,Service,Rel,positive,fct
+блюда,Food,Rel,neutral,explicit
+поинтересовалась о моих предпочтениях в еде,Service,Rel,positive,fct
+еде,Food,Rel,neutral,explicit
+посоветовала,Service,Rel,positive,explicit
+интерьере,Interior,Rel,positive,explicit
+музыка,Interior,Rel,positive,explicit
+караоке-программа,Interior,Rel,positive,explicit
+блюд,Food,Rel,neutral,explicit
+салат из тунца,Food,Rel,neutral,explicit
+салат из лисичек с кроличьей печенью,Food,Rel,neutral,explicit
+салат из лосося,Food,Rel,positive,explicit
+ресторане,Whole,Rel,neutral,explicit
+банкетное меню,Food,Rel,neutral,explicit
+богатый стол,Food,Irr,positive,implicit
+администратор,Service,Rel,neutral,explicit
+еды было мало,Food,Rel,negative,fct
+еды,Food,Rel,negative,explicit
+маленьких кусочков красной рыбы на здоровом блюде,Food,Rel,negative,fct
+красной рыбы,Food,Rel,negative,explicit
+посуда,Service,Rel,positive,explicit
+оформление стола,Service,Rel,positive,explicit
+рулетиками,Food,Rel,negative,explicit
+рулетиками на огромном блюде,Food,Rel,negative,fct
+10% за обслуживание,Price,Rel,negative,explicit
+официант,Service,Rel,negative,explicit
+алкоголя,Food,Rel,neutral,explicit
+не успевал,Service,Rel,negative,implicit
+сидели с пустыми бокалами,Service,Rel,negative,fct
+не успевал,Service,Rel,negative,implicit
+подать горячее и десерт,Service,Rel,negative,explicit
+горячее,Food,Rel,neutral,explicit
+десерт,Food,Rel,neutral,explicit
+чай,Food,Rel,negative,explicit
+остыл,Food,Rel,negative,implicit
+десерт,Food,Rel,neutral,explicit
+чаевые по желанию,Price,Cmpr,positive,fct
+еды,Food,Cmpr,positive,explicit
+поужинать,Food,Prev,positive,explicit
+ресторане,Whole,Rel,neutral,explicit
+зал набит,Interior,Rel,negative,fct
+мест не было,Interior,Rel,negative,fct
+хостесс,Service,Rel,positive,explicit
+вежливо,Service,Rel,positive,implicit
+предложила забронированный столик,Service,Rel,positive,fct
+Обслуживание,Service,Rel,positive,explicit
+персонал,Service,Rel,positive,explicit
+вежливый,Service,Rel,positive,implicit
+заказы приносят,Service,Rel,positive,explicit
+быстро,Service,Rel,positive,implicit
+Цены,Price,Rel,positive,explicit
+пиво,Food,Rel,neutral,explicit
+Еда,Food,Rel,positive,explicit
+вкусная,Food,Rel,positive,implicit
+сытная,Food,Rel,positive,implicit
+пианино,Interior,Rel,positive,explicit
+ресторане,Whole,Rel,positive,explicit
+Ужинали,Food,Rel,neutral,explicit
+2 этаже,Interior,Rel,neutral,explicit
+обслуживание,Service,Rel,positive,explicit
+приносили-уносили,Service,Rel,positive,explicit
+быстро,Service,Rel,positive,implicit
+вежливо,Service,Rel,positive,implicit
+выбор в меню,Food,Rel,positive,explicit
+разнообразия блюд,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+кухне,Food,Rel,positive,explicit
+ужина,Food,Rel,neutral,explicit
+музыканты,Interior,Rel,neutral,explicit
+музыка,Interior,Rel,positive,explicit
+Красиво,Interior,Rel,positive,implicit
+ресторан,Whole,Rel,positive,explicit
+ресторан,Whole,Rel,neutral,explicit
+ждали минут 15,Service,Rel,negative,fct
+народу было не очень много,Interior,Rel,positive,explicit
+цены,Price,Rel,negative,explicit
+салатов,Food,Rel,negative,explicit
+порции,Food,Rel,negative,explicit
+мясо,Food,Rel,negative,explicit
+пепельницу не разу не поменяли,Service,Rel,negative,fct
+ресторан,Whole,Rel,neutral,explicit
+Ресторан,Whole,Rel,positive,explicit
+уютный,Interior,Rel,positive,implicit
+обстановка,Interior,Rel,positive,explicit
+Людей было мало,Interior,Rel,positive,fct
+столик у окна,Interior,Rel,positive,fct
+Еда,Food,Rel,positive,explicit
+вкусная,Food,Rel,positive,implicit
+порции,Food,Rel,negative,explicit
+пасту,Food,Rel,neutral,explicit
+приготовлено,Food,Rel,positive,explicit
+Салаты,Food,Rel,positive,explicit
+вкуснейшими,Food,Rel,positive,implicit
+пасту с грибами,Food,Rel,neutral,explicit
+Вкусно,Food,Rel,positive,implicit
+обслуживали,Service,Rel,negative,explicit
+долго,Service,Rel,negative,implicit
+девушка,Service,Rel,neutral,explicit
+проблемы на кухне,Food,Rel,negative,fct
+кухне,Food,Rel,negative,explicit
+Цены,Price,Rel,neutral,explicit
+чаевые,Service,Rel,negative,explicit
+можно купить домой,Service,Rel,positive,fct
+масло оливковое,Food,Rel,positive,explicit
+вкусное,Food,Rel,positive,implicit
+ресторане Пури,Whole,Rel,neutral,explicit
+Заказали столик,Service,Rel,positive,explicit
+Встретила,Service,Rel,neutral,explicit
+девушка администратор,Service,Rel,positive,explicit
+проводила до столика,Service,Rel,neutral,explicit
+Место,Whole,Rel,positive,explicit
+интерьер,Interior,Rel,positive,explicit
+красочное,Interior,Rel,positive,implicit
+домашняя обстановка,Interior,Rel,positive,implicit
+Обслужили,Service,Rel,positive,explicit
+официант Андрей,Service,Rel,positive,explicit
+Уделял нам достаточного много времени,Service,Rel,positive,fct
+не был навязчивым,Service,Rel,positive,implicit
+Порекомендовал,Service,Rel,positive,explicit
+чай,Food,Rel,positive,explicit
+Меню,Food,Rel,positive,explicit
+Принесли заказ,Service,Rel,positive,explicit
+быстро,Service,Rel,positive,implicit
+вкусно,Food,Rel,positive,implicit
+заведения,Whole,Cmpr,neutral,explicit
+ресторане,Whole,Rel,neutral,explicit
+ресторане,Whole,Rel,positive,explicit
+Место,Whole,Rel,positive,explicit
+комфортное,Interior,Rel,positive,implicit
+диванчики,Interior,Rel,positive,explicit
+музыка,Interior,Rel,positive,explicit
+пасту с копчёной грудкой,Food,Rel,positive,explicit
+Овощной салат,Food,Rel,positive,explicit
+Мясная и сырная тарелки,Food,Rel,neutral,explicit
+стейки из мяса и лосося,Food,Rel,positive,explicit
+еда,Food,Rel,positive,explicit
+вкусная,Food,Rel,positive,implicit
+комплимента от шеф-повара,Service,Rel,negative,explicit
+морс,Food,Rel,neutral,explicit
+вино,Food,Rel,neutral,explicit
+водку,Food,Rel,neutral,explicit
+пиво,Food,Rel,neutral,explicit
+ассортимент пива,Food,Rel,negative,explicit
+пабах,Whole,Cmpr,neutral,explicit
+Навязывание,Service,Rel,negative,implicit
+хайнекена,Food,Rel,neutral,explicit
+Атмосфера в ресторане,Interior,Rel,positive,explicit
+ресторан,Whole,Rel,neutral,explicit
+Обслуживание,Service,Rel,positive,explicit
+девушка,Service,Rel,positive,explicit
+доброй,Service,Rel,positive,implicit
+внимательной,Service,Rel,positive,implicit
+ресторан,Whole,Rel,neutral,explicit
+интерьер,Interior,Rel,neutral,explicit
+охранник,Service,Rel,neutral,explicit
+приветливый,Service,Rel,positive,implicit
+администратор,Service,Rel,positive,explicit
+официанта,Service,Rel,neutral,explicit
+приходит достаточно быстро,Service,Rel,positive,fct
+еду,Food,Rel,neutral,explicit
+Обстановка в ресторане,Interior,Rel,positive,explicit
+кухню,Food,Rel,neutral,explicit
+блюда,Food,Rel,positive,explicit
+вкусные,Food,Rel,positive,implicit
+повара,Food,Rel,both,explicit
+ресторане,Whole,Rel,neutral,explicit
+горячее,Food,Rel,both,explicit
+мясное блюдо,Food,Rel,positive,explicit
+мясо,Food,Rel,negative,explicit
+жесткое,Food,Rel,negative,implicit
+не жуется,Food,Rel,negative,fct
+еле теплое,Food,Rel,negative,fct
+заведение,Whole,Rel,positive,explicit
+ресторан,Whole,Cmpr,neutral,explicit
+ресторане,Whole,Rel,positive,explicit
+Заказали столик,Service,Rel,neutral,explicit
+нас уже ждали,Service,Rel,positive,fct
+обслуживание,Service,Rel,positive,explicit
+ненавязчивое,Service,Rel,positive,implicit
+доброжелательное,Service,Rel,positive,implicit
+уютная,Interior,Rel,positive,implicit
+обстановка,Interior,Rel,positive,explicit
+малом зале,Interior,Rel,positive,explicit
+в зале мы были одни,Interior,Rel,positive,fct
+обстановку,Interior,Rel,neutral,explicit
+цветы на столах,Interior,Rel,positive,explicit
+кальяны,Interior,Rel,positive,explicit
+журчание родничка,Interior,Rel,positive,explicit
+романтическую,Interior,Rel,positive,implicit
+атмосферу,Interior,Rel,positive,explicit
+блюд,Food,Rel,neutral,explicit
+кухня,Food,Rel,positive,explicit
+ужина,Food,Rel,neutral,explicit
+подарок от ресторана,Service,Rel,positive,explicit
+вкусный,Food,Rel,positive,implicit
+десерт,Food,Rel,positive,explicit
+меню,Food,Rel,neutral,explicit
+ресторане,Whole,Rel,neutral,explicit
+нижнем зале,Interior,Rel,neutral,explicit
+обстановка ресторана,Interior,Rel,positive,explicit
+красивая,Interior,Rel,positive,implicit
+интерьер,Interior,Rel,positive,explicit
+кормили,Food,Rel,positive,explicit
+всего было много,Food,Rel,positive,fct
+вкусно,Food,Rel,positive,implicit
+`забрали то, что осталось из еды`,Service,Rel,positive,fct
+еды,Food,Rel,neutral,explicit
+доедали,Food,Cmpr,positive,explicit
+меню,Food,Rel,neutral,explicit
+салат &quot;Лагуна&quot;,Food,Rel,positive,explicit
+баклажаны,Food,Rel,positive,explicit
+рулетики с грибами,Food,Rel,positive,explicit
+горячее,Food,Rel,neutral,explicit
+мясо,Food,Rel,neutral,explicit
+рыба,Food,Rel,neutral,explicit
+рыбу-стейк из форели,Food,Rel,positive,explicit
+блюдо,Food,Rel,positive,explicit
+сочным,Food,Rel,positive,implicit
+вкусным,Food,Rel,positive,implicit
+обслуживание,Service,Rel,positive,explicit
+отношение персонала,Service,Rel,positive,explicit
+радушное,Service,Rel,positive,implicit
+тамаду,Service,Rel,neutral,explicit
+рестораном,Whole,Rel,neutral,explicit
+веселый,Service,Rel,positive,implicit
+позитивный,Service,Rel,positive,implicit
+человек,Service,Rel,positive,explicit
+профессионал,Service,Rel,positive,implicit
+Директор,Service,Rel,positive,explicit
+душевный,Service,Rel,positive,implicit
+человек,Service,Rel,positive,explicit
+пожелания учитывает,Service,Rel,positive,fct
+`советует, что и как лучше сделать`,Service,Rel,positive,fct
+отдохнули,Whole,Rel,positive,explicit
+ресторана,Whole,Rel,positive,explicit
+уютный,Interior,Rel,positive,implicit
+ресторанчик,Whole,Rel,positive,explicit
+Вкусное,Food,Rel,positive,implicit
+пиво,Food,Rel,positive,explicit
+суджук,Food,Rel,neutral,explicit
+закуски,Food,Rel,neutral,explicit
+атмосфера,Interior,Rel,positive,explicit
+приветливый,Service,Rel,positive,implicit
+персонал,Service,Rel,positive,explicit
+девушка,Service,Rel,positive,explicit
+администратор ресторана,Service,Rel,positive,explicit
+профессионал,Service,Rel,positive,implicit
+ненавязчивое,Service,Rel,positive,implicit
+обслуживание,Service,Rel,positive,explicit
+дружелюбный,Service,Rel,positive,implicit
+подход к посетителям,Service,Rel,positive,explicit
+внимательное,Service,Rel,positive,implicit
+отношение к клиентам,Service,Rel,positive,explicit
+сервиса,Service,Rel,positive,explicit
+заведений,Whole,Cmpr,neutral,explicit
+места,Whole,Rel,positive,explicit
+Дачи,Whole,Rel,neutral,explicit
+ресторана,Whole,Cmpr,neutral,explicit
+радушное,Service,Rel,positive,implicit
+отношение,Service,Irr,positive,explicit
+вежливый,Service,Rel,positive,implicit
+мужчина из гардероба,Service,Rel,positive,explicit
+администратора,Service,Rel,positive,explicit
+девушка,Service,Rel,positive,explicit
+рассказала,Service,Rel,positive,explicit
+показала,Service,Rel,positive,explicit
+получено на почту меню,Service,Rel,positive,fct
+Девушки официантки,Service,Rel,positive,explicit
+здороваются,Service,Rel,positive,explicit
+улыбаются,Service,Rel,positive,implicit
+интерьер,Interior,Rel,positive,explicit
+пообедать,Food,Rel,neutral,explicit
+радушная,Service,Rel,positive,implicit
+встреча,Service,Rel,positive,explicit
+комплимент в холодную погоду,Service,Rel,positive,fct
+попили,Food,Rel,positive,explicit
+чая,Food,Rel,positive,explicit
+Девушка официантка,Service,Rel,positive,explicit
+вежливая,Service,Rel,positive,implicit
+обслуживание,Service,Rel,positive,explicit
+ненавязчивое,Service,Rel,positive,implicit
+Кухня,Food,Rel,positive,explicit
+Мясо,Food,Rel,positive,explicit
+Мясо из своей коптильни,Food,Rel,positive,fct
+вкуснятина,Food,Rel,positive,implicit
+Порции,Food,Rel,positive,explicit
+ресторана,Whole,Rel,positive,explicit
+место,Whole,Rel,positive,explicit
+заведении,Whole,Prev,neutral,explicit
+персонал,Service,Prev,negative,explicit
+медлителен,Service,Prev,negative,implicit
+дружелюбны,Service,Prev,positive,implicit
+длинный хвост,Whole,Rel,negative,explicit
+мило,Service,Rel,positive,implicit
+встретили,Service,Rel,positive,explicit
+предложили расположиться,Service,Rel,neutral,explicit
+первом этаже,Interior,Rel,neutral,explicit
+будет достаточно быстро,Service,Irr,positive,fct
+официанта,Service,Rel,neutral,explicit
+девушка хостес,Service,Rel,negative,explicit
+разговаривала по телефону,Service,Irn,positive,fct
+официанты,Service,Rel,negative,explicit
+официанты пробегали мимо нас,Service,Rel,negative,fct
+отвечали,Service,Rel,negative,explicit
+игнором,Service,Rel,negative,implicit
+кухни,Food,Prev,positive,explicit
+интерьера,Interior,Prev,positive,explicit
+обслуживание,Service,Rel,negative,explicit
+Народу было очень мало,Interior,Rel,positive,fct
+девушки,Service,Rel,positive,explicit
+спросили о наших предпочтениях,Service,Rel,positive,fct
+проводили на второй этаж,Service,Rel,positive,fct
+заведения,Whole,Rel,neutral,explicit
+Предложили выбрать столик,Service,Rel,positive,fct
+диваны,Interior,Rel,positive,explicit
+подушек,Interior,Rel,positive,explicit
+музыка,Interior,Rel,positive,explicit
+легкий полумрак,Interior,Rel,positive,fct
+полумрак,Interior,Rel,positive,explicit
+обслуживало,Service,Rel,neutral,explicit
+официанта,Service,Rel,neutral,explicit
+учтив,Service,Irr,positive,implicit
+знал составляющие всех блюд,Service,Rel,positive,fct
+вина,Food,Rel,neutral,explicit
+коктейльным напитком,Food,Rel,neutral,explicit
+Медальоны из говядины с запеченным картофелем,Food,Rel,positive,explicit
+рыбы,Food,Cmpr,neutral,explicit
+приготовленное,Food,Rel,positive,explicit
+мясо,Food,Cmpr,positive,explicit
+Заказ принесли,Service,Rel,positive,explicit
+быстро,Service,Rel,positive,implicit
+обслуживании,Service,Rel,positive,explicit
+на зов являлись в течение минуты,Service,Rel,positive,fct
+ресторане,Whole,Rel,positive,explicit
+Проводили с улыбками,Service,Rel,positive,fct
+заведения,Whole,Rel,positive,explicit
+заведение,Whole,Rel,positive,explicit
+много места,Interior,Rel,positive,fct
+залах,Interior,Rel,positive,explicit
+холлах,Interior,Rel,positive,explicit
+гардеробе,Interior,Rel,positive,explicit
+народу почти никого не было,Interior,Rel,positive,fct
+Администратор,Service,Rel,positive,explicit
+проводила к столику,Service,Rel,positive,fct
+подошел,Service,Rel,positive,explicit
+официант,Service,Rel,positive,explicit
+предложил меню,Service,Rel,positive,fct
+грибной суп,Food,Rel,neutral,explicit
+овощи с рыбой,Food,Rel,neutral,explicit
+кофе,Food,Rel,neutral,explicit
+порции,Food,Rel,positive,explicit
+наелась,Food,Rel,positive,implicit
+оформление блюд,Food,Rel,positive,explicit
+Цены,Price,Rel,neutral,explicit
+большая сцена имеется,Interior,Rel,positive,fct
+Заказали столик,Service,Rel,neutral,explicit
+народу под вечер было очень много,Interior,Rel,negative,fct
+У входа встретили,Service,Rel,positive,fct
+предложили выбрать стол,Service,Rel,positive,fct
+Пиво хугарден,Food,Irr,positive,explicit
+бокалах,Interior,Rel,positive,explicit
+Ели,Food,Rel,positive,explicit
+салаты,Food,Rel,positive,explicit
+стейки,Food,Rel,positive,explicit
+пили,Food,Rel,positive,explicit
+водку,Food,Rel,positive,explicit
+пиво,Food,Rel,positive,explicit
+коктейли,Food,Rel,positive,explicit
+соленые грибы,Food,Rel,negative,explicit
+соленые,Food,Rel,negative,explicit
+Селедка,Food,Rel,positive,explicit
+мясная нарезка,Food,Rel,positive,explicit
+Официанты,Service,Rel,positive,explicit
+приносили все быстро,Service,Rel,positive,fct
+подходили узнать все ли нормально,Service,Rel,positive,fct
+заведение,Whole,Rel,positive,explicit
+ресторане,Whole,Rel,neutral,explicit
+Обстановка,Interior,Irr,positive,explicit
+телевизор 90-х годов,Interior,Rel,negative,fct
+неработающий,Interior,Rel,negative,implicit
+фонтан в центре зала,Interior,Rel,negative,explicit
+фоновой музыкой было радио,Interior,Rel,negative,fct
+музыкой,Interior,Rel,negative,explicit
+Заказ приняли,Service,Rel,positive,explicit
+быстро,Service,Rel,positive,implicit
+сервис,Service,Rel,negative,explicit
+сервис закончился,Service,Irr,negative,fct
+ждать чай больше 20 минут,Service,Rel,negative,fct
+принесли,Service,Rel,neutral,explicit
+салат,Food,Rel,neutral,explicit
+готовят,Food,Irr,negative,explicit
+съедобно,Food,Rel,positive,implicit
+Рис,Food,Rel,neutral,explicit
+ждали вместе с чаем больше 20 мин,Service,Rel,negative,fct
+чаем,Food,Rel,neutral,explicit
+китайский ресторан,Whole,Irr,positive,explicit
+блюда,Food,Cmpr,positive,explicit
+украшено,Food,Cmpr,positive,implicit
+аппетитно,Food,Cmpr,positive,implicit
+рис,Food,Rel,negative,explicit
+`принесли на тарелке в таком виде,что я даже есть не стал`,Food,Rel,negative,fct
+рис,Food,Rel,negative,explicit
+комки,Food,Rel,negative,implicit
+`Работала,то одна,то другая официантка`,Service,Rel,negative,fct
+официантка,Service,Rel,negative,explicit
+обслужили,Service,Irr,positive,explicit
+принесли заказ,Service,Irr,positive,fct
+аншлаг,Service,Irr,negative,implicit
+ресторане,Whole,Rel,neutral,explicit
+3-5 столиков было занято,Interior,Rel,positive,fct
+съесть,Food,Cmpr,neutral,explicit
+ролл,Food,Rel,neutral,explicit
+роллы,Food,Rel,positive,explicit
+большой выбор,Food,Rel,positive,fct
+блюд европейской кухни,Food,Rel,positive,explicit
+роллов,Food,Cmpr,positive,explicit
+кафе,Whole,Rel,positive,explicit
+заведение,Whole,Rel,positive,explicit
+без заказа столика мест было не найти,Interior,Prev,negative,fct
+заказа столика,Service,Rel,neutral,explicit
+места практически всегда есть,Interior,Rel,positive,fct
+веранда,Interior,Rel,positive,explicit
+По ценам,Price,Rel,neutral,explicit
+поесть,Food,Rel,neutral,explicit
+роллы,Food,Rel,neutral,explicit
+блюдо,Food,Rel,neutral,explicit
+десерт,Food,Rel,neutral,explicit
+холодные напитки,Food,Rel,neutral,explicit
+1450-1750р с человека,Price,Rel,neutral,explicit
+еды,Food,Cmpr,neutral,explicit
+съесть,Food,Cmpr,neutral,explicit
+место,Whole,Rel,positive,explicit
+еды,Food,Rel,positive,explicit
+обслуживания,Service,Rel,positive,explicit
+паб,Whole,Rel,positive,explicit
+интерьер,Interior,Rel,positive,explicit
+вкусное,Food,Rel,positive,implicit
+пиво,Food,Irr,positive,explicit
+кухня,Food,Rel,positive,explicit
+блюда,Food,Rel,positive,explicit
+вкусны,Food,Rel,positive,implicit
+паб,Whole,Rel,positive,explicit
+живая музыка,Interior,Rel,positive,fct
+атмосфера,Interior,Rel,positive,explicit
+заведения,Whole,Rel,positive,explicit
+ресторане,Whole,Rel,neutral,explicit
+забронировали стол,Service,Rel,neutral,explicit
+ресторан,Whole,Rel,neutral,explicit
+встретил,Service,Rel,positive,explicit
+администратор,Service,Rel,neutral,explicit
+девушка,Service,Rel,positive,explicit
+проводила к столику,Service,Rel,positive,fct
+все подготовлено к банкету,Service,Rel,positive,fct
+провели время,Whole,Rel,positive,explicit
+Вкусная,Food,Rel,positive,implicit
+еда,Food,Rel,positive,explicit
+любезное,Service,Rel,positive,implicit
+обслуживание,Service,Rel,positive,explicit
+музыка,Interior,Rel,positive,explicit
+праздничная,Interior,Rel,positive,implicit
+обстановка,Interior,Rel,positive,explicit
+Очень много народу,Interior,Rel,negative,fct
+заказывали заранее,Service,Rel,neutral,explicit
+заказ приносили,Service,Rel,negative,explicit
+долго,Service,Rel,negative,implicit
+пивом,Food,Rel,neutral,explicit
+Гриль,Food,Rel,positive,explicit
+пиво,Food,Rel,positive,explicit
+Маленький выбор вина,Food,Rel,negative,fct
+вина,Food,Rel,negative,explicit
+нет классичсеских сортов пива,Food,Rel,negative,fct
+пива,Food,Rel,negative,explicit
+сервиса,Service,Rel,positive,explicit
+кухни,Food,Rel,positive,explicit
+атмосферы,Interior,Rel,positive,explicit
+музыка,Interior,Rel,positive,explicit
+заведения,Whole,Rel,neutral,explicit
+заказать столик,Service,Rel,neutral,explicit
+вкусно,Food,Rel,positive,implicit
+ресторан,Whole,Rel,neutral,explicit
+народу было на удивление немного,Interior,Rel,positive,fct
+пили,Food,Rel,negative,explicit
+пиво,Food,Rel,neutral,explicit
+пили,Food,Rel,neutral,explicit
+красное вино,Food,Rel,positive,explicit
+роллы,Food,Rel,neutral,explicit
+филадельфию,Food,Rel,neutral,explicit
+острые,Food,Rel,neutral,explicit
+запеченные,Food,Rel,neutral,explicit
+супы,Food,Rel,positive,explicit
+вкусные,Food,Rel,positive,implicit
+горячее,Food,Rel,neutral,explicit
+перечный стейк,Food,Cmpr,positive,explicit
+Не всегда угадывают с прожаркой,Food,Cmpr,negative,fct
+живой музыки,Interior,Prev,positive,explicit
+место,Whole,Rel,positive,explicit
+за такие деньги,Price,Rel,positive,fct
+деньги,Price,Rel,positive,explicit
+ресторан,Whole,Rel,neutral,explicit
+обслуживание,Service,Rel,negative,explicit
+Минут 10 мы ждали,Food,Rel,negative,fct
+подойдет,Service,Irr,neutral,explicit
+принесет меню,Service,Irr,neutral,explicit
+минут 15 пытались заказать,Service,Rel,negative,fct
+всем было не до нас,Service,Rel,negative,fct
+блюда,Food,Rel,neutral,explicit
+цезарь,Food,Rel,neutral,explicit
+морс,Food,Rel,neutral,explicit
+пасту,Food,Rel,neutral,explicit
+блины,Food,Rel,neutral,explicit
+морс,Food,Rel,neutral,explicit
+Через 30 минут мне принесли салат,Service,Rel,negative,fct
+салат,Food,Rel,neutral,explicit
+минут через 10 - блины,Service,Rel,negative,fct
+блины,Food,Rel,neutral,explicit
+морс,Food,Rel,neutral,explicit
+хлеб,Food,Rel,neutral,explicit
+прошло еще минут 10,Service,Rel,negative,fct
+получили только морс,Service,Rel,negative,fct
+морс,Food,Rel,neutral,explicit
+уже не до пасты,Service,Rel,negative,fct
+пасты,Food,Rel,neutral,explicit
+принесут,Service,Irr,positive,explicit
+пасту,Food,Irr,neutral,explicit
+поесть,Food,Irr,neutral,explicit
+Заплатили,Price,Rel,neutral,explicit
+пасту,Food,Rel,neutral,explicit
+попробовать,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+кухне,Food,Rel,positive,explicit
+сервис,Service,Rel,negative,explicit
+ресторан,Whole,Rel,both,explicit
+поесть,Food,Rel,negative,explicit
+живую музыку,Interior,Rel,positive,explicit
+Заказали столик,Service,Rel,neutral,explicit
+первом этаже,Interior,Rel,neutral,explicit
+кафешка,Whole,Rel,neutral,explicit
+втором этаже,Interior,Rel,neutral,explicit
+3 зала,Interior,Rel,neutral,explicit
+еды,Food,Rel,neutral,explicit
+соответствовало своим вкусовым качествам и моему вкусу,Food,Rel,positive,fct
+роллы Филадельфия,Food,Irr,positive,explicit
+греческий салат,Food,Rel,positive,explicit
+пиво,Food,Rel,positive,explicit
+Меню,Food,Rel,positive,explicit
+цены,Price,Rel,positive,explicit
+интерьер,Interior,Rel,positive,explicit
+Столики,Interior,Rel,positive,explicit
+музыка,Interior,Rel,positive,explicit
+Уютное,Interior,Rel,positive,implicit
+место,Whole,Rel,positive,explicit
+дружелюбно,Service,Rel,positive,implicit
+вкусно,Food,Rel,positive,implicit
+свободных мест было достаточно,Interior,Rel,positive,fct
+удобные,Interior,Rel,positive,implicit
+диванчики,Interior,Rel,positive,explicit
+стол для большой компании,Interior,Rel,positive,fct
+Официант-бармен,Service,Rel,positive,explicit
+заведения,Whole,Rel,positive,explicit
+Заказ приняли,Service,Rel,positive,explicit
+быстро,Service,Irr,positive,implicit
+принесли,Service,Rel,positive,explicit
+Лимонад,Food,Rel,neutral,explicit
+салат,Food,Rel,neutral,explicit
+стейк,Food,Rel,neutral,explicit
+кофе,Food,Rel,neutral,explicit
+сидеть над пустой тарелкой не пришлось,Service,Rel,positive,fct
+Еда,Food,Rel,positive,explicit
+вкусная,Food,Rel,positive,implicit
+Стейк,Food,Rel,positive,explicit
+стейком,Food,Cmpr,positive,explicit
+куском жаренного мяса,Food,Irr,negative,explicit
+приборы,Interior,Rel,positive,explicit
+посуда,Interior,Rel,positive,explicit
+интерьер,Interior,Rel,positive,explicit
+Чек,Price,Rel,positive,explicit
+Чек был на 860 руб,Price,Rel,positive,fct
+дешево,Price,Rel,positive,implicit
+Кофе был в подарок,Service,Rel,positive,fct
+Кофе,Food,Rel,positive,explicit
+заведение,Whole,Cmpr,positive,explicit
+заведение,Whole,Rel,neutral,explicit
+место,Whole,Rel,positive,explicit
+место,Whole,Rel,positive,explicit
+место,Whole,Rel,positive,explicit
+интерьер,Interior,Rel,positive,explicit
+Персонал,Service,Rel,positive,explicit
+приветливый,Service,Rel,positive,implicit
+отзывчивый,Service,Rel,positive,implicit
+Еда,Food,Rel,positive,explicit
+порции,Food,Rel,positive,explicit
+ресторана,Whole,Rel,negative,explicit
+очень людно,Interior,Rel,negative,fct
+заказывайте стол заранее,Service,Rel,negative,fct
+Обстановка,Interior,Rel,positive,explicit
+уютная,Interior,Rel,positive,implicit
+возможность выбрать цвет интерьера,Interior,Rel,positive,fct
+интерьера,Interior,Rel,positive,explicit
+оформили зал в бело-розовых тонах,Interior,Rel,positive,fct
+зал,Interior,Rel,positive,explicit
+красиво,Interior,Rel,positive,implicit
+вкуснейшей,Food,Rel,positive,implicit
+еды,Food,Irr,positive,explicit
+Не навязчивое,Service,Rel,positive,implicit
+обслуживание официантов,Service,Rel,positive,explicit
+убирали со столов,Service,Rel,positive,explicit
+приносили,Service,Rel,positive,explicit
+блюда,Food,Rel,neutral,explicit
+напитки,Food,Rel,neutral,explicit
+система кондиционирования,Interior,Rel,positive,explicit
+зале,Interior,Rel,positive,explicit
+комфортно,Interior,Rel,positive,implicit
+официанты,Service,Rel,positive,explicit
+администратор,Service,Rel,positive,explicit
+упаковали всё в свои ланч-боксы,Service,Rel,positive,fct
+банкетый зал,Interior,Rel,positive,explicit
+ресторан,Whole,Rel,neutral,explicit
+основной зал,Interior,Rel,negative,explicit
+детская комната,Interior,Rel,positive,fct
+с ребенком сидела няня пока мы ужинали,Service,Rel,positive,fct
+няня,Service,Rel,positive,explicit
+ужинали,Food,Rel,positive,explicit
+бесплатное,Price,Rel,positive,implicit
+детское меню,Food,Rel,positive,explicit
+музыка,Interior,Rel,both,explicit
+живая музыка,Interior,Rel,positive,fct
+Обслуживал,Service,Rel,positive,explicit
+молодой человек,Service,Rel,positive,explicit
+блюда,Food,Rel,positive,explicit
+Кухня,Food,Irr,positive,explicit
+Вкусный,Food,Rel,positive,implicit
+шашлык,Food,Rel,positive,explicit
+выбор салатов,Food,Rel,positive,explicit
+выбор алкоголя,Food,Rel,positive,explicit
+цена,Price,Rel,positive,explicit
+заведение,Whole,Rel,negative,explicit
+место,Whole,Rel,negative,explicit
+гостей никто не встречает,Service,Rel,negative,fct
+не провожает к столу,Service,Rel,negative,fct
+зал для курящих или не курящих предложен вообще не был,Service,Rel,negative,fct
+зал для курящих,Interior,Rel,neutral,explicit
+бизнес-ланч,Food,Rel,neutral,explicit
+меню я так и не увидела,Service,Rel,negative,fct
+Заказ был принят,Service,Rel,negative,explicit
+вслед уходящему официанту мы договаривали свой заказ,Service,Rel,negative,fct
+официанту,Service,Rel,negative,explicit
+чай,Food,Rel,negative,explicit
+принесли без жасмина,Service,Rel,negative,fct
+хлеб,Food,Rel,neutral,explicit
+хлеб не был предложен,Service,Rel,negative,fct
+ничего предложено не было,Service,Rel,negative,fct
+обслуживанием,Service,Rel,negative,explicit
+заведения,Whole,Rel,negative,explicit
+`счёт нам вынесли,когда мы еще кушали`,Service,Rel,negative,fct
+кушали,Food,Rel,neutral,explicit
+заведении,Whole,Rel,negative,explicit
+Интерьер,Interior,Rel,positive,explicit
+диванчики,Interior,Rel,negative,explicit
+место,Whole,Rel,neutral,explicit
+кухня,Food,Rel,positive,explicit
+заведении,Whole,Rel,neutral,explicit
+блюд,Food,Rel,neutral,explicit
+пасту,Food,Rel,positive,explicit
+вкус,Food,Rel,positive,explicit
+Порции,Food,Rel,positive,explicit
+блюд,Food,Rel,positive,explicit
+бифштекс,Food,Rel,negative,explicit
+бифштекс,Food,Cmpr,neutral,explicit
+заведении,Whole,Rel,neutral,explicit
+домашнее мороженое,Food,Rel,positive,explicit
+десертов,Food,Cmpr,neutral,explicit
+Официантки,Service,Rel,positive,explicit
+приветливы,Service,Rel,positive,implicit
+Приносят,Service,Rel,positive,explicit
+уносят,Service,Rel,positive,explicit
+Блюда подаются после заказа очень быстро,Service,Rel,positive,fct
+Блюда,Food,Rel,neutral,explicit
+подаются,Service,Rel,positive,explicit
+место,Whole,Rel,positive,explicit
+Интерьер,Interior,Rel,positive,explicit
+уютный,Interior,Rel,positive,implicit
+выбор столиков,Interior,Rel,positive,fct
+заведение,Whole,Rel,positive,explicit
+бронировать стол,Service,Prev,neutral,explicit
+бесплатно,Price,Rel,positive,implicit
+ресторана,Whole,Rel,negative,explicit
+паба,Whole,Rel,negative,explicit
+Встретила,Service,Rel,negative,explicit
+обслуживала,Service,Rel,negative,explicit
+хамоватая,Service,Rel,negative,implicit
+официантка,Service,Rel,negative,explicit
+Половина блюд из меню в наличии не было,Food,Rel,negative,fct
+блюд из меню,Food,Rel,negative,explicit
+официантка,Service,Rel,negative,explicit
+сырные палочки,Food,Rel,neutral,explicit
+офицантка,Service,Rel,neutral,explicit
+уронила на пол,Service,Rel,negative,fct
+палочки,Food,Rel,negative,explicit
+палочек,Food,Rel,negative,explicit
+место,Whole,Rel,positive,explicit
+выпить,Food,Rel,neutral,explicit
+пиво,Food,Rel,neutral,explicit
+цезарь с креветками,Food,Rel,negative,explicit
+курицы не оказалось,Food,Rel,negative,fct
+курицы,Food,Rel,negative,explicit
+официантка,Service,Rel,negative,explicit
+не слишком вежливо поинтересовалась,Service,Rel,negative,fct
+поадекватнее,Service,Irr,positive,implicit
+персонал,Service,Irr,positive,explicit
+блюда,Food,Irr,positive,explicit
+блюда все в наличии,Food,Irr,positive,fct
+ресторан,Whole,Cmpr,neutral,explicit
+кафе &quot;Кон-Коронель,Whole,Rel,neutral,explicit
+месте,Whole,Rel,positive,explicit
+шоу программа,Interior,Rel,positive,explicit
+ведущая,Interior,Rel,positive,explicit
+доброжелательную,Interior,Rel,positive,implicit
+непренуждённую,Interior,Rel,positive,implicit
+атмосферу,Interior,Rel,positive,explicit
+кухни,Food,Rel,positive,explicit
+обслуживания,Service,Rel,positive,explicit
+официанты,Service,Rel,positive,explicit
+дружелюбные,Service,Rel,positive,implicit
+банкетного меню,Food,Rel,positive,explicit
+администратору Ирине,Service,Rel,positive,explicit
+ресторану,Whole,Rel,positive,explicit
+персоналу,Service,Rel,positive,explicit
+выбора места,Whole,Cmpr,neutral,explicit
+Кон-Коронель,Whole,Rel,positive,explicit
+Санам,Whole,Rel,neutral,explicit
+интерьер,Interior,Rel,positive,explicit
+обслуживание,Service,Rel,positive,explicit
+быстро,Service,Rel,positive,implicit
+ненавязчиво,Service,Rel,positive,implicit
+Кухня,Food,Rel,positive,explicit
+блюда,Food,Rel,positive,explicit
+блюдо,Food,Rel,positive,explicit
+порции,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+кальян,Food,Rel,positive,explicit
+выбор коктейлей,Food,Rel,positive,explicit
+оргазм,Food,Rel,positive,explicit
+клубничная маргарита,Food,Rel,positive,explicit
+уютное,Interior,Rel,positive,explicit
+место,Whole,Rel,positive,explicit
+Быстрое,Service,Rel,positive,implicit
+вежливое,Service,Rel,positive,implicit
+обслуживание,Service,Rel,positive,explicit
+Вкусное,Food,Rel,positive,implicit
+свежее,Food,Rel,positive,implicit
+пиво,Food,Rel,positive,explicit
+свежесваренное,Food,Rel,positive,implicit
+кухне,Food,Rel,neutral,explicit
+кусок свинины,Food,Rel,positive,explicit
+место,Whole,Rel,positive,explicit
+уюта,Interior,Rel,positive,implicit
+второй этаж,Interior,Rel,positive,explicit
+свежего,Food,Rel,positive,implicit
+пива,Food,Rel,positive,explicit
+пивном ресторане,Whole,Cmpr,neutral,explicit
+ПИВО,Food,Cmpr,neutral,explicit
+хлебные греночки с сыром,Food,Rel,positive,explicit
+сушки с перчиком,Food,Rel,positive,explicit
+десертик,Food,Rel,positive,explicit
+Карпаччо из ананаса,Food,Rel,positive,explicit
+манго в имбирном соусе,Food,Rel,positive,explicit
+внимательном,Service,Rel,positive,implicit
+отношении к посетителям,Service,Rel,positive,explicit
+сырные шарики,Food,Prev,neutral,explicit
+официантка,Service,Prev,positive,explicit
+заказать другую закуску ЗА СЧЕТ ЗАВЕДЕНИЯ,Service,Prev,positive,fct
+закуску,Food,Prev,positive,explicit
+ЗАВЕДЕНИЯ,Whole,Prev,positive,explicit
+сырными шариками,Food,Prev,negative,explicit
+замена за счет заведения,Service,Prev,positive,fct
+заведения,Whole,Prev,positive,explicit
+ресторане,Whole,Rel,neutral,explicit
+уютном,Interior,Irr,positive,implicit
+месте,Whole,Irr,positive,explicit
+кухней,Food,Irr,positive,explicit
+заказан столик,Service,Rel,neutral,explicit
+2 этаже,Interior,Rel,neutral,explicit
+тоже забронирован это стол,Service,Rel,negative,fct
+заведении,Whole,Rel,negative,explicit
+салатов,Food,Rel,negative,explicit
+салата цезарь,Food,Rel,negative,explicit
+соус,Food,Rel,negative,explicit
+невкусный,Food,Rel,negative,implicit
+курица,Food,Rel,negative,explicit
+салат с авокадо,Food,Rel,both,explicit
+горячего,Food,Rel,neutral,explicit
+манты,Food,Rel,negative,explicit
+десерты,Food,Rel,positive,explicit
+Пирожные,Food,Rel,positive,explicit
+вкусные,Food,Rel,positive,implicit
+торт из шоколада,Food,Rel,positive,explicit
+ресторана,Whole,Rel,negative,explicit
+оставили 10 тысяч,Price,Rel,neutral,explicit
+еда,Food,Rel,neutral,explicit
+алкогольному коктейлю,Food,Rel,neutral,explicit
+Кухня,Food,Rel,positive,explicit
+интерьер,Interior,Rel,positive,explicit
+места довольно много,Interior,Rel,positive,fct
+салат цезарь,Food,Rel,neutral,explicit
+ролл Радуга,Food,Irr,neutral,explicit
+чизкейк,Food,Rel,neutral,explicit
+Салат,Food,Rel,positive,explicit
+вкусный,Food,Rel,positive,implicit
+соус,Food,Rel,negative,explicit
+Ролл Радуга,Food,Rel,negative,explicit
+`роллы огромные, в рот не влезают`,Food,Rel,negative,fct
+роллы,Food,Rel,negative,explicit
+вкус,Food,Rel,positive,explicit
+Чизкейк,Food,Rel,both,explicit
+вкусный,Food,Rel,positive,implicit
+клубничного пюре,Food,Rel,negative,explicit
+рис с курицей,Food,Rel,positive,explicit
+вкусный,Food,Rel,positive,implicit
+цена,Price,Rel,positive,explicit
+мисо суп,Food,Rel,negative,explicit
+безвкусный,Food,Rel,negative,implicit
+тирамису,Food,Irr,positive,explicit
+долго ждали,Service,Rel,negative,fct
+меню несут быстро,Service,Cmpr,positive,fct
+обслуживали,Service,Rel,positive,explicit
+быстро,Service,Rel,positive,implicit
+Официант,Service,Rel,both,explicit
+не очень улыбчивый,Service,Rel,negative,implicit
+вежливый,Service,Rel,positive,implicit
+ресторан,Whole,Cmpr,neutral,explicit
+&quot;Мидзуки&quot;,Whole,Rel,positive,explicit
+уютное,Interior,Rel,positive,implicit
+место,Whole,Rel,positive,explicit
+вкусная,Food,Rel,positive,implicit
+еда,Food,Rel,positive,explicit
+роллы,Food,Rel,positive,explicit
+рис с курицей,Food,Rel,positive,explicit
+музыка,Interior,Rel,positive,explicit
+Сервис,Service,Rel,positive,explicit
+официантки,Service,Rel,positive,explicit
+Ждать заказа,Service,Rel,positive,explicit
+ресторана,Whole,Irr,neutral,explicit
+вечер,Whole,Rel,positive,explicit
+ресторане,Whole,Prev,neutral,explicit
+вкусную,Food,Prev,positive,implicit
+пиццу на тонком тесте,Food,Prev,positive,explicit
+ела,Food,Prev,neutral,explicit
+Da Albertone,Whole,Rel,positive,explicit
+место,Whole,Irr,positive,explicit
+встретил,Service,Rel,positive,explicit
+официант,Service,Rel,positive,explicit
+гардеробщик,Service,Rel,positive,explicit
+вежливо,Service,Rel,positive,implicit
+раздели-проводили,Service,Rel,positive,explicit
+Зал,Interior,Rel,neutral,explicit
+пасту Карбонару,Food,Rel,neutral,explicit
+ролл Филадельфияи,Food,Rel,neutral,explicit
+десерт,Food,Rel,neutral,explicit
+Тирамису,Food,Rel,neutral,explicit
+Карбонара,Food,Rel,positive,explicit
+ароматная,Food,Rel,positive,implicit
+паста,Food,Rel,positive,explicit
+Филадельфию,Food,Rel,positive,explicit
+лосося-филадельфии-чуток риса,Food,Rel,positive,explicit
+Десерт Тирамису,Food,Rel,positive,explicit
+таял во рту,Food,Rel,positive,implicit
+Атмосфера,Interior,Rel,positive,explicit
+уютное,Interior,Rel,positive,implicit
+спокойное,Interior,Rel,positive,explicit
+место,Whole,Rel,positive,explicit
+музыка,Interior,Rel,positive,explicit
+дамской комнате,Interior,Rel,negative,explicit
+убираются,Interior,Rel,negative,explicit
+Урна полностью забита,Interior,Rel,negative,fct
+заведение,Whole,Rel,neutral,explicit
+обслуживание,Service,Rel,positive,explicit
+доброжелательная,Service,Rel,positive,implicit
+улыбчивая,Service,Rel,positive,implicit
+администратор Екатерина,Service,Rel,positive,explicit
+встретила,Service,Rel,positive,explicit
+посадила,Service,Rel,positive,explicit
+столик,Interior,Rel,positive,explicit
+Обслуживала,Service,Rel,positive,explicit
+девушка-официант,Service,Rel,positive,explicit
+фондю,Food,Rel,positive,explicit
+обслуживали,Service,Rel,positive,explicit
+оперативно,Service,Rel,positive,implicit
+не сказалось на качестве блюда,Food,Rel,positive,fct
+блюда,Food,Rel,positive,explicit
+Официант,Service,Rel,positive,explicit
+обслуживающий персонал,Service,Rel,positive,explicit
+знает своё дело,Service,Rel,positive,fct
+&quot;Чердак Художника&quot;,Whole,Rel,positive,explicit
+местом,Whole,Rel,positive,explicit
+ресторана,Whole,Rel,neutral,explicit
+интерьера,Interior,Rel,positive,explicit
+кухни,Food,Rel,positive,explicit
+шеф повару,Food,Rel,positive,explicit
+выбор закусок,Food,Rel,positive,explicit
+пиву,Food,Rel,neutral,explicit
+перчики халапена,Food,Rel,positive,explicit
+блюдо,Food,Rel,positive,explicit
+цены,Price,Rel,positive,explicit
+порции,Food,Rel,positive,explicit
+ресторанов,Whole,Cmpr,positive,explicit
+вкусно,Food,Rel,positive,implicit
+не дорого,Price,Rel,positive,implicit
+покушать,Food,Rel,positive,explicit
+обслуживающий персонал,Service,Rel,positive,explicit
+Девушка,Service,Rel,positive,explicit
+обслуживала,Service,Rel,positive,explicit
+разбирается в предсталенной рестораном еде,Service,Rel,positive,fct
+рестораном,Whole,Rel,neutral,explicit
+еде,Food,Rel,neutral,explicit
+порекомендовала,Service,Rel,positive,explicit
+закуски,Food,Rel,neutral,explicit
+пиво,Food,Rel,positive,explicit
+на любой вкус,Food,Rel,positive,implicit
+бармен,Service,Rel,positive,explicit
+пиве,Food,Rel,neutral,explicit
+подобрал каждому из нас пиво по вкусу,Service,Rel,positive,fct
+пиво,Food,Rel,positive,explicit
+пивном баре,Whole,Rel,positive,explicit
+Гроссенштрассе,Whole,Rel,positive,explicit
+рестораны,Whole,Cmpr,neutral,explicit
+уютном,Interior,Cmpr,positive,implicit
+кафе,Whole,Cmpr,positive,explicit
+место,Whole,Rel,positive,explicit
+выпить,Food,Rel,neutral,explicit
+кофе,Food,Rel,neutral,explicit
+кафе &quot;White-Rabbit&quot;,Whole,Rel,positive,explicit
+уютная,Interior,Rel,positive,implicit
+атмосфера,Interior,Rel,positive,explicit
+приветливый,Service,Rel,positive,implicit
+персонал,Service,Rel,positive,explicit
+интерьер,Interior,Rel,positive,explicit
+дизайнеру,Interior,Rel,positive,explicit
+пила,Food,Rel,positive,explicit
+американо,Food,Rel,positive,explicit
+вкусный,Food,Rel,positive,implicit
+ела,Food,Rel,positive,explicit
+филадельфию,Food,Rel,positive,explicit
+продукты,Food,Rel,positive,explicit
+свежие,Food,Rel,positive,implicit
+кофе,Food,Rel,positive,explicit
+ароматный,Food,Rel,positive,implicit
+стейка,Food,Rel,neutral,explicit
+стриплойн,Food,Rel,neutral,explicit
+красного вина,Food,Rel,neutral,explicit
+стейки,Food,Rel,positive,explicit
+вкусные,Food,Rel,positive,explicit
+обслуживание,Service,Rel,positive,explicit
+тарелки исчезают сразу же,Service,Rel,positive,fct
+вина,Food,Prev,neutral,explicit
+место,Whole,Rel,positive,explicit
+ресторанчик,Whole,Rel,positive,explicit
+обслуживанию,Service,Rel,negative,explicit
+долго ждали официанта с меню,Service,Rel,negative,fct
+официанта,Service,Rel,negative,explicit
+Интерьер,Interior,Rel,neutral,explicit
+блюд,Food,Rel,neutral,explicit
+томатный суп,Food,Rel,neutral,explicit
+ризотто с белыми грибами,Food,Rel,neutral,explicit
+пасту с креветками,Food,Rel,neutral,explicit
+Цезарь,Food,Rel,neutral,explicit
+Порции,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+Цезарь с курицей,Food,Rel,negative,explicit
+соус,Food,Rel,negative,explicit
+невкусный,Food,Rel,negative,implicit
+рыбным запахом,Food,Rel,negative,fct
+место,Whole,Rel,positive,explicit
+вкусной,Food,Rel,positive,implicit
+трапезы итальянской кухни,Food,Rel,positive,explicit
+цене,Price,Rel,positive,explicit
+VIP зале,Interior,Rel,neutral,explicit
+оформление стола,Interior,Rel,positive,explicit
+подсвечник с горящими свечами,Interior,Rel,positive,explicit
+уютную,Interior,Rel,positive,implicit
+атмосферу,Interior,Rel,positive,explicit
+Обслуживание,Service,Rel,positive,explicit
+тарелки убирали сразу,Service,Rel,positive,fct
+блюда,Food,Rel,neutral,explicit
+приносили,Service,Rel,positive,explicit
+быстро,Service,Rel,positive,implicit
+не надо было ждать,Service,Rel,positive,fct
+Кухня,Food,Rel,positive,explicit
+размер порций,Food,Rel,positive,explicit
+свежим,Food,Rel,positive,implicit
+вкусным,Food,Rel,positive,implicit
+отсутствие живой музыки,Interior,Rel,negative,fct
+небольшие деньги,Price,Rel,positive,fct
+деньги,Price,Rel,positive,explicit
+поели,Food,Rel,positive,explicit
+ресторан,Whole,Rel,positive,explicit
+Интерьер,Interior,Rel,positive,explicit
+лаконичный,Interior,Rel,positive,implicit
+уютно,Interior,Rel,positive,implicit
+по-домашнему,Interior,Rel,positive,implicit
+Обслуживание,Service,Rel,positive,explicit
+быстрое,Service,Rel,positive,implicit
+внимательное,Service,Rel,positive,implicit
+Еда,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+салат &quot;Цезарь&quot;,Food,Rel,positive,explicit
+спагетти Карбонара,Food,Rel,positive,explicit
+лазанью,Food,Rel,positive,explicit
+стейк из лосося,Food,Rel,positive,explicit
+быстро,Service,Irr,positive,implicit
+ресторану,Whole,Rel,positive,explicit
+выпить,Food,Rel,neutral,explicit
+пива,Food,Rel,neutral,explicit
+Столик заказали,Service,Rel,neutral,explicit
+встретили,Service,Rel,positive,explicit
+проводили,Service,Rel,positive,explicit
+принесли меню,Service,Rel,positive,explicit
+оперативно,Service,Rel,positive,implicit
+Заведение,Whole,Rel,positive,explicit
+Интерьер,Interior,Rel,neutral,explicit
+пабах,Whole,Cmpr,neutral,explicit
+стеллажи с книгами,Interior,Rel,positive,fct
+диваны,Interior,Rel,positive,explicit
+Пиво,Food,Rel,positive,explicit
+вкусное,Food,Rel,positive,implicit
+отварные креветки,Food,Rel,neutral,explicit
+креветки,Food,Rel,both,explicit
+креветки,Food,Cmpr,neutral,explicit
+салат &quot;Салмон&quot; с лососем,Food,Rel,both,explicit
+пресноват,Food,Rel,negative,implicit
+соуса,Food,Rel,negative,explicit
+кольца кальмара в кляре,Food,Rel,positive,explicit
+пиво,Food,Rel,neutral,explicit
+мясные чипсы из говядины,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+Рагу,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+бульон с мясом,Food,Cmpr,neutral,explicit
+королевские креветки с соусом,Food,Rel,positive,explicit
+вкусное,Food,Rel,positive,implicit
+блюдо,Food,Rel,positive,explicit
+цены,Price,Rel,neutral,explicit
+одна официантка на весь зал,Service,Rel,negative,fct
+официантка,Service,Rel,negative,explicit
+столики,Interior,Rel,neutral,explicit
+напитки,Food,Rel,neutral,explicit
+блюда,Food,Rel,neutral,explicit
+долго ждать не приходилось,Service,Irr,positive,fct
+приветливости,Service,Rel,both,implicit
+счёт,Price,Rel,neutral,explicit
+заведение,Whole,Rel,positive,explicit
+Дугласе,Whole,Rel,neutral,explicit
+интерьер,Interior,Rel,positive,explicit
+кабинке на диване,Interior,Rel,positive,fct
+комфортно,Interior,Rel,positive,implicit
+барную стойку,Interior,Rel,neutral,explicit
+сочетание в одном заведении ресторана и бара,Interior,Rel,positive,fct
+заведении,Whole,Rel,positive,explicit
+ресторана,Whole,Rel,positive,explicit
+бара,Whole,Rel,positive,explicit
+кухни,Food,Rel,neutral,explicit
+европейские и японские блюда,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+порции,Food,Rel,positive,explicit
+Меню,Food,Rel,both,explicit
+выбор алкоголя,Food,Rel,positive,explicit
+коктейлей,Food,Rel,neutral,explicit
+пива,Food,Rel,neutral,explicit
+виски,Food,Rel,neutral,explicit
+выпить,Food,Rel,positive,explicit
+поесть,Food,Rel,positive,explicit
+Напитки,Food,Rel,neutral,explicit
+приносили сразу,Service,Rel,positive,fct
+блюда,Food,Rel,neutral,explicit
+ждать приходилось не долго,Service,Rel,positive,fct
+вечер,Whole,Rel,positive,explicit
+заведение,Whole,Rel,positive,explicit
+ресторан,Whole,Rel,positive,explicit
+Встретили,Service,Rel,positive,explicit
+Показали свободный столик,Service,Rel,neutral,explicit
+Милая,Service,Rel,positive,implicit
+девушка,Service,Rel,positive,explicit
+принесла меню,Service,Rel,neutral,explicit
+Меню,Food,Rel,positive,explicit
+салат из говяжей вырезки,Food,Rel,neutral,explicit
+суп мясной,Food,Rel,neutral,explicit
+каре баранины,Food,Rel,neutral,explicit
+сок,Food,Irr,neutral,explicit
+девушка,Service,Rel,neutral,explicit
+натуральный морс,Food,Rel,neutral,explicit
+салат,Food,Rel,positive,explicit
+суп,Food,Rel,positive,explicit
+Каре баранины,Food,Rel,positive,explicit
+порции,Food,Rel,positive,explicit
+повару,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+Интерьер,Interior,Rel,positive,explicit
+красивый,Interior,Rel,positive,implicit
+со вкусом,Interior,Rel,positive,implicit
+Цвет,Interior,Rel,positive,explicit
+гамма,Interior,Rel,positive,explicit
+стулья,Interior,Rel,positive,explicit
+красиво,Interior,Irr,positive,implicit
+удобно,Interior,Rel,positive,implicit
+поужинать,Food,Rel,positive,explicit
+Сервис,Service,Rel,positive,explicit
+ресторане &quot;Любимый&quot;,Whole,Rel,neutral,explicit
+ужин,Food,Rel,neutral,explicit
+Интерьер ресторана,Interior,Rel,positive,explicit
+Обслуживающий персонал,Service,Rel,negative,explicit
+обслуживания,Service,Rel,negative,explicit
+официант Анастасия,Service,Rel,negative,explicit
+уронила грязные приборы на гостя,Service,Rel,negative,fct
+забирала посуду в которой еще находилась еда,Service,Rel,negative,fct
+еда,Food,Rel,neutral,explicit
+пустую посуду оставляла на столе,Service,Rel,negative,fct
+Текилы,Food,Rel,neutral,explicit
+лимон,Food,Rel,neutral,explicit
+соль,Food,Rel,neutral,explicit
+приносилось отдельно,Service,Rel,negative,fct
+ресторан,Whole,Rel,negative,explicit
+рестораны,Whole,Cmpr,positive,explicit
+цене,Price,Cmpr,positive,explicit
+качеству обслуживания,Service,Cmpr,positive,explicit
+вкусные,Food,Rel,positive,implicit
+суши,Food,Rel,positive,explicit
+интерьер,Interior,Rel,neutral,explicit
+Ресторан,Whole,Rel,both,explicit
+Интерьер,Interior,Rel,positive,explicit
+комфортный,Interior,Rel,positive,implicit
+Кухня,Food,Rel,positive,explicit
+суши,Food,Rel,positive,explicit
+свежая,Food,Rel,positive,implicit
+рыба,Food,Rel,positive,explicit
+сваренный,Food,Rel,positive,explicit
+рис,Food,Rel,positive,explicit
+классичесикие суши,Food,Rel,positive,explicit
+роллы,Food,Rel,positive,explicit
+порции,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+вкусные,Food,Rel,positive,explicit
+вареники с вишней,Food,Rel,positive,explicit
+Сервис,Service,Rel,positive,explicit
+Цены,Price,Rel,neutral,explicit
+суши,Food,Rel,neutral,explicit
+роллы,Food,Rel,neutral,explicit
+напитки,Food,Rel,positive,explicit
+не дорогие,Price,Rel,positive,implicit
+место,Whole,Rel,positive,explicit
+японской кухни,Food,Rel,neutral,explicit
+ресторан,Whole,Rel,positive,explicit
+ресторан,Whole,Cmpr,positive,explicit
+обеда,Food,Cmpr,neutral,explicit
+ужина,Food,Cmpr,neutral,explicit
+пообедать,Food,Rel,neutral,explicit
+перекусить,Food,Rel,positive,explicit
+кофе,Food,Rel,negative,explicit
+не вкусный,Food,Rel,negative,implicit
+вкусный,Food,Rel,positive,implicit
+обед,Food,Rel,positive,explicit
+ресторан,Whole,Rel,neutral,explicit
+интерьер,Interior,Rel,positive,explicit
+красивое,Interior,Rel,positive,implicit
+уютное,Interior,Rel,positive,implicit
+место,Whole,Rel,positive,explicit
+Обслуживающий персонал,Service,Rel,positive,explicit
+официанту,Service,Rel,positive,explicit
+официанту пришлось много нам объяснять,Service,Rel,positive,fct
+азиатской такой кухней,Food,Rel,neutral,explicit
+помог выбрать,Service,Rel,positive,fct
+кокосовый суп с морепродуктами,Food,Rel,neutral,explicit
+острый,Food,Rel,both,implicit
+острое,Food,Rel,positive,implicit
+блюда,Food,Rel,positive,explicit
+`салат с апельсинами, рукколой и лососем`,Food,Rel,neutral,explicit
+десерт,Food,Rel,neutral,explicit
+манговый мусс,Food,Rel,neutral,explicit
+лимонный десерт,Food,Rel,neutral,explicit
+вкусно,Food,Rel,positive,implicit
+заведение,Whole,Rel,positive,explicit
+ресторане Анданте,Whole,Rel,neutral,explicit
+ресторана,Whole,Cmpr,neutral,explicit
+ресторана,Whole,Rel,positive,explicit
+ресторан,Whole,Rel,positive,explicit
+администратором,Service,Rel,positive,explicit
+приветливый,Service,Rel,positive,implicit
+обслуживающий персонал,Service,Rel,positive,explicit
+ресторане,Whole,Rel,positive,explicit
+меню,Food,Rel,positive,explicit
+на любой кошелек,Price,Rel,positive,implicit
+закусок горячих и холодных,Food,Rel,positive,explicit
+горячего,Food,Rel,positive,explicit
+напитки,Food,Irr,positive,explicit
+Кухня,Food,Rel,positive,explicit
+атмосфера,Interior,Rel,positive,explicit
+интерьер,Interior,Rel,positive,explicit
+вид из ресторана,Interior,Rel,positive,explicit
+администрации,Service,Rel,positive,explicit
+ресторан,Whole,Rel,neutral,explicit
+бронирования столика по телефону,Service,Rel,neutral,explicit
+вежливый,Service,Rel,positive,implicit
+администратор,Service,Rel,positive,explicit
+столик забронировал,Service,Rel,positive,explicit
+встретила,Service,Rel,neutral,explicit
+приветливая,Service,Rel,positive,implicit
+девушка,Service,Rel,positive,explicit
+проводила до нашего столика,Service,Rel,neutral,explicit
+вручила меню,Service,Rel,neutral,explicit
+столик был у окна,Interior,Rel,positive,fct
+диванчиком,Interior,Rel,positive,explicit
+уютно,Interior,Rel,positive,implicit
+комфортно,Interior,Rel,positive,implicit
+приготовили очень быстро,Service,Rel,positive,fct
+еда,Food,Rel,positive,explicit
+вкусная,Food,Rel,positive,implicit
+сервировку блюд,Food,Rel,positive,explicit
+горячего,Food,Rel,neutral,explicit
+официант,Service,Rel,positive,explicit
+вкусный,Food,Rel,positive,implicit
+десерт,Food,Rel,positive,explicit
+заведении,Whole,Rel,positive,explicit
+поужинали,Food,Rel,positive,explicit
+обтановка,Interior,Rel,positive,explicit
+уютная,Interior,Rel,positive,implicit
+романтичная,Interior,Rel,positive,implicit
+чек,Price,Rel,neutral,explicit
+ужина,Food,Rel,neutral,explicit
+заведение,Whole,Rel,positive,explicit
+заведение,Whole,Prev,positive,explicit
+нас никто не обязался встретить,Service,Rel,negative,fct
+Манилов,Whole,Rel,neutral,explicit
+заведение,Whole,Rel,neutral,explicit
+нас никто не встретил,Service,Rel,negative,fct
+зал ресторана,Interior,Rel,neutral,explicit
+администрация,Service,Irr,negative,explicit
+через минут 10 подошел официант,Service,Rel,negative,fct
+официант,Service,Rel,negative,explicit
+принял заказ,Service,Rel,neutral,explicit
+коктейли,Food,Rel,neutral,explicit
+пасту,Food,Rel,neutral,explicit
+греческий салат с курицей,Food,Rel,neutral,explicit
+заказ ждали долго,Service,Rel,negative,fct
+паста,Food,Cmpr,neutral,explicit
+салат,Food,Cmpr,neutral,explicit
+официанта,Service,Rel,negative,explicit
+повара не успевают,Service,Rel,negative,explicit
+еды,Food,Rel,neutral,explicit
+паста,Food,Rel,both,explicit
+пересоленная,Food,Rel,negative,implicit
+цезарь,Food,Rel,negative,explicit
+заветренные,Food,Rel,negative,implicit
+куриного филе,Food,Rel,negative,explicit
+счет,Price,Rel,neutral,explicit
+перекусить,Food,Rel,neutral,explicit
+Tefsi,Whole,Rel,neutral,explicit
+Встретили,Service,Rel,neutral,explicit
+интерьере,Interior,Rel,positive,explicit
+кухня,Food,Rel,positive,explicit
+хачапури,Food,Rel,positive,explicit
+хинкали,Food,Rel,both,explicit
+мясо,Food,Rel,negative,explicit
+суховато,Food,Rel,negative,implicit
+баклажаны запеченные,Food,Rel,positive,explicit
+люля,Food,Rel,positive,explicit
+соуса,Food,Rel,negative,explicit
+официант,Service,Rel,negative,explicit
+сервис,Service,Rel,negative,explicit
+блюда,Food,Rel,negative,explicit
+блюда одновременно не приносили,Service,Rel,negative,fct
+`я ела,когда все остальные свои блюда уже съели`,Service,Rel,negative,fct
+блюда,Food,Rel,neutral,explicit
+тарелки грязные со стола не убирали,Service,Rel,negative,fct
+ресторане,Whole,Rel,negative,explicit
+никто к нам больше не подошел,Service,Rel,negative,fct
+не попрощался,Service,Rel,negative,fct
+персонал,Service,Rel,negative,explicit
+заведения,Whole,Rel,negative,explicit
+&quot;ресторане&quot;,Whole,Irn,neutral,explicit
+заведению,Whole,Prev,neutral,explicit
+вечер,Whole,Rel,negative,explicit
+месте,Whole,Irr,neutral,explicit
+интерьер,Interior,Rel,positive,explicit
+кухня,Food,Rel,positive,explicit
+обслуживания,Service,Rel,negative,explicit
+работала одна официантка,Service,Rel,negative,fct
+официантка,Service,Rel,negative,explicit
+не справлялась с обилием заказов,Service,Rel,negative,fct
+вино нам несли 20 мин,Service,Rel,negative,fct
+вино,Food,Rel,neutral,explicit
+оливки,Food,Rel,neutral,explicit
+принесли почти в конце вечера,Service,Irr,negative,fct
+забыла,Service,Rel,negative,fct
+живая музыка,Interior,Rel,neutral,explicit
+Разговаривать было невозможно,Interior,Rel,negative,fct
+ресторан,Whole,Rel,negative,explicit
+больше ни ногой,Whole,Rel,negative,fct
+ресторанчик,Whole,Rel,neutral,explicit
+вкусно,Food,Rel,positive,implicit
+салат с куриной печенью,Food,Rel,positive,explicit
+запеченные суши,Food,Rel,positive,explicit
+тирамису,Food,Rel,positive,explicit
+свежести,Food,Rel,positive,implicit
+блюд,Food,Irr,positive,explicit
+Интерьер,Interior,Rel,neutral,explicit
+уютно,Interior,Rel,positive,implicit
+Обслуживание,Service,Rel,both,explicit
+приносят всё сразу,Service,Rel,negative,fct
+вежливое,Service,Rel,positive,implicit
+не навязчивое,Service,Rel,positive,implicit
+обслуживание,Service,Rel,positive,explicit
+`следят за посудой, пепельницами`,Service,Rel,positive,fct
+Ресторану,Whole,Rel,positive,explicit
+кухню,Food,Rel,positive,explicit
+цены,Price,Rel,positive,explicit
+Интерьер,Interior,Rel,positive,explicit
+кафе,Whole,Rel,negative,explicit
+очень холодно,Interior,Rel,negative,fct
+кухни,Food,Rel,neutral,explicit
+пиццу,Food,Rel,both,explicit
+поесть,Food,Rel,neutral,explicit
+допинга,Food,Rel,negative,explicit
+десерт,Food,Irr,negative,explicit
+фруктов у них тоже не оказалось,Food,Rel,negative,fct
+фруктов,Food,Rel,negative,explicit
+чай,Food,Rel,negative,explicit
+Официант,Service,Rel,negative,explicit
+народу вообще не было,Interior,Rel,positive,fct
+повара,Service,Rel,negative,explicit
+повара прямо через все кафе ходят,Interior,Rel,negative,fct
+заведения,Whole,Rel,negative,explicit
+ресторанов китайской кухни,Whole,Cmpr,neutral,explicit
+Тан Жен,Whole,Rel,positive,explicit
+место,Whole,Rel,positive,explicit
+вкусно,Food,Rel,positive,explicit
+поесть,Food,Rel,positive,explicit
+роскошного,Interior,Irr,positive,implicit
+интерьера,Interior,Irr,positive,explicit
+меню,Food,Irr,positive,explicit
+кухню,Food,Rel,positive,explicit
+быстрое,Service,Rel,positive,implicit
+обслуживание,Service,Rel,positive,explicit
+ресторан,Service,Rel,positive,explicit
+качестве еды,Food,Rel,positive,explicit
+не будете ждать меню или официанта дольше 2-х минут,Service,Rel,positive,fct
+официанта,Service,Rel,positive,explicit
+`до момента, когда нам вынесли первое блюдо, прошло минут 15`,Service,Rel,positive,fct
+первое блюдо,Food,Irr,neutral,explicit
+вкусно,Food,Rel,positive,implicit
+ВКУСНО,Food,Rel,positive,explicit
+обязательно бронировать столик,Service,Rel,negative,fct
+заведения,Whole,Rel,positive,explicit
+народу не много,Interior,Rel,positive,fct
+уютные,Interior,Rel,positive,implicit
+диванчики,Interior,Rel,positive,explicit
+приветливый,Service,Rel,positive,implicit
+персонал,Service,Rel,positive,explicit
+девушки,Service,Rel,positive,explicit
+здороваются как только заходишь,Service,Rel,positive,fct
+блюда принесли очень даже быстро,Service,Rel,positive,fct
+блюда,Food,Rel,neutral,explicit
+уютной,Interior,Rel,positive,implicit
+атмосферы,Interior,Rel,positive,explicit
+стейк из говядины,Food,Rel,positive,explicit
+шашлычки из грибов,Food,Rel,positive,explicit
+солянку,Food,Rel,positive,explicit
+цезарь из курицы,Food,Rel,positive,explicit
+овощи на гриле,Food,Rel,positive,explicit
+повару,Food,Rel,positive,explicit
+цена,Price,Rel,positive,explicit
+солянка,Food,Rel,neutral,explicit
+цезарь,Food,Rel,neutral,explicit
+стейк,Food,Rel,neutral,explicit
+цены,Price,Rel,positive,explicit
+ресторанов,Whole,Cmpr,positive,explicit
+заведение,Whole,Rel,neutral,explicit
+красивый,Interior,Rel,positive,implicit
+интерьер,Interior,Rel,positive,explicit
+вежливое,Service,Rel,positive,implicit
+быстрое,Service,Rel,positive,implicit
+обслуживание,Service,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+заведении,Whole,Cmpr,positive,explicit
+&quot;Небо&quot;,Whole,Rel,neutral,explicit
+встретил,Service,Rel,negative,explicit
+молодой человек-администратор,Service,Rel,negative,explicit
+ресторан,Whole,Prev,positive,explicit
+девушки,Service,Prev,positive,explicit
+ресторане,Whole,Rel,positive,explicit
+не было много народа,Interior,Rel,positive,fct
+огромный выбор мест,Interior,Rel,positive,fct
+диванчиках,Interior,Rel,positive,explicit
+любезный,Service,Rel,positive,implicit
+официант,Service,Rel,positive,explicit
+теплым мексиканским салатом,Food,Rel,positive,explicit
+карпаччо из утиной грудки,Food,Rel,positive,explicit
+Холодные закуска,Food,Rel,positive,explicit
+салат,Food,Rel,positive,explicit
+Горячее,Food,Rel,positive,explicit
+Официант,Service,Rel,positive,explicit
+внимателен,Service,Rel,positive,implicit
+любезен,Service,Rel,positive,implicit
+Не надоедал,Service,Rel,positive,fct
+не оставлял нас совсем одних,Service,Rel,positive,fct
+ресторан,Whole,Rel,negative,explicit
+цены,Price,Rel,negative,explicit
+обслуживание,Service,Rel,negative,explicit
+кухня,Food,Rel,negative,explicit
+заказала еду,Service,Prev,neutral,explicit
+Не в 7 и не в 7.30 на столах не было ничего,Service,Prev,negative,fct
+пиво,Food,Rel,neutral,explicit
+сухарики,Food,Prev,neutral,explicit
+салаты,Food,Prev,neutral,explicit
+закуски,Food,Prev,neutral,explicit
+Горячее,Food,Prev,neutral,explicit
+Горячее было только в 9 часов,Service,Prev,negative,fct
+Еда,Food,Prev,positive,explicit
+вкусная,Food,Prev,positive,implicit
+порции,Food,Prev,positive,explicit
+цены,Price,Prev,positive,explicit
+на сухарях стали экономить,Service,Rel,negative,fct
+за сыр отдельно нужно платить,Service,Rel,negative,fct
+Салат цезарь,Food,Rel,negative,explicit
+порция,Food,Rel,negative,explicit
+тарелке одни листья,Food,Rel,negative,fct
+Обслуживание,Service,Rel,negative,explicit
+официантка,Service,Rel,both,explicit
+место,Whole,Rel,negative,explicit
+место,Whole,Rel,positive,explicit
+кухней,Food,Rel,positive,explicit
+салаты из холодильника,Food,Irr,negative,fct
+не вкусный,Food,Irr,negative,implicit
+лаваш,Food,Irr,negative,explicit
+Салаты,Food,Rel,positive,explicit
+свежие,Food,Rel,positive,implicit
+Лаваш,Food,Rel,positive,explicit
+свежий,Food,Rel,positive,implicit
+салат,Food,Rel,neutral,explicit
+мясо долго готовят,Service,Prev,negative,fct
+мясо,Food,Rel,neutral,explicit
+Шашлык,Food,Rel,positive,explicit
+свежий,Food,Rel,positive,implicit
+никакого жира и костей,Food,Rel,positive,fct
+Приборы даются не одни,Service,Rel,positive,fct
+нет отдельно зала для курящих,Interior,Rel,negative,fct
+персонал,Service,Rel,negative,explicit
+назойлив,Service,Rel,negative,implicit
+Бокалы всегда полные,Service,Rel,positive,fct
+`не надо ждать несколько минут, когда к тебе подойдут`,Service,Rel,positive,fct
+заведениях,Whole,Cmpr,negative,explicit
+Порции,Food,Rel,positive,explicit
+цены,Price,Rel,positive,explicit
+Дешево,Price,Rel,positive,implicit
+вкусно,Food,Rel,positive,implicit
+съели,Food,Rel,neutral,explicit
+выпили,Food,Rel,neutral,explicit
+заведениях,Whole,Cmpr,negative,explicit
+дороже,Price,Cmpr,negative,implicit
+сытые,Food,Rel,positive,implicit
+место,Whole,Rel,positive,explicit
+рестораны,Whole,Cmpr,neutral,explicit
+салаты из холодильника,Food,Irr,negative,fct
+заведении,Whole,Prev,negative,explicit
+обслуживание,Service,Rel,positive,explicit
+приветливый,Service,Rel,positive,implicit
+персонал,Service,Rel,positive,explicit
+цены,Price,Rel,positive,explicit
+вкусная,Food,Rel,positive,implicit
+еда,Food,Rel,positive,explicit
+порции,Food,Rel,positive,explicit
+интерьер,Interior,Rel,positive,explicit
+чисто,Interior,Rel,positive,implicit
+аккуратно,Interior,Rel,positive,implicit
+какаоке,Interior,Rel,positive,explicit
+специальное предложение по алкоголю,Price,Rel,positive,fct
+алкоголю,Food,Rel,positive,explicit
+вино,Food,Rel,positive,explicit
+шампанское,Food,Rel,positive,explicit
+водку,Food,Rel,positive,explicit
+по ценам производителя,Price,Rel,positive,fct
+персоналу,Service,Rel,positive,explicit
+обязательно придем,Whole,Rel,positive,fct
+Ресттауна,Whole,Rel,neutral,explicit
+ресторане &quot;Венеция&quot;,Whole,Rel,neutral,explicit
+ресторан,Whole,Rel,neutral,explicit
+ресторан,Whole,Rel,positive,explicit
+встретила,Service,Rel,positive,explicit
+администратор,Service,Rel,positive,explicit
+интерьер,Interior,Rel,positive,explicit
+помещение ресторана,Interior,Rel,neutral,explicit
+уютно,Interior,Rel,positive,implicit
+диваны с подушками,Interior,Rel,positive,explicit
+фоновая и живая музыка,Interior,Rel,positive,explicit
+местечке,Whole,Rel,positive,explicit
+кухня,Food,Rel,positive,explicit
+обслуживание,Service,Rel,positive,explicit
+поужинали,Food,Rel,neutral,explicit
+закуски,Food,Rel,neutral,explicit
+горячее,Food,Rel,neutral,explicit
+блюд,Food,Rel,positive,explicit
+тирамису,Food,Rel,negative,explicit
+десертам,Food,Rel,negative,explicit
+ресторане,Whole,Rel,positive,explicit
+зал для банкета,Interior,Rel,positive,fct
+детской комнатой,Interior,Rel,positive,fct
+Чаплин-холл,Whole,Rel,neutral,explicit
+Заведение,Whole,Rel,positive,explicit
+ресторан,Whole,Cmpr,neutral,explicit
+еду,Food,Rel,neutral,explicit
+напитки,Food,Rel,neutral,explicit
+Зал,Interior,Rel,positive,explicit
+просторный,Interior,Rel,positive,implicit
+атмосферный,Interior,Rel,positive,implicit
+свободного места предостаточно,Interior,Rel,positive,fct
+места,Interior,Rel,positive,explicit
+Удобные,Interior,Rel,positive,implicit
+столики,Interior,Rel,positive,explicit
+Меню,Food,Rel,positive,explicit
+меню японской кухни,Food,Rel,neutral,explicit
+блюда,Food,Rel,neutral,explicit
+сельдь под шубой…с крабом,Food,Rel,neutral,explicit
+палтуса запеченного,Food,Irr,positive,explicit
+тарелка уж как-то намного больше самого палтуса,Service,Rel,negative,fct
+палтуса,Food,Irr,negative,explicit
+Салат грибной,Food,Rel,positive,explicit
+порция,Food,Rel,positive,explicit
+Кофе-десерт,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+месте,Whole,Rel,positive,explicit
+Место,Whole,Rel,positive,explicit
+Обслуживание,Service,Rel,negative,explicit
+столовой,Whole,Cmpr,positive,explicit
+обслуживают,Service,Cmpr,positive,explicit
+блюд,Food,Rel,neutral,explicit
+чай,Food,Rel,neutral,explicit
+официант,Service,Rel,negative,explicit
+заказ должен быть на 1500р,Price,Irr,negative,fct
+коктейли,Food,Rel,neutral,explicit
+антуража,Interior,Rel,positive,explicit
+туда идти не хочется,Whole,Rel,negative,fct
+отношении,Service,Rel,negative,explicit
+кухне,Food,Rel,negative,explicit
+Еда,Food,Rel,positive,explicit
+вкусная,Food,Rel,positive,implicit
+маленькие порции,Food,Rel,negative,fct
+ресторанах,Whole,Cmpr,negative,explicit
+кафе,Whole,Prev,positive,explicit
+интерьер,Interior,Rel,positive,explicit
+занавесочки,Interior,Rel,positive,explicit
+еде,Food,Rel,positive,explicit
+готовят достаточно быстро,Food,Rel,positive,fct
+судака с овощами и рисом,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+кофе Борджиа,Food,Rel,positive,explicit
+восточных салатов,Food,Rel,positive,explicit
+Американо,Food,Rel,positive,explicit
+сервис,Service,Rel,negative,explicit
+месту,Whole,Rel,both,explicit
+уютное,Interior,Rel,positive,implicit
+местечко,Whole,Rel,positive,explicit
+ценами,Price,Rel,positive,explicit
+комфортной,Interior,Rel,positive,implicit
+обстановкой,Interior,Rel,positive,explicit
+ресторан,Whole,Rel,neutral,explicit
+официантов,Service,Rel,negative,explicit
+блюдах,Food,Rel,negative,explicit
+пиццу,Food,Rel,neutral,explicit
+пицца,Food,Rel,negative,explicit
+взрослые не смогли её есть,Food,Rel,negative,fct
+Официант,Service,Rel,negative,explicit
+пришлось вернуть,Service,Rel,negative,fct
+забыли,Service,Rel,negative,fct
+официанта,Service,Rel,neutral,explicit
+Официант,Service,Rel,negative,explicit
+вкусное,Food,Irr,positive,implicit
+помочь с выбором не смог,Service,Rel,negative,fct
+кухню,Food,Rel,both,explicit
+панакота,Food,Rel,positive,explicit
+Салат Цезарь,Food,Rel,negative,explicit
+пицца,Food,Rel,negative,explicit
+сервис,Service,Rel,negative,explicit
+официант,Service,Rel,negative,explicit
+путала заказы,Service,Rel,negative,fct
+не могла помочь с выбором,Service,Rel,negative,fct
+няню в детской комнате,Service,Rel,positive,fct
+милая,Service,Rel,positive,implicit
+девушка,Service,Rel,positive,explicit
+заказал столик,Service,Rel,neutral,explicit
+девушка хостесс,Service,Rel,positive,explicit
+встретила,Service,Rel,positive,explicit
+проводила к столику,Service,Rel,positive,explicit
+Обслуживал,Service,Rel,neutral,explicit
+молодой человек,Service,Rel,neutral,explicit
+сациви,Food,Rel,positive,explicit
+тонкий вкус,Food,Rel,positive,implicit
+хачапури по-мегрельски,Food,Rel,positive,explicit
+сырная пицца,Food,Cmpr,negative,explicit
+блюда на мангале,Food,Rel,neutral,explicit
+закуски,Food,Rel,neutral,explicit
+салаты,Food,Rel,neutral,explicit
+десерт,Food,Rel,positive,explicit
+Наполеон,Food,Rel,positive,explicit
+вкуснятина,Food,Rel,positive,implicit
+бараньи яички,Food,Rel,neutral,explicit
+`вкус совершенно другой,нежели должен быть`,Food,Rel,negative,fct
+повара,Food,Rel,positive,explicit
+Официант Антон,Service,Rel,positive,explicit
+кухню,Food,Rel,positive,explicit
+обслуживание,Service,Irr,negative,explicit
+Интерьер,Interior,Rel,positive,explicit
+уютный,Interior,Rel,positive,implicit
+туалет,Interior,Rel,positive,explicit
+вкусной,Food,Rel,positive,implicit
+еды,Food,Rel,positive,explicit
+еле встали из-за стола,Food,Rel,positive,fct
+сытые,Food,Rel,positive,implicit
+место,Whole,Rel,neutral,explicit
+девушка,Service,Rel,negative,explicit
+мест нету,Interior,Rel,negative,fct
+столики были заняты,Interior,Rel,negative,fct
+рядом сидела шумная компания,Interior,Rel,negative,fct
+было очень шумно,Interior,Rel,negative,fct
+паст,Food,Rel,positive,explicit
+пицц,Food,Rel,positive,explicit
+салатов,Food,Rel,negative,explicit
+закусок,Food,Rel,negative,explicit
+итальянской кухне,Food,Rel,neutral,explicit
+маленький выбор,Food,Rel,negative,fct
+вина,Food,Rel,negative,explicit
+Официант,Service,Rel,positive,explicit
+подошел довольно быстро,Service,Rel,positive,fct
+Напитки,Food,Rel,positive,explicit
+подали быстро,Service,Rel,positive,fct
+Кофе капуччино,Food,Rel,positive,explicit
+шампанское,Food,Rel,positive,explicit
+Кухня,Food,Rel,negative,explicit
+ресторанами,Whole,Cmpr,positive,explicit
+кушали,Food,Cmpr,positive,explicit
+цена,Price,Rel,positive,explicit
+ресторан,Whole,Rel,neutral,explicit
+встретил,Service,Rel,positive,explicit
+приветливый,Service,Rel,positive,implicit
+гардеробщик,Service,Rel,positive,explicit
+Милая,Service,Rel,positive,implicit
+девушка,Service,Rel,positive,explicit
+официант,Service,Rel,positive,explicit
+вежливый,Service,Rel,positive,implicit
+услужливый,Service,Rel,positive,implicit
+молодой человек,Service,Rel,positive,explicit
+немного прохладно,Interior,Rel,negative,fct
+официант,Service,Rel,positive,explicit
+запахов дыма и кухонных совсем не присутствует,Interior,Rel,positive,fct
+салат из их меню с &quot;семгой горячего копчения&quot;,Food,Irr,positive,explicit
+хлебная тарелка,Food,Rel,positive,explicit
+свежайший,Food,Rel,positive,implicit
+хлеб,Food,Rel,positive,explicit
+вкус,Food,Rel,positive,explicit
+Горячее,Food,Rel,neutral,explicit
+десерта,Food,Rel,positive,explicit
+&quot;два шоколада&quot;,Food,Rel,positive,explicit
+кофе,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+ресторан,Whole,Rel,positive,explicit
+атмосфера,Interior,Rel,positive,explicit
+уютная,Interior,Rel,positive,implicit
+кухня,Food,Rel,positive,explicit
+вкусная,Food,Rel,positive,implicit
+обслуживание,Service,Rel,positive,explicit
+кофе,Food,Rel,neutral,explicit
+обслуживающим персоналом,Service,Rel,positive,explicit
+Кофе,Food,Rel,positive,explicit
+вкусное,Food,Rel,positive,implicit
+тортики,Food,Rel,positive,explicit
+пивка,Food,Prev,neutral,explicit
+Выбор пива небольшой,Food,Rel,negative,fct
+пива,Food,Rel,negative,explicit
+кондитерская,Whole,Rel,neutral,explicit
+напиток,Food,Rel,positive,explicit
+Тиммерманс,Food,Rel,positive,explicit
+Невское,Food,Rel,positive,explicit
+закусочки,Food,Rel,positive,explicit
+жаренные крылышки,Food,Rel,positive,explicit
+кальмары,Food,Rel,positive,explicit
+колечками лука,Food,Rel,neutral,explicit
+соуса,Food,Rel,negative,explicit
+соуса тоже не обнаружили,Food,Rel,negative,fct
+соуса,Food,Rel,negative,explicit
+приветливая,Service,Rel,positive,implicit
+девушка-официантка,Service,Rel,positive,explicit
+соусе,Food,Rel,positive,explicit
+сразу же принесла,Service,Rel,positive,fct
+Интерьер,Interior,Rel,positive,explicit
+диванчики и плазменная панель только в зале для некурящих,Interior,Rel,negative,fct
+Обслуживание,Service,Rel,positive,explicit
+вовремя,Service,Rel,positive,implicit
+мило,Service,Rel,positive,implicit
+с улыбкой,Service,Rel,positive,fct
+местечко,Whole,Rel,positive,explicit
+ресторане,Whole,Rel,neutral,explicit
+официант,Service,Prev,positive,explicit
+дружелюбно,Service,Prev,positive,implicit
+Кухня,Food,Rel,negative,explicit
+порции,Food,Prev,positive,explicit
+съедобно,Food,Prev,positive,implicit
+ресторана,Whole,Rel,negative,explicit
+бизнес-ланчи,Food,Irr,positive,explicit
+заказать,Service,Rel,negative,explicit
+`заказать бизнес-ланч можно только, сидя внутри помещения`,Service,Rel,negative,fct
+бизнес-ланч,Food,Rel,neutral,explicit
+помещении,Interior,Rel,negative,explicit
+жарко,Interior,Rel,negative,fct
+`заказать один бизнес-ланч, если ты пришел вдвоем нельзя`,Service,Rel,negative,fct
+бизнес-ланч,Food,Rel,negative,explicit
+порция,Food,Irr,negative,explicit
+надменным,Service,Rel,negative,implicit
+официантки,Service,Rel,negative,implicit
+ресторан,Whole,Prev,positive,explicit
+ресторанчик,Whole,Rel,negative,explicit
+заведения,Whole,Cmpr,positive,explicit
+кухней,Food,Cmpr,positive,explicit
+сервисом,Service,Cmpr,positive,explicit
+менеджер,Service,Irr,neutral,explicit
+ресторана,Whole,Irr,neutral,explicit
+уютная,Interior,Rel,positive,implicit
+атмосфера,Interior,Rel,positive,explicit
+Обслуживание,Service,Rel,positive,explicit
+внимание,Service,Rel,positive,implicit
+персонала,Service,Rel,positive,explicit
+официанту Евгению,Service,Rel,positive,explicit
+обслуживающего,Service,Rel,positive,explicit
+ресторана,Whole,Cmpr,neutral,explicit
+Капоне,Whole,Rel,positive,explicit
+живой музыки,Interior,Rel,positive,explicit
+повару,Food,Rel,positive,explicit
+вкус,Food,Rel,positive,explicit
+блюд,Food,Rel,positive,explicit
+ресторан,Whole,Rel,positive,explicit
+ресторане,Whole,Rel,neutral,explicit
+Интерьер,Interior,Rel,positive,explicit
+ресторан,Whole,Rel,neutral,explicit
+кухня,Food,Rel,negative,explicit
+забегаловке,Whole,Cmpr,negative,explicit
+интерьеру,Interior,Rel,positive,explicit
+Подача блюд,Food,Rel,negative,explicit
+морковка наструганная-единственное яркое пятно на тарелке,Food,Rel,negative,fct
+морковка,Food,Rel,negative,explicit
+обслуживание,Service,Rel,negative,explicit
+`чай например, ждали минут 15`,Service,Rel,negative,fct
+чай,Food,Rel,negative,explicit
+вазу для цветов ждали весь вечер,Service,Rel,negative,fct
+ресторане,Whole,Rel,negative,explicit
+Цены,Price,Rel,negative,explicit
+напитки,Food,Rel,neutral,explicit
+чай,Food,Rel,negative,explicit
+чай за 400 руб,Price,Rel,negative,fct
+цена на неалкогольный напиток 250-300 руб,Price,Rel,negative,fct
+неалкогольный напиток,Food,Rel,negative,explicit
+дорого,Price,Rel,negative,implicit
+интерьера,Interior,Rel,positive,explicit
+ресторан,Whole,Irr,positive,explicit
+Блюда,Food,Rel,negative,explicit
+супы,Food,Rel,negative,explicit
+шашлыки,Food,Rel,negative,explicit
+хачапури,Food,Rel,negative,explicit
+десерты,Food,Rel,negative,explicit
+счет принесли нам внушительный,Price,Rel,negative,fct
+ресторане,Whole,Cmpr,positive,explicit
+ресторане,Whole,Rel,neutral,explicit
+встретили,Service,Rel,neutral,explicit
+проводили до мест,Service,Rel,neutral,explicit
+предложили меню,Service,Rel,neutral,explicit
+Народу практически не было,Interior,Rel,positive,fct
+Интерьер,Interior,Rel,positive,explicit
+уютное,Interior,Rel,positive,implicit
+место,Whole,Rel,positive,explicit
+музыка,Interior,Rel,positive,explicit
+в туалетной комнате были пустые корзинки с бумажными полотенцами,Interior,Rel,negative,fct
+пенне 4 сыра,Food,Rel,neutral,explicit
+спагетти карбонара,Food,Rel,neutral,explicit
+овощи на гриле,Food,Rel,neutral,explicit
+фокачча с прованскими травами и сыром пармезан,Food,Rel,neutral,explicit
+вино,Food,Rel,neutral,explicit
+водку,Food,Rel,neutral,explicit
+чай с лимоном и чабрецом,Food,Rel,neutral,explicit
+Заказ принесли довольно быстро,Service,Rel,positive,fct
+вкусностей,Food,Irr,positive,implicit
+девушка,Service,Rel,positive,explicit
+блюда,Food,Rel,positive,explicit
+сытные,Food,Rel,positive,implicit
+вкусным,Food,Rel,positive,implicit
+поварам,Food,Rel,positive,explicit
+Вино,Food,Rel,positive,explicit
+Вкусное,Food,Rel,positive,implicit
+послевкусием,Food,Rel,positive,explicit
+заведение,Whole,Rel,positive,explicit
+ресторан,Whole,Rel,positive,explicit
+обслуживанием,Service,Rel,positive,explicit
+Уютный,Interior,Rel,positive,implicit
+интерьер,Interior,Rel,positive,explicit
+вежливые,Service,Rel,positive,implicit
+внимательные,Service,Rel,positive,implicit
+девушки официанты,Service,Rel,positive,explicit
+музыка,Interior,Rel,positive,explicit
+Кухня,Food,Rel,positive,explicit
+блюда,Food,Rel,negative,explicit
+не много людей,Interior,Rel,positive,fct
+ресторане,Interior,Rel,neutral,explicit
+занято лишь 2-3 столика,Interior,Rel,positive,fct
+Ресторан,Whole,Rel,positive,explicit
+цене,Price,Rel,neutral,explicit
+ужин,Food,Rel,neutral,explicit
+заведение,Whole,Prev,positive,explicit
+кухня,Food,Rel,negative,explicit
+обслуживание,Service,Rel,negative,explicit
+суши,Food,Rel,negative,explicit
+солеными,Food,Rel,negative,fct
+пирожок к первому блюду,Food,Rel,neutral,explicit
+кулеш,Food,Rel,neutral,explicit
+Блюдо,Food,Rel,neutral,explicit
+минут ожидания,Service,Rel,negative,fct
+официантку,Service,Rel,negative,explicit
+суп,Food,Rel,neutral,explicit
+Отказались от супа,Service,Rel,negative,fct
+попросили книгу отзывов,Service,Rel,negative,fct
+суп,Food,Rel,neutral,explicit
+управляющего,Service,Rel,negative,explicit
+администратора,Service,Rel,negative,explicit
+девушка,Service,Rel,negative,explicit
+не представившись,Service,Rel,negative,fct
+ждать около получаса,Service,Rel,negative,fct
+много клиентов,Service,Rel,negative,fct
+клиентов,Service,Rel,negative,explicit
+расхлябанность,Service,Rel,negative,implicit
+неисполнительность,Service,Rel,negative,implicit
+персонала,Service,Rel,negative,explicit
+заведении,Whole,Rel,negative,explicit
+обслуживание,Service,Rel,negative,explicit
+заказали,Service,Rel,neutral,explicit
+принесли достаточно быстро,Service,Rel,positive,fct
+забыли,Service,Rel,negative,fct
+пол часа никто не подходил,Service,Rel,negative,fct
+официанты,Service,Rel,negative,explicit
+пытались обратить на себя внимание,Service,Rel,negative,fct
+ждали напитки,Service,Rel,negative,fct
+гостями,Service,Rel,negative,explicit
+не прощаются,Service,Rel,negative,fct
+сервиса,Service,Rel,negative,explicit
+кухни,Food,Rel,positive,explicit
+уютного,Interior,Rel,positive,implicit
+интерьера,Interior,Rel,positive,explicit
+Кухня,Food,Rel,positive,explicit
+поварам,Food,Rel,positive,explicit
+интерьер,Interior,Rel,positive,explicit
+хамство,Service,Rel,negative,implicit
+девушки,Service,Rel,negative,explicit
+официанткой,Service,Rel,negative,explicit
+менеджер,Service,Rel,negative,explicit
+ответила что нет,Service,Rel,negative,fct
+тан жен,Whole,Rel,both,explicit
+кухню,Food,Rel,positive,explicit
+желания приходить не было ни у кого,Whole,Rel,negative,fct
+гостями,Service,Rel,negative,explicit
+менеджер,Service,Rel,negative,explicit
+заведение,Whole,Prev,positive,explicit
+Столик заказали,Service,Rel,neutral,explicit
+обстановка,Service,Rel,positive,explicit
+уютная,Interior,Rel,positive,implicit
+офицыанта,Service,Rel,negative,explicit
+меню ждали,Service,Rel,negative,fct
+не дождались,Service,Rel,negative,fct
+Заказ,Service,Rel,negative,explicit
+приносить через полтора часа,Service,Rel,negative,fct
+блюд,Food,Rel,negative,explicit
+уютно,Interior,Rel,positive,implicit
+программа развлечений,Interior,Rel,positive,explicit
+ЗАВЕДЕНИЯ,Whole,Rel,negative,explicit
+ждали в гардеробе,Service,Rel,negative,fct
+Интерьер,Interior,Rel,positive,explicit
+блюда,Food,Rel,neutral,explicit
+курицы,Food,Rel,neutral,explicit
+конину,Food,Rel,neutral,explicit
+Горячее,Food,Rel,negative,explicit
+конину,Food,Rel,negative,explicit
+блюда,Food,Rel,negative,explicit
+разогреты в микроволновке,Food,Rel,negative,fct
+Никакой соли,Food,Rel,negative,fct
+соли,Food,Rel,negative,explicit
+никаких специй,Food,Rel,negative,fct
+специй,Food,Rel,negative,explicit
+пресная,Food,Rel,negative,explicit
+еда,Food,Rel,negative,explicit
+официанты,Service,Rel,negative,explicit
+Сервировано,Service,Rel,negative,explicit
+Доесть,Food,Rel,negative,explicit
+Доесть не смогли,Food,Rel,negative,fct
+съедобным,Food,Rel,positive,implicit
+салат из зелени и овощей,Food,Rel,positive,explicit
+Цены,Price,Rel,negative,explicit
+кухне,Food,Rel,negative,explicit
+больше туда не пойдём,Whole,Rel,negative,fct
+персонал,Service,Rel,negative,explicit
+официанты,Service,Rel,negative,explicit
+знающие меню,Service,Rel,negative,explicit
+Приносят не то что заказываешь,Service,Rel,negative,fct
+официанты,Service,Rel,both,explicit
+вежливые,Service,Rel,positive,implicit
+девченки,Service,Rel,positive,explicit
+относятся к клиентам,Service,Rel,positive,explicit
+через час после заказа,Service,Rel,negative,fct
+остывший,Food,Rel,negative,implicit
+нет желания заходить сюда,Whole,Rel,negative,fct
+сервиса,Service,Rel,negative,explicit
+Ребята,Service,Rel,negative,explicit
+закусок,Food,Rel,neutral,explicit
+салями,Food,Rel,neutral,explicit
+оливки,Food,Rel,neutral,explicit
+ничего не принесли,Service,Rel,negative,fct
+официанта,Service,Rel,negative,explicit
+официанты,Service,Rel,negative,explicit
+официанта,Service,Rel,negative,explicit
+салями,Food,Rel,neutral,explicit
+салями,Food,Rel,positive,explicit
+чай,Food,Rel,neutral,explicit
+ресторан,Whole,Rel,negative,explicit
+ресторан 'Хутор Водограй',Whole,Rel,neutral,explicit
+кухня,Food,Prev,positive,explicit
+обслуживание,Service,Prev,positive,explicit
+атмосфера,Interior,Prev,positive,explicit
+настроение,Interior,Prev,positive,explicit
+украинский колорит,Interior,Prev,positive,explicit
+никто не встретил,Service,Rel,negative,fct
+долго стояли у входа,Service,Rel,negative,fct
+не смог нам помочь,Service,Rel,negative,fct
+руководителей,Service,Irr,negative,explicit
+официант,Service,Rel,negative,explicit
+20 минут ожидания,Service,Rel,negative,fct
+поели,Food,Rel,negative,explicit
+пирожков,Food,Prev,positive,explicit
+ручной работы,Food,Prev,positive,fct
+нет в меню,Food,Rel,negative,fct
+рестораном,Whole,Rel,negative,explicit
+ресторан,Whole,Irr,positive,explicit
+месте,Whole,Rel,negative,explicit
+Обслуживание,Service,Rel,negative,explicit
+офицантки,Service,Rel,negative,explicit
+не обращают на тебя никакого внимания,Service,Rel,negative,fct
+выражением лица,Service,Rel,negative,explicit
+принести,Service,Rel,negative,explicit
+еды,Food,Rel,negative,explicit
+блюдо,Food,Rel,negative,explicit
+ресторанчике,Whole,Rel,negative,explicit
+супа,Food,Rel,negative,explicit
+скис,Food,Rel,negative,explicit
+Интерьер,Interior,Rel,negative,explicit
+место,Whole,Rel,negative,explicit
+заведений,Whole,Cmpr,negative,explicit
+заведение,Whole,Rel,positive,explicit
+кухня,Food,Rel,positive,explicit
+Карпаччо,Food,Rel,positive,explicit
+бальзамиками,Food,Rel,positive,explicit
+маслом,Food,Rel,positive,explicit
+выбор вин,Food,Rel,positive,explicit
+Интерьер,Interior,Rel,positive,explicit
+гардероб,Interior,Rel,positive,explicit
+диваны,Interior,Rel,positive,explicit
+приглушенный свет,Food,Rel,positive,fct
+ненавязчивая,Interior,Rel,positive,implicit
+музыка,Interior,Rel,positive,explicit
+наткнулись там на саксофониста,Interior,Rel,positive,fct
+саксофониста,Interior,Rel,positive,explicit
+атмосфера,Interior,Rel,positive,explicit
+Обслуживание,Service,Rel,negative,explicit
+официант,Service,Rel,negative,explicit
+на &quot;ты&quot;,Service,Rel,negative,fct
+дерзил,Service,Rel,negative,fct
+заказал,Service,Rel,negative,explicit
+стейк,Food,Rel,neutral,explicit
+ждали,Service,Rel,negative,fct
+официантка,Service,Rel,negative,explicit
+официантке,Service,Rel,neutral,explicit
+место,Whole,Rel,positive,explicit
+цены,Price,Rel,positive,explicit
+замене персонала,Service,Rel,negative,fct
+много народу,Interior,Rel,negative,fct
+ждали час,Service,Rel,negative,fct
+принесли только через час,Service,Rel,negative,fct
+перепутали заказ,Service,Rel,negative,fct
+часа ожидания,Service,Rel,negative,fct
+Паста,Food,Rel,positive,explicit
+ризотто,Food,Rel,positive,explicit
+пообедать,Food,Rel,neutral,explicit
+долгое ожидание,Service,Rel,negative,fct
+отчужденность,Service,Rel,negative,implicit
+официанта,Service,Rel,negative,explicit
+наконец таки пришел,Service,Rel,negative,fct
+вежливости,Service,Rel,negative,implicit
+обслуживать гостей,Service,Rel,negative,explicit
+Уютно,Interior,Rel,positive,implicit
+тесно,Interior,Rel,negative,implicit
+сервисом,Service,Rel,negative,explicit
+Супчики,Food,Rel,positive,explicit
+вкусные,Food,Rel,positive,implicit
+чаек,Food,Rel,positive,explicit
+десерт,Food,Rel,positive,explicit
+заказывал столик,Service,Rel,neutral,explicit
+Интерьер,Interior,Rel,positive,explicit
+кухня,Food,Rel,positive,explicit
+обслуживание,Service,Rel,negative,explicit
+обслуга,Service,Rel,negative,explicit
+девушка,Service,Rel,negative,explicit
+бронь столика,Service,Rel,neutral,explicit
+НИКТО НЕ ПРЕДУПРЕДИЛ,Service,Rel,negative,fct
+Заказ,Service,Rel,positive,explicit
+еде,Food,Rel,neutral,explicit
+девушка,Service,Rel,negative,explicit
+хамски,Service,Rel,negative,implicit
+пересесть за другой столик,Service,Rel,negative,fct
+чаевых мы не оставили,Service,Rel,negative,fct
+чаевых,Service,Rel,negative,explicit
+рекомендовать никому не буду,Whole,Rel,negative,fct
+усталые,Service,Rel,negative,implicit
+приветливые,Service,Rel,positive,implicit
+девушки,Service,Rel,both,explicit
+проводили до столика,Service,Rel,positive,fct
+Виды из окна,Interior,Rel,positive,explicit
+Интерьер,Interior,Rel,neutral,explicit
+Меню,Food,Rel,both,explicit
+томатный суп,Food,Rel,neutral,explicit
+стейк из мраморной говядины со свежими томатами,Food,Rel,neutral,explicit
+стейк с овощами гриль,Food,Rel,neutral,explicit
+Мясо,Food,Rel,both,explicit
+прожарено,Food,Rel,negative,explicit
+вкусным,Food,Rel,positive,implicit
+десерт,Food,Rel,positive,explicit
+шоколадные кексы с горячим шоколадом внутри и мороженым,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+Обслуживание,Service,Rel,negative,explicit
+Пепельницу меняли крайне редко,Service,Rel,negative,fct
+грязную посуду не замечали,Service,Rel,negative,fct
+официант,Service,Rel,positive,explicit
+дружелюбным,Service,Rel,positive,implicit
+ресторане Волна,Whole,Rel,neutral,explicit
+девушка,Service,Rel,positive,explicit
+предложила столики,Service,Rel,positive,explicit
+вина,Food,Rel,neutral,explicit
+вином,Food,Rel,neutral,explicit
+официанты,Service,Rel,negative,explicit
+вино,Food,Rel,negative,explicit
+не смогла обьяснить,Service,Rel,negative,fct
+бытылочку вина,Food,Rel,neutral,explicit
+салат из рукколы с печеным картофелем,Food,Rel,neutral,explicit
+гребешки со спаржей,Food,Rel,neutral,explicit
+комплимент от шеф-повара,Service,Rel,positive,explicit
+салат,Food,Rel,both,explicit
+ждала еще минут,Service,Rel,negative,explicit
+атмосфера,Interior,Rel,both,explicit
+душно,Interior,Rel,negative,fct
+ресторан МИСО,Whole,Prev,positive,explicit
+обедать,Food,Prev,positive,explicit
+кухней,Food,Prev,positive,explicit
+обслуживанием,Service,Prev,positive,explicit
+интерьер,Interior,Rel,positive,explicit
+атмосфера,Interior,Rel,positive,explicit
+ланч,Food,Rel,negative,explicit
+человеческий волос,Food,Rel,negative,fct
+кусочек мяса,Food,Rel,negative,explicit
+заменить блюдо,Service,Rel,negative,fct
+заведение,Whole,Rel,negative,explicit
+ресторане,Whole,Rel,neutral,explicit
+выпить,Food,Rel,neutral,explicit
+чаю,Food,Rel,neutral,explicit
+вина,Food,Rel,neutral,explicit
+официантка,Service,Rel,negative,explicit
+ресторане,Whole,Irr,positive,explicit
+официантка,Service,Rel,negative,explicit
+поработают,Service,Rel,negative,explicit
+Чаевые,Service,Rel,negative,explicit
+Ценник,Price,Rel,negative,explicit
+соленья,Food,Rel,positive,explicit
+кармашки с грибами и рыбой,Food,Rel,positive,explicit
+жареный камамбер,Food,Rel,positive,explicit
+шашлык из свинины,Food,Rel,positive,explicit
+свинину с моцареллой и грибами,Food,Rel,positive,explicit
+угря,Food,Rel,positive,explicit
+порции большие,Food,Rel,positive,fct
+медлительные,Service,Rel,negative,implicit
+официантки,Service,Rel,negative,explicit
+несли долго,Service,Rel,negative,fct
+вкусными,Food,Rel,positive,implicit
+официантка,Service,Rel,negative,explicit
+не принесла счет,Service,Rel,negative,fct
+встречают улыбкой,Service,Rel,positive,fct
+атмосфере,Interior,Rel,positive,explicit
+интерьер,Interior,Rel,positive,explicit
+персонал,Service,Rel,positive,explicit
+музыкальное сопровождение,Interior,Rel,positive,explicit
+свечи- цветы,Interior,Rel,positive,explicit
+красиво,Interior,Rel,positive,implicit
+кухне,Food,Rel,positive,explicit
+подача мяса,Food,Rel,positive,explicit
+холодных закусок,Food,Rel,positive,explicit
+десертов,Food,Rel,positive,explicit
+Комплимент от ресторана,Service,Rel,positive,explicit
+вазочки с виноградом,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+Постное меню,Food,Rel,both,explicit
+вкус блюд,Food,Rel,positive,explicit
+заведения,Whole,Rel,positive,explicit
+уютное,Interior,Rel,positive,implicit
+место,Whole,Rel,positive,explicit
+официантки,Service,Rel,positive,explicit
+улыбаются,Service,Rel,positive,explicit
+искренне,Service,Rel,positive,implicit
+доброжелательно,Service,Rel,positive,implicit
+встречают,Service,Rel,positive,explicit
+провожают,Service,Rel,positive,explicit
+ненавязчиво,Service,Rel,positive,implicit
+меняли блюда,Food,Rel,positive,fct
+обслуживания,Service,Rel,positive,explicit
+салат с креветками и листьями,Food,Rel,positive,explicit
+рулетики из баклажанов,Food,Rel,positive,explicit
+начинка,Food,Rel,positive,explicit
+грецкие орехи,Food,Rel,positive,explicit
+холодный рыбный рулет,Food,Rel,positive,explicit
+`корюшка, фаршированная рисом и овощами`,Food,Rel,positive,explicit
+вкусное,Food,Rel,positive,implicit
+блюдо,Food,Rel,positive,explicit
+Свинина,Food,Rel,negative,explicit
+непрожарена,Food,Rel,negative,implicit
+интерьер,Interior,Rel,positive,explicit
+заведение,Whole,Rel,positive,explicit
+ресторан,Whole,Rel,positive,explicit
+обслуживание,Service,Rel,positive,explicit
+встретили,Service,Rel,positive,explicit
+проводили,Service,Rel,positive,explicit
+усадили,Service,Rel,positive,explicit
+подвинули столы,Service,Rel,positive,explicit
+Официант девушка,Service,Rel,positive,explicit
+вежливая,Service,Rel,positive,implicit
+услужливая,Service,Rel,positive,implicit
+Еда,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+Нет в карте вин,Food,Rel,negative,fct
+карте вин,Food,Rel,negative,explicit
+полусладкого вина,Food,Rel,negative,explicit
+алкогольная карта,Food,Rel,positive,explicit
+&quot;комплимент&quot; от заведения,Food,Irn,both,fct
+отдохнули,Whole,Rel,positive,implicit
+заведение,Whole,Rel,negative,explicit
+не дешевое,Price,Rel,negative,implicit
+обслуживание,Service,Rel,positive,explicit
+официант,Service,Rel,positive,explicit
+подходил очень часто,Service,Rel,positive,fct
+узнавал все ли хорошо,Service,Rel,positive,fct
+кальян,Service,Rel,positive,explicit
+закуски-крылья,Food,Rel,positive,explicit
+сырные шарики,Food,Rel,positive,explicit
+фрукты,Food,Rel,positive,explicit
+несли не долго,Service,Rel,positive,fct
+Бадене,Whole,Rel,neutral,explicit
+место,Whole,Rel,positive,explicit
+комфортно,Interior,Rel,positive,implicit
+уютно,Interior,Rel,positive,implicit
+террасе,Interior,Rel,positive,explicit
+ресторан,Whole,Rel,neutral,explicit
+салат с куриной печенью,Food,Rel,positive,explicit
+холодный борщ,Food,Rel,positive,explicit
+шашлыки из баранины и телёнка,Food,Rel,positive,explicit
+шашлыки,Food,Rel,positive,explicit
+Официанты,Service,Rel,positive,explicit
+Обслуживание,Service,Rel,positive,explicit
+всё во время,Service,Rel,positive,fct
+ресторан,Whole,Rel,positive,explicit
+ресторане,Whole,Rel,positive,explicit
+красивейшем,Interior,Rel,positive,implicit
+зале &quot;Царский&quot;,Interior,Rel,positive,explicit
+красивый,Interior,Rel,positive,implicit
+интерьер,Interior,Rel,positive,explicit
+ломился от блюд,Food,Rel,positive,fct
+блюд,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+оформлено,Food,Rel,positive,explicit
+меню,Food,Rel,positive,explicit
+деньги,Price,Rel,positive,explicit
+организацию,Whole,Rel,positive,explicit
+работу официантов,Service,Rel,positive,explicit
+замечали чего не хватает,Service,Rel,positive,fct
+принести,Service,Rel,positive,explicit
+налить,Service,Irr,positive,explicit
+Ребята,Service,Rel,positive,explicit
+работе,Whole,Rel,positive,explicit
+работниках ресторана,Service,Rel,positive,explicit
+упаковать в пакеты,Service,Rel,positive,fct
+&quot;Сытинъ&quot;,Whole,Irr,positive,explicit
+праздник,Whole,Rel,positive,explicit
+управляющей,Service,Rel,positive,explicit
+составить меню,Service,Rel,positive,fct
+профессионализм,Service,Rel,positive,implicit
+Бронировали столик,Service,Rel,neutral,explicit
+обслуживал,Service,Rel,neutral,explicit
+Шеф-повар ресторана,Service,Rel,neutral,explicit
+мужчина,Service,Rel,positive,explicit
+виртуозно,Service,Rel,positive,implicit
+вкусно,Food,Rel,positive,implicit
+деликатесные,Food,Rel,positive,implicit
+блюда,Food,Rel,positive,explicit
+профессионалом своего дела,Service,Rel,positive,implicit
+блюда,Food,Rel,neutral,explicit
+блюда,Food,Cmpr,neutral,explicit
+мясной стейк,Food,Rel,negative,explicit
+бронировании столика,Service,Rel,neutral,explicit
+администратор,Service,Rel,neutral,explicit
+внешний вид зала,Interior,Rel,positive,explicit
+уютно,Interior,Rel,positive,implicit
+ненавязчиво,Interior,Rel,positive,implicit
+официантке,Service,Rel,positive,explicit
+от нас не отходила,Service,Rel,positive,fct
+посетители VIP-зала,Interior,Rel,negative,explicit
+аквариум,Interior,Rel,neutral,explicit
+ресторане «Кирочный Двор»,Whole,Rel,neutral,explicit
+сотрудникам данного заведения,Whole,Rel,positive,explicit
+в зале было свободно,Service,Rel,positive,fct
+зале,Interior,Rel,positive,explicit
+места для танцев,Service,Rel,positive,explicit
+Администраторы,Service,Rel,positive,explicit
+оформлением зала,Interior,Rel,positive,explicit
+ведущих,Service,Rel,positive,explicit
+Меню,Food,Rel,neutral,explicit
+алкоголь,Food,Rel,neutral,explicit
+разрешили привезти,Service,Rel,positive,fct
+вкусно,Food,Rel,positive,implicit
+широкий выбор блюд,Food,Rel,positive,fct
+выбор блюд,Food,Rel,positive,explicit
+сыты,Food,Rel,positive,implicit
+Банкетный зал,Whole,Rel,neutral,explicit
+Места хватило,Interior,Rel,positive,fct
+места,Interior,Rel,positive,explicit
+интерьеру,Interior,Rel,positive,explicit
+зал,Interior,Rel,positive,explicit
+кухне,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+салатов,Food,Rel,positive,explicit
+закусок,Food,Rel,positive,explicit
+сервирован стол,Service,Rel,positive,explicit
+Обслуживание,Service,Rel,positive,explicit
+ребята,Service,Rel,positive,explicit
+справлялись со своей работой,Service,Rel,positive,fct
+персоналу,Service,Rel,positive,explicit
+ресторане,Whole,Rel,neutral,explicit
+никто не встретил,Service,Rel,negative,fct
+персонала,Service,Rel,negative,explicit
+бармена,Service,Rel,neutral,explicit
+шашлыки из баранины на кости и мякоти,Food,Rel,neutral,explicit
+зелень,Food,Rel,neutral,explicit
+свежие овощи,Food,Rel,neutral,explicit
+картофель айдахо,Food,Rel,neutral,explicit
+соусы к мясу и картофелю,Food,Rel,neutral,explicit
+чай,Food,Rel,neutral,explicit
+кофе,Food,Rel,neutral,explicit
+Готовили,Service,Rel,negative,explicit
+Мясо,Food,Rel,positive,explicit
+вкусное,Food,Rel,positive,implicit
+прожаренное,Food,Rel,positive,explicit
+сочное,Food,Rel,positive,implicit
+прождали,Service,Rel,negative,fct
+сыты,Food,Rel,positive,implicit
+меню,Food,Rel,positive,explicit
+сервис,Service,Rel,negative,explicit
+персонала,Service,Rel,negative,explicit
+Le Glamure,Whole,Rel,positive,explicit
+кухня,Food,Rel,positive,explicit
+обслуживание,Service,Rel,positive,explicit
+обстановка,Interior,Rel,positive,explicit
+красоты,Interior,Rel,positive,implicit
+уютный,Interior,Rel,positive,implicit
+ресторан,Whole,Rel,positive,explicit
+Приветливые,Service,Rel,positive,implicit
+официанты,Service,Rel,positive,explicit
+еда,Food,Rel,positive,explicit
+интерьер,Interior,Rel,positive,explicit
+место,Whole,Rel,positive,explicit
+ведущей,Service,Rel,positive,explicit
+Террасу,Whole,Rel,neutral,explicit
+Официантка,Service,Rel,positive,explicit
+внимательная,Service,Rel,positive,implicit
+Сервис,Service,Rel,both,explicit
+Кухня,Food,Rel,positive,explicit
+Меню,Food,Rel,positive,explicit
+Салаты,Food,Rel,positive,explicit
+паста,Food,Rel,positive,explicit
+Алкоголь,Food,Rel,positive,explicit
+вкусный,Food,Rel,positive,implicit
+Цены,Price,Rel,positive,explicit
+Терраса,Whole,Rel,positive,explicit
+мест,Whole,Rel,positive,explicit
+официантка,Service,Rel,positive,explicit
+приветливая,Service,Rel,positive,implicit
+ненавязчивая,Service,Rel,positive,implicit
+интерьер,Interior,Rel,positive,explicit
+живая музыка,Interior,Rel,positive,explicit
+Обслуживание,Service,Rel,positive,explicit
+оперативное,Service,Rel,positive,implicit
+ждать 1-2 минуты,Service,Rel,positive,fct
+пиво,Food,Rel,positive,explicit
+обстановка,Interior,Rel,positive,explicit
+уютная,Interior,Rel,positive,implicit
+заведение,Whole,Rel,positive,explicit
+ресторане Duplex,Whole,Rel,neutral,explicit
+ресторан,Whole,Rel,neutral,explicit
+ресторан,Whole,Rel,neutral,explicit
+качество блюд,Food,Rel,neutral,explicit
+интерьер,Interior,Rel,neutral,explicit
+места для наших гостей,Interior,Rel,positive,explicit
+Менеджер,Service,Rel,positive,explicit
+принимал наш заказ,Service,Rel,neutral,explicit
+блюда,Food,Rel,positive,explicit
+вкусными,Food,Rel,positive,implicit
+Стол,Food,Rel,positive,explicit
+зал,Interior,Rel,positive,explicit
+интерьер,Interior,Rel,positive,explicit
+уютный,Interior,Rel,positive,implicit
+едой,Food,Rel,positive,explicit
+сервисом,Service,Rel,positive,explicit
+атмосферой в ресторане,Interior,Rel,positive,explicit
+ресторан,Whole,Irr,neutral,explicit
+Duplex,Whole,Rel,positive,explicit
+ресторане,Whole,Rel,neutral,explicit
+место,Whole,Irr,negative,explicit
+помогли меню составить,Service,Rel,positive,fct
+все уже было готово,Service,Rel,positive,fct
+столы накрыты,Service,Rel,positive,fct
+еда вынесена,Service,Rel,positive,fct
+Кухня,Food,Rel,positive,explicit
+порции большие,Food,Rel,positive,fct
+программа,Interior,Rel,positive,explicit
+живая музыка,Interior,Rel,positive,explicit
+пела,Interior,Rel,positive,explicit
+грузинские танцевальный коллектив,Interior,Rel,positive,explicit
+Зал очень большой,Interior,Rel,positive,fct
+большого пространства,Interior,Rel,positive,fct
+алкоголь можно с собой приносить,Service,Rel,positive,fct
+пробкового сбора нет,Service,Rel,positive,fct
+придем к Вам еще,Whole,Rel,positive,fct
+Паберти,Whole,Rel,neutral,explicit
+Заказывал,Service,Rel,neutral,explicit
+пивоварни,Food,Rel,positive,explicit
+Пиво,Food,Rel,positive,explicit
+свежесваренное пиво,Food,Rel,positive,explicit
+кухня,Food,Rel,positive,explicit
+закуски,Food,Rel,positive,explicit
+горячее,Food,Rel,positive,explicit
+вкусным,Food,Rel,positive,implicit
+стол обслуживали,Service,Rel,positive,explicit
+официантов,Service,Rel,positive,explicit
+блюда и напитки выносились,Service,Rel,positive,explicit
+заменялись на чистое,Service,Rel,positive,fct
+обслуживание,Service,Rel,positive,explicit
+Развлекательная программа ресторана,Interior,Rel,positive,explicit
+потанцевать,Interior,Rel,positive,explicit
+весело,Interior,Rel,positive,implicit
+персоналу Паберти,Service,Rel,positive,explicit
+уютном,Interior,Irr,positive,implicit
+заведении,Whole,Irr,positive,explicit
+кафе,Whole,Rel,positive,explicit
+интерьер,Interior,Rel,positive,explicit
+вкусные,Food,Rel,positive,implicit
+блюда,Food,Rel,positive,explicit
+вода на столе,Service,Rel,positive,fct
+внимательный,Service,Rel,positive,implicit
+гостеприимный,Service,Rel,positive,implicit
+персонал,Service,Rel,positive,explicit
+место,Whole,Rel,positive,explicit
+Mon Petit Cafe,Whole,Rel,positive,explicit
+ресторане &quot;Небо&quot;,Whole,Rel,neutral,explicit
+вкусная,Food,Rel,positive,implicit
+еда,Food,Rel,positive,explicit
+суши,Food,Rel,positive,explicit
+роллы,Food,Rel,positive,explicit
+свинной шашлык,Food,Rel,positive,explicit
+теплый мексиканский салат,Food,Rel,positive,explicit
+не уютно,Interior,Rel,negative,implicit
+не много прохладно,Interior,Rel,negative,fct
+виды из окна,Interior,Rel,positive,fct
+Сервис,Service,Rel,positive,explicit
+встречи гостя,Service,Rel,positive,explicit
+проводов,Service,Rel,positive,explicit
+Персонал,Service,Rel,positive,explicit
+вежливый,Service,Rel,positive,implicit
+официантка,Service,Rel,positive,explicit
+приветливый,Service,Rel,positive,implicit
+вид на залив,Interior,Rel,positive,fct
+интерьер зала,Interior,Rel,positive,explicit
+уюта,Interior,Rel,positive,implicit
+атмосфера,Interior,Rel,positive,explicit
+уютно,Interior,Rel,positive,implicit
+обслуживание,Service,Rel,positive,explicit
+кухни,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+Соотношение цена/качество,Price,Rel,positive,explicit
+Живая музыка,Interior,Rel,positive,explicit
+девушка-певица,Interior,Rel,positive,explicit
+потанцевали,Interior,Rel,positive,explicit
+провели время,Whole,Rel,positive,explicit
+ресторану Браво-Лаудес,Whole,Rel,positive,explicit
+владельцу Майклу,Whole,Rel,positive,explicit
+ресторан,Whole,Rel,positive,explicit
+место,Whole,Rel,positive,explicit
+большом зале,Interior,Rel,positive,explicit
+украшен,Interior,Rel,positive,explicit
+фонтаны из шариков,Interior,Rel,positive,explicit
+потолка,Interior,Rel,positive,explicit
+в красных тонах,Interior,Rel,positive,explicit
+подсветка,Interior,Rel,positive,explicit
+цветы на столе,Interior,Rel,positive,explicit
+украшение,Interior,Rel,positive,explicit
+стульчик,Interior,Rel,positive,explicit
+заказан,Service,Rel,neutral,explicit
+фуршет,Food,Rel,neutral,explicit
+меню,Food,Rel,neutral,explicit
+заказывали,Service,Rel,neutral,explicit
+еды было такое огромное количество,Food,Rel,positive,fct
+еды,Food,Rel,positive,explicit
+вкуснятины,Food,Rel,positive,implicit
+салаты,Food,Rel,positive,explicit
+Персонал,Service,Rel,positive,explicit
+Все делали не заметно,Service,Rel,positive,fct
+ресторан,Whole,Rel,positive,explicit
+местечко,Whole,Rel,neutral,explicit
+выпить пива,Food,Rel,neutral,explicit
+народу всегда много,Interior,Rel,negative,fct
+мест просто нет,Interior,Rel,negative,fct
+столик,Interior,Rel,negative,explicit
+заказываю столик,Service,Rel,neutral,explicit
+заказать обычный столик,Service,Rel,negative,explicit
+пивом,Food,Rel,neutral,explicit
+едой,Food,Rel,neutral,explicit
+Пиво,Food,Rel,positive,explicit
+вайнштефан светлое,Food,Rel,positive,explicit
+Еда,Food,Rel,positive,explicit
+вкусная,Food,Rel,positive,implicit
+порции,Food,Rel,positive,explicit
+Обслуживание,Service,Rel,both,explicit
+официантки,Service,Rel,both,explicit
+официант,Service,Irr,positive,explicit
+приветлив,Service,Irr,positive,implicit
+доброжелателен,Service,Irr,positive,implicit
+место,Whole,Rel,positive,explicit
+Амадеусе,Whole,Rel,neutral,explicit
+ресторану,Whole,Rel,positive,explicit
+уютный,Interior,Rel,positive,implicit
+каминный зал,Interior,Rel,positive,explicit
+декор,Interior,Rel,positive,explicit
+интерьер,Interior,Rel,positive,explicit
+каминный зал,Interior,Rel,positive,explicit
+персонала ресторана,Service,Rel,positive,explicit
+администратором,Service,Rel,positive,explicit
+дружелюбный,Service,Rel,positive,implicit
+внимательный,Service,Rel,positive,implicit
+коллектив официантов,Service,Rel,positive,explicit
+подачи блюд,Service,Rel,positive,explicit
+чистоты на столах,Service,Rel,positive,fct
+персоналом,Service,Rel,positive,explicit
+вежливые,Service,Rel,positive,implicit
+улыбчивые,Service,Rel,positive,implicit
+дружелюбные,Service,Rel,positive,implicit
+кухня,Food,Rel,positive,explicit
+сервировка,Food,Rel,positive,explicit
+подача блюд,Food,Rel,positive,explicit
+вкус блюд,Food,Rel,positive,explicit
+вкусно,Food,Rel,positive,implicit
+не дорого,Price,Rel,positive,implicit
+ресторане,Whole,Rel,neutral,explicit
+администратор,Service,Rel,positive,explicit
+заказав столик,Service,Rel,neutral,explicit
+кафе,Whole,Rel,neutral,explicit
+кафе,Whole,Rel,positive,explicit
+только тебя там и ждали,Whole,Rel,positive,fct
+интерьер,Interior,Rel,positive,explicit
+атмосфера,Interior,Rel,positive,explicit
+атмосфера,Interior,Rel,both,explicit
+кафе,Whole,Rel,positive,explicit
+уютное,Interior,Rel,positive,implicit
+сухарики из собственного вкусного хлеба,Food,Rel,positive,explicit
+блюд,Food,Rel,neutral,explicit
+Пива нет,Food,Rel,both,fct
+посещения,Whole,Rel,positive,explicit
+Музыка фоновая,Interior,Rel,neutral,explicit
+втором зале,Interior,Rel,positive,explicit
+попрохладнее,Interior,Rel,positive,implicit
+Еда,Food,Rel,both,explicit
+Порции,Food,Rel,positive,explicit
+Девушка - официант и кассир в одном лице,Service,Rel,both,explicit
+первом зале,Interior,Rel,neutral,explicit
+не всегда контролировала,Service,Rel,both,fct
+убрать тарелки,Service,Rel,negative,explicit
+Подарили карту соседа,Service,Rel,positive,fct
+Придем еще,Whole,Rel,positive,fct
+ресторан,Whole,Irr,negative,explicit
+ресторан,Whole,Rel,positive,explicit
+Интерьер,Interior,Rel,positive,explicit
+кухня,Food,Rel,positive,explicit
+персонал,Service,Rel,positive,explicit
+мгновенно принесенный заказ,Service,Rel,positive,fct
+заказ,Service,Rel,positive,explicit
+порции,Food,Rel,positive,explicit
+Музыка,Interior,Rel,positive,explicit
+улыбчивая,Service,Rel,positive,implicit
+официантка,Service,Rel,positive,explicit
+салата,Food,Rel,positive,explicit
+рыбу,Food,Rel,positive,explicit
+курицу,Food,Rel,positive,explicit
+свинину,Food,Rel,positive,explicit
+закусывая,Food,Rel,positive,explicit
+ушами,Food,Rel,positive,explicit
+чипсами,Food,Rel,positive,explicit
+запивая,Food,Rel,positive,explicit
+пивом,Food,Rel,positive,explicit
+морсами,Food,Rel,positive,explicit
+соком,Food,Rel,positive,explicit
+отдохнули,Whole,Rel,positive,implicit
+оставив всего 2 с маленьким тысячи на четверых,Price,Rel,positive,fct
+потратить раза два больше,Price,Irr,negative,fct
+в нас у же не лезло,Food,Rel,positive,fct
+ресторан,Whole,Rel,positive,explicit
+кухня,Food,Rel,positive,explicit
+обслуживание,Service,Rel,positive,explicit
+заведение,Whole,Rel,positive,explicit
+живая музыка,Interior,Rel,positive,explicit
+концерте,Interior,Rel,neutral,explicit
+Ребята,Interior,Rel,positive,explicit
+Публика,Interior,Rel,positive,explicit
+отрывалась весь вечер,Interior,Rel,positive,fct
+администрацию бара,Service,Rel,positive,explicit
+обслуживание,Service,Rel,both,explicit
+концерте,Interior,Rel,neutral,explicit
+официантку,Service,Rel,negative,explicit
+пиво,Food,Rel,positive,explicit
+цены,Price,Rel,positive,explicit
+заведения,Whole,Rel,positive,explicit
+пиво,Food,Rel,positive,explicit
+администрации,Service,Rel,positive,explicit
+ресторан,Whole,Rel,positive,explicit
+кафе,Whole,Rel,positive,explicit
+обстановка,Interior,Rel,positive,explicit
+персонал,Service,Rel,positive,explicit
+интерьер,Interior,Rel,positive,explicit
+уютом,Interior,Rel,positive,explicit
+шумный,Interior,Rel,negative,fct
+лифт,Interior,Rel,negative,explicit
+заведение,Whole,Rel,neutral,explicit
+Столик заказали,Service,Rel,neutral,explicit
+свободные столы были,Interior,Rel,positive,fct
+комната для караоке,Interior,Rel,neutral,explicit
+Интерьер,Interior,Rel,positive,explicit
+уютно,Interior,Rel,positive,implicit
+красивая,Interior,Rel,positive,implicit
+мебель,Interior,Rel,positive,explicit
+Меню,Food,Rel,negative,explicit
+цены,Price,Rel,positive,explicit
+Отсутствие некоторых заказанных салатов,Food,Rel,negative,fct
+обслуживающего персонала,Service,Rel,positive,explicit
+обслуживало,Service,Rel,positive,explicit
+персонал,Service,Rel,positive,explicit
+администрация,Service,Rel,neutral,explicit
+салатов,Food,Rel,positive,explicit
+десерты,Food,Rel,negative,explicit
+Жан-Жаке,Whole,Rel,neutral,explicit
+Невский 166,Whole,Irr,neutral,explicit
+Марата,Whole,Rel,neutral,explicit
+стол забронировали,Service,Rel,neutral,explicit
+не встретили,Service,Rel,negative,fct
+администратора,Service,Rel,neutral,explicit
+проводили к столу,Service,Rel,neutral,explicit
+предложили напитки,Service,Rel,neutral,explicit
+молодой человек,Service,Rel,neutral,explicit
+Заказ принял,Service,Rel,positive,explicit
+рыбку,Food,Rel,neutral,explicit
+винишко,Food,Rel,neutral,explicit
+назойливости,Service,Rel,positive,implicit
+официанта,Service,Rel,positive,explicit
+Кухня,Food,Rel,neutral,explicit
+Кухня,Food,Rel,positive,explicit
+готовят,Food,Rel,positive,explicit
+Рыбка,Food,Rel,positive,explicit
+овощи на гриле,Food,Rel,positive,explicit
+хлебная корзина,Food,Rel,positive,explicit
+Корзину,Food,Rel,positive,explicit
+интерьера,Interior,Rel,both,explicit
+тесно,Interior,Rel,negative,implicit
+столы расположены близко друг к другу,Interior,Rel,negative,fct
+слышишь соседние разговоры,Interior,Rel,negative,fct
+визитом,Whole,Rel,positive,explicit
+пабе,Whole,Rel,positive,explicit
+пиво,Food,Rel,positive,explicit
+сырные палочки,Food,Rel,positive,explicit
+обслуживание,Service,Rel,positive,explicit
+ресторане,Whole,Rel,neutral,explicit
+ресторан,Whole,Rel,positive,explicit
+блюда,Food,Rel,negative,explicit
+ягод,Food,Rel,negative,explicit
+фрукта,Food,Rel,negative,explicit
+много специй,Food,Rel,negative,fct
+специй,Food,Rel,negative,explicit
+мясе,Food,Rel,negative,explicit
+доесть,Food,Rel,negative,explicit
+мясо,Food,Rel,positive,explicit
+стейк,Food,Rel,positive,explicit
+стейка,Food,Rel,positive,explicit
+Сочный,Food,Rel,positive,implicit
+мягкий,Food,Rel,positive,implicit
+режется как масло,Food,Rel,positive,fct
+приготовления,Food,Rel,positive,explicit
+мясо полусырое,Food,Rel,positive,explicit
+повара,Food,Rel,positive,explicit
+стейк,Food,Rel,positive,explicit
+блюдо тартар с сырой рыбой и сырым яйцом,Food,Rel,positive,explicit
+Официанты,Service,Rel,positive,explicit
+вежливы,Service,Rel,positive,implicit
+предупредительны,Service,Rel,positive,implicit
+обстановкая,Service,Rel,positive,explicit
+красивая,Interior,Rel,positive,implicit
+ресторан,Whole,Rel,positive,explicit
+ресторан,Whole,Rel,positive,explicit
+обслуживание,Service,Rel,positive,explicit
+официанты,Service,Rel,positive,explicit
+администраторы,Service,Rel,positive,explicit
+стараются помочь,Service,Rel,positive,fct
+охраны,Interior,Rel,neutral,explicit
+избили,Interior,Prev,negative,fct
+ресторане,Whole,Prev,neutral,explicit
+живая музыка,Interior,Rel,positive,fct
+потанцевать,Interior,Rel,positive,explicit
+провести время,Whole,Rel,positive,explicit
+Публика,Interior,Rel,positive,explicit
+цены,Price,Rel,positive,explicit
+пивоварня,Food,Rel,positive,explicit
+пшеничное и ячменное пиво,Food,Rel,positive,explicit
+закуски,Food,Rel,positive,explicit
+вкусная,Food,Cmpr,positive,implicit
+сырная и мясная тарелка,Food,Rel,positive,explicit
+молочные и алкогольные коктейли,Food,Rel,positive,explicit
+заведение,Whole,Rel,positive,explicit
+бронировать,Service,Rel,negative,explicit
+рекомендую посетить,Whole,Rel,positive,fct
+ресторан,Whole,Rel,positive,explicit
