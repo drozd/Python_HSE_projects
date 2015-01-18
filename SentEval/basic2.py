@@ -167,11 +167,15 @@ if __name__ == "__main__":
     #pos_tagged_sentences = postagger.pos_tag(splitted_sentences)
     pos_tagged_sentences = postagger.pos_tag(sentences)
     #pprint(pos_tagged_sentences)
-
-    dict_tagged_sentences_total = dicttagger_total.tag(pos_tagged_sentences)
+    
+    print 'food'
     dict_tagged_sentences_food = dicttagger_food.tag(pos_tagged_sentences)
+    print 'interior'
     dict_tagged_sentences_interior = dicttagger_interior.tag(pos_tagged_sentences)
+    print 'service'
     dict_tagged_sentences_service = dicttagger_service.tag(pos_tagged_sentences)
+    print 'total'
+    dict_tagged_sentences_total = dicttagger_total.tag(pos_tagged_sentences)
     #pprint(dict_tagged_sentences)
 
     print("analyzing sentiment...")
