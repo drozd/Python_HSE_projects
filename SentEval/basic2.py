@@ -24,7 +24,6 @@ class Splitter(object):
         tokenized_sentences = [self.nltk_tokenizer.tokenize(sent) for sent in sentences]
         return tokenized_sentences
 
-
 def mystem(sentence):
     sentence = sentence.strip()
     lemmas = m.lemmatize(sentence)
@@ -86,7 +85,6 @@ class DictionaryTagger(object):
             j = min(i + self.max_key_size, N) #avoid overflow
             tagged = False
             while (j > i):
-                #expression_form = ' '.join([word[0] for word in sentence[i:j]]).lower()
                 expression_lemma = ' '.join([word[0] for word in sentence[i:j]]).lower()
                 if tag_with_lemmas:
                     literal = expression_lemma
@@ -139,6 +137,14 @@ def sentence_score(sentence_tokens, previous_token, acum_score):
 def sentiment_score(review):
     return sum([sentence_score(sentence, None, 0.0) for sentence in review])
 
+def final(score):
+    if score > 0:
+        return "positive"
+    elif score < 0:
+        return "negative"
+    else:
+        return "neutral"
+
 if __name__ == "__main__":
     text = """Отмечали в ресторане Акбаш юбилей мамы. Красивая обстановка, вкусная кухня, доброжелательное отношение персонала, приятная атмосфера сделали наш праздник великолепным. Вся наша семья и гости остались довольны. Особенно хочется отметить то, что в ресторане нет отдельного банкетного меню, которое часто предлагают в других заведениях. Все блюда для банкета можно заказать из обычного меню ресторана. Достойное качество, приемлемые цены. И,конечно, хочется сказать спасибо сотрудникам за приятный сюрприз. Мы заказывали большой праздничный торт, а персонал ресторана(несмотря на то,что мы это даже не обговаривали) внесли этот торт под звуки фанфар, затем музыканты спели песню "С днем рождения!", после чего поздравили именинницу со сцены и спели еще две тематические песни. Спасибо большое было очень приятно и торжественно! Также хочется сказать большое спасибо официантам и отметить их отличную работу! Весь персонал работает четко и слажено. Теперь мы всем знакомым будем советовать этот ресторан и сами с удовольствием будем отмечать в "Акбаш" праздники!!!"""
     text = text.decode('utf-8')
@@ -146,14 +152,12 @@ if __name__ == "__main__":
 
     #splitter = Splitter()
     postagger = POSTagger()
-##    dicttagger = DictionaryTagger([ 'dicts/positive.yml', 'dicts/negative.yml',
-##                                    'dicts/inc.yml', 'dicts/dec.yml', 'dicts/inv.yml'])
-
-    dicttagger_total = DictionaryTagger([ 'dicts/food_positive.yml', 'dicts/food_negative.yml',  'dicts/service_positive.yml', 'dicts/service_negative.yml', 'dicts/interior_positive.yml', 'dicts/interior_negative.yml', 
-                                    'dicts/inc.yml', 'dicts/dec.yml', 'dicts/inv.yml'])
+    dicttagger_total = DictionaryTagger([ 'dicts/food_positive.yml', 'dicts/food_negative.yml',  'dicts/price_positive.yml', 'dicts/price_negative.yml', 'dicts/whole_positive.yml', 'dicts/whole_negative.yml', 'dicts/service_positive.yml', 'dicts/service_negative.yml', 'dicts/interior_positive.yml', 'dicts/interior_negative.yml', 'dicts/inc.yml', 'dicts/dec.yml', 'dicts/inv.yml'])
     dicttagger_food = DictionaryTagger(['dicts/food_positive.yml', 'dicts/food_negative.yml'])
     dicttagger_interior = DictionaryTagger(['dicts/interior_positive.yml', 'dicts/interior_negative.yml'])
     dicttagger_service = DictionaryTagger(['dicts/service_positive.yml', 'dicts/service_negative.yml'])
+    dicttagger_price = DictionaryTagger(['dicts/price_positive.yml', 'dicts/price_negative.yml'])
+    dicttagger_whole = DictionaryTagger(['dicts/whole_positive.yml', 'dicts/whole_negative.yml'])
 
     #splitted_sentences = splitter.split(text)
     splitted_sentences = []
@@ -161,25 +165,27 @@ if __name__ == "__main__":
     for sentence in sentences:
         sentence = sentence.split()
         splitted_sentences.append(sentence)
-        
-    #print splitted_sentences
 
     #pos_tagged_sentences = postagger.pos_tag(splitted_sentences)
     pos_tagged_sentences = postagger.pos_tag(sentences)
-    #pprint(pos_tagged_sentences)
 
     dict_tagged_sentences_total = dicttagger_total.tag(pos_tagged_sentences)
     dict_tagged_sentences_food = dicttagger_food.tag(pos_tagged_sentences)
     dict_tagged_sentences_interior = dicttagger_interior.tag(pos_tagged_sentences)
+    dict_tagged_sentences_price = dicttagger_price.tag(pos_tagged_sentences)
     dict_tagged_sentences_service = dicttagger_service.tag(pos_tagged_sentences)
-    #pprint(dict_tagged_sentences)
+    dict_tagged_sentences_whole = dicttagger_whole.tag(pos_tagged_sentences)
 
     print("analyzing sentiment...")
     score_total = sentiment_score(dict_tagged_sentences_total)
     score_food = sentiment_score(dict_tagged_sentences_food)
     score_interior = sentiment_score(dict_tagged_sentences_interior)
     score_service = sentiment_score(dict_tagged_sentences_service)
-    print "Total: "+str(score_total)
-    print "Food: "+str(score_food)
-    print "Interior: "+str(score_interior)
-    print "Service: "+str(score_service)
+    score_price = sentiment_score(dict_tagged_sentences_price)
+    score_whole = sentiment_score(dict_tagged_sentences_whole)
+    print "Total: "+str(final(score_total))
+    print "Food: "+str(final(score_food))
+    print "Interior: "+str(final(score_interior))
+    print "Service: "+str(final(score_service))
+    print "Price: "+str(final(score_price))
+    print "Whole: "+str(final(score_whole))

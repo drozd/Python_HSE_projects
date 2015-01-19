@@ -42,15 +42,15 @@ for line in text:
 #    u = ''.join(u)
 #    print u.strip().encode('utf-8')+':','['+food[i]+']'
 
-for i in whole:
-    u = mystem(i)
-    u = ''.join(u)
-    print u.strip().encode('utf-8')+':','['+whole[i]+']'
-
-#for i in price:
+#for i in whole:
 #    u = mystem(i)
 #    u = ''.join(u)
-#    print u.strip().encode('utf-8')+':','['+price[i]+']'
+#    print u.strip()+':','['+whole[i]+']'
+
+for i in price:
+    u = mystem(i)
+    u = ''.join(u)
+    print u.strip().encode('utf-8')+':','['+price[i]+']'
 
 #for i in interior:
 #    u = mystem(i)
