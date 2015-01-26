@@ -123,13 +123,13 @@ def final(score):
         return "neutral"
 
 if __name__ == "__main__":
-    text = """Приятное местечко ! :) Понравился звук и сервис в караоке !!!!!
-Кухня , бар на хорошем уровне + твёрдая 4 и цены на хорошем уровне можно поставить даже 5. Внимательный персонал. Спасибо !!!!!!"""
+    text = """На каникулах, когда мы гуляли на Рождественской ярмарке, мы решили зайти перекусить в какое-нибудь уютное местечко. Выбор пал на ресторан сети “Ginza Project”. Как и в других ресторанах этой сети, там было довольно приятно: большое количество баночек - вазочек - тарелочек с разными интересными штуковинами, приглушенный свет, на стенах картины и фотографии - очень и очень мило. Само меню было оформлено в виде школьной тетради с написанными названиями блюд идеально ровным почерком. Единственный минус - в меню отсутствовали фотографии, поэтому нельзя было понять, как выглядит блюдо,чем и с чем его едят. Еще удивило то, что на вид европейский ресторан был на самом деле рестораном кавказской кухни! Это удивило. Еще там была очень странная официанта, которая заставила нас почувствовать себя, мягко скажем, неуютно. Но в целом все понравилось! Конец.
+"""
     text = text.decode('utf-8')
     print text
 
     postagger = POSTagger()
-    dicttagger_total = DictionaryTagger([ 'dicts/food_positive.yml', 'dicts/food_negative.yml',  'dicts/price_positive.yml', 'dicts/price_negative.yml', 'dicts/whole_positive.yml', 'dicts/whole_negative.yml', 'dicts/service_positive.yml', 'dicts/service_negative.yml', 'dicts/interior_positive.yml', 'dicts/interior_negative.yml', 'dicts/inc.yml', 'dicts/dec.yml', 'dicts/inv.yml'])
+    dicttagger_total = DictionaryTagger([ 'dicts/food_positive.yml', 'dicts/food_negative.yml',  'dicts/price_positive.yml', 'dicts/price_negative.yml', 'dicts/whole_positive.yml', 'dicts/whole_negative.yml', 'dicts/service_positive.yml', 'dicts/service_negative.yml', 'dicts/interior_positive.yml', 'dicts/interior_negative.yml', 'dicts/positive.yml', 'dicts/negative.yml', 'dicts/inc.yml', 'dicts/dec.yml', 'dicts/inv.yml'])
     dicttagger_food = DictionaryTagger(['dicts/food_positive.yml', 'dicts/food_negative.yml'])
     dicttagger_interior = DictionaryTagger(['dicts/interior_positive.yml', 'dicts/interior_negative.yml'])
     dicttagger_service = DictionaryTagger(['dicts/service_positive.yml', 'dicts/service_negative.yml'])
