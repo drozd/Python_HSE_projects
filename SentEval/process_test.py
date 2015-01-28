@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/local/python2.7/bin/python2.7
 # coding: utf-8
 import sys
 from xml.dom import minidom
@@ -13,13 +13,13 @@ for review in reviews:
     texts = review.getElementsByTagName("text")
     for text in texts:
 	marks = sentiment(text.childNodes[-1].data)
-
+    
     categories = review.getElementsByTagName("categories")
     for category in categories:
 	cats = category.getElementsByTagName('category')
-	for cat in cats:
+    	for cat in cats:
 	    cat_name = cat.getAttributeNode('name')
-	    cat_sentiment = marks[cat_name.nodeValue.lower()]
-	    cat.setAttribute('sentiment',cat_sentiment)
-
+    	    cat_sentiment = marks[cat_name.nodeValue.lower()]
+    	    cat.setAttribute('sentiment',cat_sentiment)
+        
     print review.toxml(encoding='utf-8')
