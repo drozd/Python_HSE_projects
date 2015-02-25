@@ -1,4 +1,4 @@
-#!/usr/local/python2.7/bin/python2.7
+#!/usr/bin/python
 # coding: utf-8
 import sys
 from xml.dom import minidom
@@ -6,9 +6,14 @@ from analyzer import sentiment
 
 argument = sys.argv[1]
 
+print 'Parsing XML tree...'
 doc = minidom.parse(argument)
 node = doc.documentElement
+print 'Finished parsing.'
 reviews = doc.getElementsByTagName("review")
+print '<?xml version="1.0" ?>'
+print '<reviews>'
+
 for review in reviews:
     texts = review.getElementsByTagName("text")
     for text in texts:
@@ -23,3 +28,4 @@ for review in reviews:
     	    cat.setAttribute('sentiment',cat_sentiment)
         
     print review.toxml(encoding='utf-8')
+print '</reviews>'
