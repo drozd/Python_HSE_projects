@@ -13,8 +13,12 @@ def splitter(text):
         sentences = re.split(r'(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?)\s', text)
         return sentences
 
+sentences = splitter(text)
+
+print("Here are the splitted sentences: \n")
 for s in sentences:
-        print(s)  
+        print(s)
+        print("\n")
 
 """
 Sentences for testing:
@@ -22,6 +26,7 @@ Mr. Smith bought cheapsite.com for 1.5 million dollars, i.e. he paid a lot for i
 Did he mind? Adam Jones Jr. thinks he didn't. In any case, this isn't true...
 Well, with a probability of .9 it isn't.
 """
+
 ##Explanation:
 ##"(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?)\s"
 
