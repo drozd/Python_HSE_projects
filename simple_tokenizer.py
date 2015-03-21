@@ -1,28 +1,46 @@
 import re
 
-def get_words(text):
-#    return list(extract_words(text))
-    r = re.compile('[\W+-]',re.U)
-    return [word for word in r.split(text) if word]
+print("Please, type a text to be tokenized: ")
+text = input()
 
-GROUPING_SPACE_REGEX = re.compile('([^\w_-]|[+])', re.U)
+punct = ['.', '!', '?',',', ':', ';', '"', '»', '”', '«', '“', '„',
+         ')', '(', ']', '[', '>', '<', '$', '%', '№', '#']
+hyphens = ['—','-']
 
-def simple_word_tokenize(text):
+def check_am_pm(token, tokens):
+    if re.match('am|pm|a\.m|p\.m', token):
+            index = tokens.index(token)
+            new_token = tokens[index-1]+" "+token
+            tokens[index-1] = new_token
+            tokens.pop(index)
+
+def check_extra_space(token, tokens):
+    # to avoid misspelling
+    if re.match('(.*\-$)', token):
+            index = tokens.index(token)
+            new_token = token+tokens[index+1]
+            tokens[index] = new_token
+            tokens.pop(index+1)
+
+def get_tokens(text):
     """
-    Split text into tokens. Don't split by hyphen.
+    Tokenize words.
+    We decided to leave punctuation.
     """
-    return [t for t in GROUPING_SPACE_REGEX.split(text)
-            if t and not t.isspace()]
+    tokens = text.split()
+    for token in tokens:
+        check_am_pm(token, tokens)
+        check_extra_space(token, tokens)
+        
+    return tokens
 
-text = """
-Sentences for testing:
-Mr. Smith bought cheapsite.com for 1.5 million dollars, i.e. he paid a lot for it.
-Did he mind? Adam Jones Jr. thinks he didn't. In any case, this isn't true...
-Well, with a probability of .9 it isn't.
-"""
-
-for w in get_words(text):
+print("Here are the tokens: \n")
+for w in get_tokens(text):
     print(w)
+print("Number of tokens: ", + len(get_tokens(text)))
 
-##for w in simple_word_tokenize(text):
-##    print(w)
+
+"""
+Sentence for testing:
+At 21.30 p.m. Mr. Smith bought cheapsite.com for 1.5 million dollars in New- York, i.e. he paid a lot for it. Did he mind? Adam Jones Jr. thinks he didn't. In any case, this isn't true... Well, with a probability of .9 it isn't.
+"""
