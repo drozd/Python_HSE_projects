@@ -4,7 +4,7 @@ print("Please, type a text to be tokenized: ")
 text = input()
 
 def check_am_pm(token, tokens):
-    if re.match('am|pm|a\.m|p\.m', token):
+    if re.match('am|pm|a\.m|p\.m|%', token):
             index = tokens.index(token)
             new_token = tokens[index-1]+" "+token
             tokens[index-1] = new_token
@@ -69,5 +69,5 @@ print("Number of tokens: ", + len(get_tokens(text)))
 
 """
 Sentence for testing:
-тёплое.Ну At 21.30 p.m. Mr. Smith bought cheapsite.com for 10 500 dollars in New -York, i.e. he paid a lot.
+20 % At 21.30 p.m. Mr. Smith bought cheapsite.com for 10 500 dollars in New -York, i.e. he paid a lot.
 """
