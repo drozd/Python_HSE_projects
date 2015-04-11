@@ -3,8 +3,13 @@
 import sys
 from xml.dom import minidom
 from analyzer import sentiment
+#from analyzer_mystem import sentiment
 
 argument = sys.argv[1]
+
+# evaluate the time needed for this code
+import time
+start = time.time()
 
 print 'Parsing XML tree...'
 doc = minidom.parse(argument)
@@ -29,3 +34,5 @@ for review in reviews:
         
     print review.toxml(encoding='utf-8')
 print '</reviews>'
+
+print "it took", time.time() - start, "seconds."
