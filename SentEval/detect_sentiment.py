@@ -3,7 +3,6 @@
 import sys
 from xml.dom import minidom
 from analyzer import sentiment
-#from analyzer_mystem import sentiment
 
 argument = sys.argv[1]
 
