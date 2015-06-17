@@ -12,11 +12,16 @@ if __name__ == '__main__':
     test = pd.read_csv('test.csv', header=0, \
                     delimiter="\t", quoting=3)
 
+    print 'The first review is:'
+    #print train["review_lemmas"][0]
+
+    #raw_input("Press Enter to continue...")
+
     # Initialize an empty list to hold the clean reviews
     clean_train_reviews = []
 
     # Loop over each review; create an index i that goes from 0 to the length
-    # of the review list
+    # of the movie review list
 
     print "Cleaning and parsing the training set movie reviews...\n"
     for i in xrange( 0, len(train["review_lemmas"])):
