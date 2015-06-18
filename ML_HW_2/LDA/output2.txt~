@@ -1,0 +1,64 @@
+http://nbviewer.ipython.org/urls/dl.dropbox.com/s/upx30tfijtlkv9t/Topic%20Modeling%20Demo.ipynb?dl=0
+
+>>>model.most_similar("bad")
+[(u'terrible', 0.6318278312683105), (u'good', 0.5564278960227966), (u'horrible', 0.5050646066665649), (u'awful', 0.5011566281318665), (u'guys', 0.46584445238113403), (u'poor', 0.4473419785499573), (u'guy', 0.42703667283058167), (u'lame', 0.42693251371383667), (u'stupid', 0.41919127106666565), (u'directing', 0.410778671503067)]
+
+>>> model.most_similar("film")
+[(u'movie', 0.7493060827255249), (u'its', 0.49265387654304504), (u'films', 0.48583608865737915), (u'story', 0.47993606328964233), (u'documentary', 0.4691484272480011), (u'it', 0.46036574244499207), (u'picture', 0.45560458302497864), (u'cinema', 0.4031847417354584), (u'movies', 0.3876604437828064), (u'interesting', 0.3841165602207184)]
+
+>>> model.most_similar("cry")
+[(u'laugh', 0.6255849003791809), (u'promise', 0.5931207537651062), (u'cringe', 0.5465556383132935), (u'tears', 0.5406410098075867), (u'smile', 0.5299980044364929), (u'trust', 0.5229451060295105), (u'forgive', 0.5112305879592896), (u'laughing', 0.4953083395957947), (u'angry', 0.4916312098503113), (u'scared', 0.49098363518714905)]
+
+>>> model.most_similar("head")
+[(u'face', 0.5621374249458313), (u'eyes', 0.5320870876312256), (u'knife', 0.5091434717178345), (u'water', 0.5038610100746155), (u'arm', 0.49412527680397034), (u'wall', 0.4837968945503235), (u'down', 0.47189444303512573), (u'floor', 0.47105440497398376), (u'ass', 0.47020483016967773), (u'chair', 0.4700801968574524)]
+
+>>> model.most_similar("fire")
+[(u'fly', 0.6433987617492676), (u'ground', 0.6058977246284485), (u'truck', 0.6048420071601868), (u'water', 0.6022963523864746), (u'boat', 0.5986450910568237), (u'crashes', 0.5925270915031433), (u'smoke', 0.5911367535591125), (u'plane', 0.5893935561180115), (u'bomb', 0.5884658098220825), (u'roof', 0.5884640216827393)]
+
+>>> model.most_similar("computer")
+[(u'cgi', 0.49176710844039917), (u'shadows', 0.4833540618419647), (u'pc', 0.4556034803390503), (u'mm', 0.4545804262161255), (u'alien', 0.4489704668521881), (u'rubber', 0.44873562455177307), (u'predator', 0.44806599617004395), (u'giant', 0.44793933629989624), (u'resembles', 0.4478522837162018), (u'dragons', 0.44725659489631653)]
+
+>>> model.most_similar("work")
+[(u'director', 0.43695440888404846), (u'camera', 0.43637487292289734), (u'look', 0.39091670513153076), (u'direction', 0.3690844774246216), (u'style', 0.3652118742465973), (u'art', 0.3649597764015198), (u'angles', 0.3634795546531677), (u'picture', 0.3600243628025055), (u'works', 0.350769966840744), (u'lighting', 0.34759342670440674)]
+
+>>> model.most_similar("white")
+[(u'black', 0.7580758333206177), (u'cat', 0.5670863389968872), (u'suit', 0.4845406711101532), (u'mask', 0.4530438780784607), (u'color', 0.447675883769989), (u'hair', 0.39542070031166077), (u'dressed', 0.3864729702472687), (u'men', 0.3767213523387909), (u'red', 0.37261080741882324), (u'blue', 0.36352095007896423)]
+
+>>> model.most_similar("june")
+[(u'luis', 0.7610496282577515), (u'march', 0.7396953105926514), (u'porter', 0.7374417185783386), (u'rio', 0.7343744039535522), (u'margaret', 0.7314654588699341), (u'ronald', 0.730996310710907), (u'evans', 0.7309662103652954), (u'carey', 0.7285357713699341), (u'august', 0.7241947054862976), (u'july', 0.7233323454856873)]
+
+>>> model.most_similar("london")
+[(u'berlin', 0.659379780292511), (u'orleans', 0.6593102812767029), (u'california', 0.6580604314804077), (u'dodge', 0.6390387415885925), (u'underworld', 0.6224169731140137), (u'jersey', 0.6219754815101624), (u'coast', 0.6148289442062378), (u'tokyo', 0.6114943027496338), (u'east', 0.6093026995658875), (u'kansas', 0.6072463393211365)]
+
+>>> model.most_similar("poison")
+[(u'defeat', 0.7915276885032654), (u'facility', 0.7870948314666748), (u'phones', 0.7735399007797241), (u'keys', 0.7641350626945496), (u'fishing', 0.7550948858261108), (u'meal', 0.7525871396064758), (u'frozen', 0.7525388598442078), (u'bars', 0.7504619359970093), (u'teams', 0.7502145171165466), (u'cooking', 0.7482122182846069)]
+
+>>> model.doesnt_match("good awesome interesting awful".split())
+'interesting'
+
+>>> model.doesnt_match("comedy drama horror people".split())
+'people'
+
+>>> model.doesnt_match("cat dog bird fantastic".split())
+'fantastic'
+
+>>> model.doesnt_match("see watch sit film".split())
+'film'
+
+>>> model.doesnt_match("apple juice potato cat".split())
+'cat'
+
+>>> model.doesnt_match("mother sport game run".split())
+'sport'
+
+>>> model.doesnt_match("hand tree head leg".split())
+'hand'
+
+>>> model.doesnt_match("review city director actor".split())
+'city'
+
+>>> model.doesnt_match("big right left straigt".split())
+'big'
+
+>>> model.doesnt_match("blue red crazy black".split())
+'crazy'

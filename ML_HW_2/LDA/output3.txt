@@ -1,0 +1,120 @@
+Output of LDA:
+
+>>> dictionary = corpora.Dictionary(texts)
+2015-06-18 11:55:36,600 : INFO : adding document #0 to Dictionary(0 unique tokens: [])
+2015-06-18 11:55:37,020 : INFO : built Dictionary(22113 unique tokens: [u'considered.', u'1,800', u'hanging', u'all-new,', u'canada.']...) from 500 documents (total 251202 corpus positions)
+
+>>> print 'Original: {}'.format(dictionary)
+Original: Dictionary(22113 unique tokens: [u'considered.', u'1,800', u'hanging', u'all-new,', u'canada.']...)
+
+>>> dictionary.filter_extremes(no_below = 5, no_above = 0.5, keep_n=None)
+2015-06-18 11:55:39,207 : INFO : discarding 17532 tokens: [(u'(14-josep', 2), (u'(15-martin', 2), (u'(15-roberto', 2), (u'(17-vladimir', 2), (u'(18-ismael', 2), (u'1-andoni', 2), (u'1-pavel', 2), (u'10-julen', 2), (u'10-patrik', 2), (u'11-alfonso', 2)]...
+2015-06-18 11:55:39,207 : INFO : keeping 4581 tokens which were in no less than 5 and no more than 250 (=50.0%) documents
+2015-06-18 11:55:39,223 : INFO : resulting dictionary: Dictionary(4581 unique tokens: [u'limited', u'425.9', u'paul', u'reform.', u'dynamic']...)
+
+>>> dictionary.save('text.dict')
+2015-06-18 11:56:48,969 : INFO : saving Dictionary object under text.dict, separately None
+
+>>> print 'Filtered: {}'.format(dictionary)
+Filtered: Dictionary(4581 unique tokens: [u'limited', u'425.9', u'paul', u'reform.', u'dynamic']...)
+
+>>> corpora.MmCorpus.serialize('texts.mm', corpus) # store on disc
+2015-06-18 11:59:05,801 : INFO : storing corpus in Matrix Market format to texts.mm
+2015-06-18 11:59:05,801 : INFO : saving sparse matrix to texts.mm
+2015-06-18 11:59:05,802 : INFO : PROGRESS: saving document #0
+2015-06-18 11:59:07,039 : INFO : saved 500x4581 matrix, density=3.971% (90951/2290500)
+2015-06-18 11:59:07,042 : INFO : saving MmCorpus index to texts.mm.index
+
+model = models.ldamodel.LdaModel(corpus, id2word=dictionary,
+...                                  num_topics=10, chunksize=50,
+...                                  update_every=1, passes=2)
+
+>>> print 'Evaluation time: {}'.format((time()-start) / 60)
+Evaluation time: 0.131989963849 
+
+>>> for position in range(10):
+...     for topic in range(1, 6):
+...         print model.show_topic(topic)[position][1].center(20, ' '),
+...     print
+... 
+        bank                share                 bank               internet             british       
+      analyst               could               security             computer              senate       
+      billion               market                site               service             investment     
+      canadian                we                federal             technology              her         
+       stock                chief                credit              software             election      
+       market               group                cable            communication            pound        
+       share                 "we                 court               product             coalition      
+      earnings              there              financial               mci                  into        
+        last                 some                 law                 system              pension       
+        sale                 told              insurance              phone                house   
+        
+print model[some_document]
+[(6, 0.037291876262874481), (7, 0.95271429701311328)]
+
+>>> print 'Perplexity: {}'.format(perplexity(model, corpus))
+Perplexity: 1296.25698151
+
+###########################################################################
+MODEL 2
+
+>>> print 'Evaluation time: {}'.format((time()-start) / 60)
+Evaluation time: 5.54043169816
+>>> print 'Perplexity: {}'.format(perplexity(model2, corpus))
+Perplexity: 516.605275565
+
+>>> for position in range(10):
+...     for topic in range(1, 6):
+...         print model2.show_topic(topic)[position][1].center(20, ' '),
+...     print
+... 
+      foreign                bank                hanson               molson               china        
+        bank              financial             imperial               club                taiwan       
+      westpac              security             analyst                beer               chinese       
+       future                fed               insurance             montreal             beijing       
+       court               congress             tobacco              brewery               island       
+      trading              federal              industry             canada's            taiwanese      
+       market              banking                bank                sport                 into        
+      exchange            insurance              state               selling             president      
+      currency             industry             trading                cos.                direct       
+        tax                 banker                law                canada.                war  
+        
+>>> for position in range(10):
+...     for topic in range(20, 26):
+...         print model2.show_topic(topic)[position][1].center(20, ' '),
+...     print
+... 
+     automotive            toronto               "there                who                  ford                share        
+      interior             canada's                if               executive             detroit               pound        
+       maker              protester               "it                 chief                right                market       
+     instrument            protest               three              company's             football                we         
+    acquisition           government             crown                 you                facility              penny        
+       friday                cut                  u.k.                  we                 board                profit       
+        five               outside                next                going               william               group        
+        car                  city                longer                need               million,             business      
+      johnson              ontario                week                while                 did                dividend      
+        part               commuter              strong             investment             major               fleming   
+#####################################################################################################
+
+MODEL 3
+
+>>> print 'Evaluation time: {}'.format((time()-start) / 60)
+Evaluation time: 4.08318635225
+
+>>> print 'Perplexity: {}'.format(perplexity(model3, corpus))
+Perplexity: 1449.35726182
+
+>>> for position in range(10):
+...     for topic in range(0, 5):
+...         print model3.show_topic(topic)[position][1].center(20, ' '),
+...     print
+... 
+      internet               bank                  gm                analyst                sale        
+        bank               analyst               plant                share                 his         
+      computer              stock                worker               profit               pound        
+        who                 share                 uaw                 first                first        
+     government             market                gm's               service                two         
+        u.s.               billion               strike               market                 we         
+       china               earnings               part                 cost                group        
+       could               canadian              local               billion                who         
+      software             investor               his                  deal                 last        
+        such                profit               truck                 than                czech  
