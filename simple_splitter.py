@@ -4,7 +4,8 @@ print("Please, type a text to be splitted: ")
 text = input()
 
 def splitter(text):
-        """Split Russian text by sentences.
+        """
+        Split Russian text by sentences.
 
         Example:
         >>> splitter("Маша уронила мячик. Мячик уплыл.")
