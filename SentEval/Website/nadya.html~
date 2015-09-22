@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>SentEval home page</title>
+</head>
+<body>
+	<div class="title">
+		<h1>Надя Мотина</h1>
+	</div>
+	<div class="intro">
+			<p>В этом проекте я занимаюсь в основном машинным обучением.</p>
+			<p>Весь результат моей работы можно увидеть в этом <a href="https://github.com/NadyaMotina/Python_HSE_projects/tree/master/SentEval/Machine_learning">репозитории</a> на Гитхабе.</p>
+			<p>Пока удалось реализовать следующие алгоритмы:</p>
+			<ul>
+				<li>Bag of words</li>
+				<li>Word2Vec</li>
+			</ul>
+	</div>
+	<p></p>
+	<p><a href="senteval.html">На главную!</a></p>
+</body>
+</html>
