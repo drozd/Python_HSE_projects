@@ -1,24 +1,65 @@
 <!doctype html>
-<html lang="en">
+<html lang="ru">
 <head>
-	<meta charset="UTF-8">
-	<title>SentEval home page</title>
+	<meta charset="utf-8">
+	<!-- disable iPhone inital scale -->
+	<meta name="viewport" content="width=device-width; initial-scale=1.0">
+	<title>Nadya's personal page</title>
+	<link href="style-nadya.css" rel="stylesheet" type="text/css">
+	<link href="media-queries.css" rel="stylesheet" type="text/css">
 </head>
+
 <body>
-	<div class="title">
-		<h1>Надя Мотина</h1>
-	</div>
-	<div class="intro">
-			<p>В этом проекте я занимаюсь в основном машинным обучением.</p>
-			<p>Весь результат моей работы можно увидеть в этом <a href="https://github.com/NadyaMotina/Python_HSE_projects/tree/master/SentEval/Machine_learning">репозитории</a> на Гитхабе.</p>
-			<p>Пока удалось реализовать следующие алгоритмы:</p>
+<div id="pagewrap">
+
+	<header id="header">
+		<hgroup>
+			<h1 id="site-logo"><a href="#">Machine learning in Sentiment Analysis</a></h1>
+			<h2 id="site-description">Методы машинного обучения в анализе тональности отзывов</h2>
+		</hgroup>
+
+		<nav>
+			<ul id="main-nav" class="clearfix">
+				<li><a href="https://github.com/NadyaMotina/Python_HSE_projects/tree/master/SentEval/Machine_learning">Репозиторий</a></li>
+				<li><a href="T3.html">ТЗ</a> </li>
+				<li><a href="senteval.html">На главную</a></li>
+				<li><a href="http://lurkmore.to/%D0%9D%D1%8F">Ня!</a></li>
+			</ul> 
+		</nav>
+	</header>
+	
+	<div id="content">
+		<article class="post clearfix">
+
+			<header>
+				<h1 class="post-title">О проекте</h1>
+			</header>
+			<p>В этом проекте я занимаюсь в основном машинным обучением.<br>Весь результат моей работы можно увидеть в этом <a href="https://github.com/NadyaMotina/Python_HSE_projects/tree/master/SentEval/Machine_learning">репозитории</a> на Гитхабе.<br>Пока удалось реализовать следующие алгоритмы:</p>
 			<ul>
 				<li>Bag of words</li>
 				<li>Word2Vec</li>
 			</ul>
-			<p>Для машинного обучения в том числе применялись словари, расширенные методом <a href="DinaBootstrapping.html">bootstrapping</a>. В <a href="T3.html">дальнейших задачах</a> мы сосредоточимся на машинном обучении. 
+			<p>Для машинного обучения в том числе применялись словари, расширенные методом <a href="DinaBootstrapping.html">bootstrapping</a>. В <a href="T3.html">дальнейших задачах</a> мы сосредоточимся на машинном обучении.</p>
+			<figure><img src="cat.png"></figure>			
+		
+		</article>
 	</div>
-	<p></p>
-	<p><a href="senteval.html">На главную!</a></p>
+	
+	<aside id="sidebar">
+		<section class="widget">
+			<h4 class="widgettitle">Полезные ссылки</h4>
+			<ul>
+				<li><a href="http://www.geolink-group.com/tourclub/">Горный турклуб МГУ</a></li>
+				<li><a href="http://mmb.progressor.ru/">ММБ!</a></li>
+				<li><a href="http://kvantik.com/">Квантик</a></li>
+			</ul>
+		</section>					
+	</aside>
+
+	<footer id="footer">
+		<p>Website by <a href="mailto:thatdau@gmail.com">Nadya Motina</a> &copy;</p>
+	</footer> 
+	
+</div>
 </body>
 </html>
