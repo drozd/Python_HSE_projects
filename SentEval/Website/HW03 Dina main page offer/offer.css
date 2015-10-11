@@ -1,0 +1,234 @@
+/*browsers: internet explorer, mozilla firefox, google chrom*/
+	
+html {
+	height: 100%;
+}
+
+article, footer, header, nav, section{
+	display: block;
+}
+
+body {
+	height: 100%;
+    font-family: Arial, sans-serif;	
+	}
+
+
+#main{
+	width: 90%;
+	margin: 0px auto;
+	padding: 0px 0px 0px 0px;
+	border: solid thin black;
+	background: lightcyan;
+}
+
+#wrapper{overflow:auto;
+	padding-bottom: 0px;
+	}
+	
+#wrapper {
+	width: 90%;
+	margin: 0px auto;
+	padding: 0px 0px 0px 0px;
+}
+
+/*making footer under the page*/
+.empty {
+height:40px;
+}
+
+#footer {position: relative;
+	margin-top: -40px; 
+	background: ivory;
+	text-align: center;
+	height: 40px;
+	clear:both;} 
+
+/*making footer under the window*/	
+.footerwind{position: fixed;
+    bottom: 0;
+    right: 10%;
+	width: 80%;
+	height: 2.5em;
+	font-weight: 600;
+	font-size: 0.9em;
+	border: 0.1em solid midnightblue; 
+	background: lightcyan;
+	text-align: center;
+   }
+
+/*making header of the page: name and picture*/   
+#blue {
+	color: midnightblue;
+	text-align:center;
+	font-size: 2em;
+}
+	
+#pic{
+	text-align: center;
+	padding-top: 30px;
+	padding-right: 50px;
+	height: 300px;
+	background: url(img2.gif) 7px 0px no-repeat;
+	}
+	
+/*making horizontal navigarion*/
+nav{
+    margin:0;
+    padding-left:0;
+    text-align:center;
+	font-size: 180%;
+	}
+	
+nav li {
+    display: inline-block; 
+    background: yellow;
+    margin-right: 20px; 
+    -webkit-transform: skewX(-20deg); 
+    -moz-transform: skewX(-20deg); 
+    -o-transform: skewX(-20deg); 
+    -ms-transform: skewX(-20deg); 
+    transform: skewX(-20deg); 
+   }
+   
+    nav li a {
+    color: midnightblue; 
+    display: block; 
+    padding: 5px 15px; 
+    text-decoration: none; 
+    -webkit-transform: skewX(20deg); 
+    -moz-transform: skewX(20deg); 
+    -o-transform: skewX(20deg); 
+    -ms-transform: skewX(20deg); 
+    transform: skewX(20deg); 
+	
+   }
+   nav li a:hover {
+    background: darkgray; 
+   }
+
+/*style of headings*/   
+ h2 {
+	 color: red;
+	 font-size: 1.8em;
+ }  
+ 
+/*left column with text*/ 
+#left{
+	width: 70%;
+	padding: 10px 15px 15px 4px;
+	margin: 0px 0px 0px 0px;
+}
+
+/*making forms*/
+form {
+	display: block;
+}
+
+input {
+	width:60%;
+    height:27px;
+    background:white;
+    border:1px solid #dedede;
+    padding:10px;
+    margin-top:3px;
+    font-size:0.9em;
+    color:#3a3a3a;
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+    border-radius:5px;
+}
+
+input:focus {
+    border:1px solid midnightblue;
+}
+
+#submit {
+    width:127px;
+    height:38px;
+    background:gray;
+    border:none;
+    margin-top:20px;
+    cursor:pointer;
+	border: 1px solid black;
+}
+ 
+#submit:hover {
+	opacity:.9;
+}
+
+/*for devices with min-width 600px: adding right column and vertical menu with a sub-menu; the left interval before the menu points is thought-out because I think it looks better*/
+@media screen and (min-width: 600px){
+#right{
+float:right;
+width: 261px;
+margin-right: 7px
+}
+
+.lo { padding: 20px 5px 100px 10px;
+width: 70%;
+}
+
+.menu{
+  margin: 30px 0 30 -35px;
+  width: 180px;
+  list-style: none;
+  cursor: help;
+  }
+
+.menu li{
+	display: block;
+    position: relative;
+    line-height: 50px;
+    background-color: yellow;
+	margin-bottom: 1px;
+	text-align:left;
+	padding: 5px 5px;
+	}
+  
+ .menu li a{
+  font-size: 180%;
+  color: #000;
+  text-decoration: none;
+  }
+  
+ .menu li a:hover {
+    background-color: midnightblue; 
+	color: yellow;
+   }
+   
+.sub-menu{
+  width: 180px;
+  list-style: none;
+}
+
+.sub-menu{
+  width: 180px;
+  position: absolute;
+  right: 0px;
+  top: 0;
+  display: none;
+}
+
+ .sub-menu li{
+  background-color: midnightblue;
+}
+ .sub-menu li a{
+    color: yellow;
+  }
+  
+ .menu li:hover .sub-menu{
+  display: block;
+}
+}
+
+/*for devices with min-width 1900px: making the page more narrow and removing fixed footer from the display because it disturbs*/
+@media screen and (min-width: 1900px){
+	#big{
+		margin: 0px 20%;
+	}
+	#big2{
+		position:fixed;
+		bottom: -10000px;
+	}
+	}

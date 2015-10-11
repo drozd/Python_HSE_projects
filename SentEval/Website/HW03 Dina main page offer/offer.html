@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Index page example</title>
+<meta name="keywords" content="sentiment-analysis, сентимент-анализ, отзывы о ресторанах, найти отзывы о ресторане" />
+<meta name="description" content="Анализ отзывов об указанном ресторане по пяти аспектам: сервис, еда, цена, обстановка, общее впечатление" />
+<link rel="stylesheet" href="offer.css"/>
+
+</head>
+<body>
+    <div id="big"> 
+    <div id="main">
+    <div id="wrapper">
+        <header>
+		    <div id="blue">
+	    	<h1>SentEval: оценка ресторанов на основе отзывов</h1>
+			</div>
+			<div id="pic">
+			</div>
+			<nav>
+			    <ul>
+				    <li><a href="offer.html">Home</a></li>
+				    <li><a href="about.html">О проекте</a></li>
+				    <li><a href="machine.html">Машинное обучение</a></li>
+				    <li><a href="machine.html">Словари и bootstrapping</a></li>
+				</ul>
+		    </nav>
+		</header>
+	    <div class="content">
+		    <section id="right">
+			    <h2>O нас</h2>
+                    <ul class="menu">
+                        <li><a href="#">Участники проекта</a></li>
+                            <li><a href="#">Наше ТЗ</a></li>
+                            <li><a href="#">Что почитать по теме </a>
+						    <ul class="sub-menu">
+                            <li><a href="#">Статьи</a></li>
+		                    <li><a href="#">Проекты по sentiment-analysis</a></li>
+		                     </ul>
+						</li>
+                    </ul>
+                    
+                        <div class="lo">
+						<h2>Наши новости</h2>
+                            <h4>8 октября 2015 года</h4>
+                            <p><a href="#"> Создан первый шаблон главной страницы сайта.</a></p>
+                        </div>
+            </section>
+            <section id="left">
+			        <h2>Выбираете ресторан?</h2>
+                    <article>
+                        <h2>Мы вам поможем!</h2>
+                            <p> У вас есть большая база отзывов о ресторанах, но вам совершенно некогда читать 100500 сообщений? 
+			                Вам нужно сделать статистику по отзывам и отранжировать рестораны? </p>
+		                    <p> На помощь приходит <b>Сентимент анализ (Sentiment Analysis)</b>! 
+			                Теперь можно просто проанализировать текст отзывов об интересующем вас ресторане специальной 
+			                программой, которая выдаст вам оценку по всем аспектам: </p>
+			                <ul>
+				                <li>Насколько адекватны цены в ресторане?</li>
+				                <li>Вкусно ли там кормят?</li>
+				                <li>Приятная ли там обстановка?</li>
+				                <li>Какой уровень обслуживания?</li>
+				                <li>Ну и в целом, ресторан хороший?</li>
+			                    </ul>	
+                    </article>
+                    <article>
+	                    <h2>Три варианта узнать впечатления о ресторане:</h2
+	                        <p>Введите текст отзыва:</p>
+		                    <form name="myForm" action="demo_form.asp" onsubmit="return validateForm()" method="post">
+                            Текст: <input type="text" name="fname">
+                            <input id="submit" type="submit" value="Submit">
+                            </form>
+	                        <p>Скопируйте URL-адрес отзыва:</p>
+		                    <form name="myForm" action="demo_form.asp" onsubmit="return validateForm()" method="post">
+                            URL-адрес: <input type="text" name="fname">
+                            <input id="submit" type="submit" value="Submit">
+                            </form>
+	                        <p>Введите название ресторана:</p>
+		                    <form name="myForm" action="demo_form.asp" onsubmit="return validateForm()" method="post">
+                            Название: <input type="text" name="fname">
+                            <input id="submit" type="submit" value="Submit">
+                            </form>
+                    </article>
+            </section>
+		<div id="big2"	
+		<footer class="footerwind">
+	    <p>А вы уже выбрали, про какой ресторан вы хотите изучить мнения?=)</p>    
+        </footer>	
+        </div> 		
+    </div>
+	<div class="empty">
+	</div>
+	<div id="footer">
+	    <p><b>Copyright &copy; 2015. Веб-сервис создан студентами Высшей школы экономики в рамках учебного проекта.</b></p>
+    </div>	
+	</div>
+	</div>
+</body>	
+</html>
