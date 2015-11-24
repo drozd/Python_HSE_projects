@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% set title='Search from the library %}
+
+{% block main %}
+
+	<div>
+		<form action='{{url_for("search")}}' method="post">
+			<label for='search'>Search:</label>
+			<input name='search' type="text">
+			<input type="submit" name="search" value="GO!">
+		</form>
+	</div>
+	
+    {% if 'search' in request.values %}
+        {% if not result %}
+            <p>Nothing to see here</p>
+        {% else %}
+            <ul>
+                {% for title in result %}
+                    <li><a href="{{url_for('view', filename=id)}}">{{title}}</a></li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+    {% endif %}
+	
+{% endblock %}

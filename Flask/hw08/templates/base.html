@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="{{url_for('static', filename='style.css')}}">
+		<title>Text article</title>
+	</head>
+	<body>
+	<header>
+		<h1>{{title}}</h1>
+		<nav>
+			<ul id="main-nav" class="clearfix">
+			<li><a href="http://127.0.0.1:5000/">Main page</a></li>
+			<li><a href="http://lurkmore.to/%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF_%D0%9A._%D0%94%D0%B8%D0%BA">Who is Philip Dick?</a></li>
+			<li><a href="http://127.0.0.1:5000/search">SEARCH</a></li>
+			</ul> 
+		</nav>
+	</header>
+		
+	{% block main %}
+	<article>
+		Here you can find some text by Philip Dick.
+	</article>
+	{% endblock %}
+	<footer>
+		<p>Copyright &copy; 2015 Nadya Motina</p>
+	</footer>
+	</body>
+</html>

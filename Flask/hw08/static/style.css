@@ -1,0 +1,62 @@
+body {
+	background: url(grey.jpg) repeat-y center top;
+	font: .81em/150% Arial, Helvetica, sans-serif;
+	position: absolute;
+}
+
+a {
+	color: #484848;
+	text-decoration: none;
+	outline: none;
+}
+
+p {
+	margin: 0 0 1.2em;
+	padding: 0;
+	position: inline-block;
+}
+
+ul {
+	padding: 3em;
+}
+
+h1 {
+	line-height: 1.4em;
+	margin: 20px 0 .4em;
+	color: #000;
+	font-size: 3em
+}
+
+#site-logo {
+	top: 10px;
+}
+
+#header {
+	height: 160px;
+}
+
+#footer {
+	color: #ccc;
+	font-size: 85%;
+}
+
+#main-nav {
+	width: 100%;
+	z-index: 100;
+}
+#main-nav li {
+	list-style: none;
+	float: left;
+}
+#main-nav li:first-child {
+	margin-left: 10px;
+}
+#main-nav a {
+	line-height: 100%;
+	font-weight: bold;
+	font-size: 30px;
+	color: #fff;
+	padding: 20px;
+	text-decoration: none;
+	text-shadow: 0 -3px 0 rgba(0,0,0,.5);
+}
