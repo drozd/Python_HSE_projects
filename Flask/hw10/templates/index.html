@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<script
+		src="http://code.jquery.com/jquery-2.1.4.min.js">
+		</script>
+		<script src="{{url_for('static', filename='style_javascript.js')}}">
+		</script>
+		<link rel="stylesheet" href="{{url_for('static', filename='style.css')}}">
+		<title>Philip Dick is the best!</title>
+	</head> 
+	<body>
+		<header id="header">
+		<hgroup>
+			<h1 id="site-logo">Philip Dick's small library</h1>
+		</hgroup>
+
+		<nav>
+			<ul id="main-nav" class="clearfix">
+				<li><a href="">About us</a></li>
+				<li><a href="">Last seen</a></li>
+				<li><a href="">Main page</a></li>
+				<li><a href="http://lurkmore.to/Филип_К._Дик">Who is Philip Dick?</a></li>
+			</ul> 
+		</nav>
+	</header>
+		
+		<ul>
+			{% for textid, text in texts %}
+			<li><a href="{{url_for('article', id=textid)}}">{{text}}</a></li>
+			{% endfor %}
+		</ul>
+		<footer>		
+			<p>Copyright &copy; 2015 Nadya Motina</p> 		
+		</footer>
+	</body>
+</html>
+

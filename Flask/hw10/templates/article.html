@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% set title = title %}
+
+{% block main %}
+	<article>
+		<ul>
+			{% for part in article %}
+			<p>{{part}}</p>
+			{% endfor %}
+		</ul>
+	</article>
+{% endblock %}
