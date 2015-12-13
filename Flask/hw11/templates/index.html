@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+		<link rel="stylesheet"
+			  href="{{url_for('static', filename='bootstrap/css/bootstrap.min.css')}}">
+		
+		<script src="http://code.jquery.com/jquery-2.1.4.min.js">
+		</script>
+		
+		<script src="{{url_for('static', filename='style_javascript.js')}}">
+		</script>
+		
+		<script> 
+			var json_texts = "{{url_for('texts')}}"
+		</script>
+		
+		<script src="{{url_for('static', filename='bootstrap/js/bootstrap.min.js')}}">
+		</script>
+		
+		<script>
+			$(document).ready(function(){
+				$("nav").affix({offset: {top: 100}})
+			})
+		</script>
+		
+		<style>
+			.affix {
+				top: 0px;
+				left: 0px;
+				right: 0px;
+			}
+		</style>
+		
+		<title>Philip Dick is the best!</title>
+	</head> 
+	
+	<body>
+		<header class="container container-fluid">
+			<hgroup>
+				<h1>Philip Dick's small library   <small>for HSE Python class</small></h1>
+			</hgroup>
+
+			<nav class="navbar navbar-default">
+				<ul class="nav navbar-nav">
+					<li role='presentation' class='active'><a href="">Main page</a></li>
+					<li role='presentation'><a href="">Last seen</a></li>
+					<li role='presentation'><a href="">About us</a></li>
+					<li role='presentation'><a href="http://lurkmore.to/Филип_К._Дик">Who is Philip Dick?</a></li>
+				</ul> 
+			</nav>
+		</header>
+		
+		<main class="alert alert-info" role="alert">
+			<a href="#" id="load_more">I want MOAR texts by Philip Dick!!!</a>
+		</main>
+		
+		<footer>		
+			<p>Copyright &copy; 2015 Nadya Motina</p> 		
+		</footer>
+		
+	</body>
+</html>
+

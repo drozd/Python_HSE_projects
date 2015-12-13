@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+		<link rel="stylesheet"
+			  href="{{url_for('static', filename='bootstrap/css/bootstrap.min.css')}}">
+		
+		<script src="http://code.jquery.com/jquery-2.1.4.min.js">
+		</script>
+		
+		<script src="{{url_for('static', filename='style_javascript.js')}}">
+		</script>
+		
+		<script src="{{url_for('static', filename='bootstrap/js/bootstrap.min.js')}}">
+		</script>
+		
+		<title>Text article</title>
+	</head>
+	<body>
+	<header class="container container-fluid">
+		<h1>{{title}}</h1>
+		<nav class="navbar navbar-default">
+			<ul class="nav navbar-nav">
+			<li role='presentation'><a href="#">About us</a></li>
+			<li role='presentation' class='active'><a href="http://127.0.0.1:5000/view/5">Last seen</a></li>
+			<li role='presentation'><a href="http://127.0.0.1:5000/">Main page</a></li>
+			<li role='presentation'><a href="http://lurkmore.to/Филип_К._Дик">Who is Philip Dick?</a></li>
+			</ul> 
+		</nav>
+	</header>
+		
+	{% block main %}
+	<article>
+		Here you can find some text by Philip Dick.
+	</article>
+	
+	{% endblock %}
+	<footer>
+		<p>Copyright &copy; 2015 Nadya Motina</p>
+	</footer>
+	</body>
+</html>
