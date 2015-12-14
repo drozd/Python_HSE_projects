@@ -23,7 +23,7 @@ def texts():
 	texts = []
 	for i in range(len(files)):
 		texts.append(dict(textid=str(i), text=titles[i]))
-	return jsonify(dict(texts=texts[start:amount]))
+	return jsonify(dict(texts=texts[start:(start+amount)]))
 
 @app.route("/view/<int:id>")
 
